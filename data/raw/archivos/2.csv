@@ -1,0 +1,388 @@
+,,,,,,,,,
+,,,,,,,,,
+,Tabla N°:,2 ,,,,,,,
+,Nombre de la tabla:,"Viviendas particulares ocupadas por fuente de abastecimiento de agua, según provincia, área  y forma de recepción del agua en la vivienda",,,,,,,
+,Fuente:,VIII Censo de Población y VII de Vivienda ,,,,,,,
+,Elaboración:,Instituto Nacional de Estadística y Censos (INEC) - Componente de Metodología y Análisis – CPV 2022 ,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Índice,"Povincia, área y forma de recepción del agua en la vivienda",,,Número total de viviendas particulares ocupadas,Fuente de abastecimiento de agua,,,,
+,,,,,Empresa pública/Municipio,Juntas de agua/Organizaciones comunitarias/GAD parroquial,Pozo,Carro o tanquero repartidor,"Otras fuentes (río, vertiente, acequia, canal o grieta o agua lluvia)"
+,,,,,,,,,
+,Total Nacional,Total Nacional,Total Nacional,"5,062,650","3,600,915","660,179","382,437","171,759","247,360"
+,Total Nacional,Total Nacional,"Por tubería, dentro de la vivienda","3,813,280","3,284,251","393,495","87,811","10,588","37,135"
+,Total Nacional,Total Nacional,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","638,165","273,332","235,734","79,658","5,435","44,006"
+,Total Nacional,Total Nacional,"Por tubería, fuera del edificio, lote o terreno","111,479","41,052","30,056","24,463","3,548","12,360"
+,Total Nacional,Total Nacional,"No recibe agua por tubería, sino por otros medios","499,726","2,280",894,"190,505","152,188","153,859"
+,Total Nacional,Urbana,Total Urbana,"3,238,614","2,985,839","54,732","61,234","114,233","22,576"
+,Total Nacional,Urbana,"Por tubería, dentro de la vivienda","2,846,551","2,769,732","38,844","26,898","7,521","3,556"
+,Total Nacional,Urbana,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","215,805","187,601","12,362","10,656","3,189","1,997"
+,Total Nacional,Urbana,"Por tubería, fuera del edificio, lote o terreno","35,131","26,539","3,158","2,223","2,262",949
+,Total Nacional,Urbana,"No recibe agua por tubería, sino por otros medios","141,127","1,967",368,"21,457","101,261","16,074"
+,Total Nacional,Rural,Total Rural,"1,824,036","615,076","605,447","321,203","57,526","224,784"
+,Total Nacional,Rural,"Por tubería, dentro de la vivienda","966,729","514,519","354,651","60,913","3,067","33,579"
+,Total Nacional,Rural,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","422,360","85,731","223,372","69,002","2,246","42,009"
+,Total Nacional,Rural,"Por tubería, fuera del edificio, lote o terreno","76,348","14,513","26,898","22,240","1,286","11,411"
+,Total Nacional,Rural,"No recibe agua por tubería, sino por otros medios","358,599",313,526,"169,048","50,927","137,785"
+,Azuay,Total Azuay,Total Azuay,"242,168","163,452","67,001","1,772",310,"9,633"
+,Azuay,Total Azuay,"Por tubería, dentro de la vivienda","206,683","154,515","48,684",571,67,"2,846"
+,Azuay,Total Azuay,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","27,540","7,981","16,567",581,28,"2,383"
+,Azuay,Total Azuay,"Por tubería, fuera del edificio, lote o terreno","3,129",936,"1,741",67,12,373
+,Azuay,Total Azuay,"No recibe agua por tubería, sino por otros medios","4,816",20,9,553,203,"4,031"
+,Azuay,Urbana,Total Urbana,"131,740","125,607","5,649",89,25,370
+,Azuay,Urbana,"Por tubería, dentro de la vivienda","127,127","121,933","5,024",39,8,123
+,Azuay,Urbana,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","4,005","3,397",552,17,3,36
+,Azuay,Urbana,"Por tubería, fuera del edificio, lote o terreno",359,271,73,2,1,12
+,Azuay,Urbana,"No recibe agua por tubería, sino por otros medios",249,6,,31,13,199
+,Azuay,Rural,Total Rural,"110,428","37,845","61,352","1,683",285,"9,263"
+,Azuay,Rural,"Por tubería, dentro de la vivienda","79,556","32,582","43,660",532,59,"2,723"
+,Azuay,Rural,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","23,535","4,584","16,015",564,25,"2,347"
+,Azuay,Rural,"Por tubería, fuera del edificio, lote o terreno","2,770",665,"1,668",65,11,361
+,Azuay,Rural,"No recibe agua por tubería, sino por otros medios","4,567",14,9,522,190,"3,832"
+,Bolívar,Total Bolívar,Total Bolívar,"60,985","21,414","23,383","3,122",42,"13,024"
+,Bolívar,Total Bolívar,"Por tubería, dentro de la vivienda","33,853","19,295","11,223",354,8,"2,973"
+,Bolívar,Total Bolívar,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","18,727","1,922","10,708","1,085",5,"5,007"
+,Bolívar,Total Bolívar,"Por tubería, fuera del edificio, lote o terreno","3,216",196,"1,444",228,2,"1,346"
+,Bolívar,Total Bolívar,"No recibe agua por tubería, sino por otros medios","5,189",1,8,"1,455",27,"3,698"
+,Bolívar,Urbana,Total Urbana,"20,593","18,274","2,093",54,8,164
+,Bolívar,Urbana,"Por tubería, dentro de la vivienda","18,543","16,928","1,564",14,1,36
+,Bolívar,Urbana,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","1,753","1,232",491,8,1,21
+,Bolívar,Urbana,"Por tubería, fuera del edificio, lote o terreno",159,114,38,5,,2
+,Bolívar,Urbana,"No recibe agua por tubería, sino por otros medios",138,,,27,6,105
+,Bolívar,Rural,Total Rural,"40,392","3,140","21,290","3,068",34,"12,860"
+,Bolívar,Rural,"Por tubería, dentro de la vivienda","15,310","2,367","9,659",340,7,"2,937"
+,Bolívar,Rural,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","16,974",690,"10,217","1,077",4,"4,986"
+,Bolívar,Rural,"Por tubería, fuera del edificio, lote o terreno","3,057",82,"1,406",223,2,"1,344"
+,Bolívar,Rural,"No recibe agua por tubería, sino por otros medios","5,051",1,8,"1,428",21,"3,593"
+,Cañar,Total Cañar,Total Cañar,"67,954","29,974","29,619","4,208",98,"4,055"
+,Cañar,Total Cañar,"Por tubería, dentro de la vivienda","52,899","28,220","21,954","1,859",25,841
+,Cañar,Total Cañar,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","10,188","1,514","6,673","1,114",12,875
+,Cañar,Total Cañar,"Por tubería, fuera del edificio, lote o terreno","1,728",239,989,179,1,320
+,Cañar,Total Cañar,"No recibe agua por tubería, sino por otros medios","3,139",1,3,"1,056",60,"2,019"
+,Cañar,Urbana,Total Urbana,"30,114","25,668","2,500","1,677",23,246
+,Cañar,Urbana,"Por tubería, dentro de la vivienda","27,853","24,463","2,280","1,081",3,26
+,Cañar,Urbana,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","1,489","1,070",183,220,5,11
+,Cañar,Urbana,"Por tubería, fuera del edificio, lote o terreno",222,135,37,40,1,9
+,Cañar,Urbana,"No recibe agua por tubería, sino por otros medios",550,,,336,14,200
+,Cañar,Rural,Total Rural,"37,840","4,306","27,119","2,531",75,"3,809"
+,Cañar,Rural,"Por tubería, dentro de la vivienda","25,046","3,757","19,674",778,22,815
+,Cañar,Rural,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","8,699",444,"6,490",894,7,864
+,Cañar,Rural,"Por tubería, fuera del edificio, lote o terreno","1,506",104,952,139,,311
+,Cañar,Rural,"No recibe agua por tubería, sino por otros medios","2,589",1,3,720,46,"1,819"
+,Carchi,Total Carchi,Total Carchi,"51,160","28,854","19,201",253,44,"2,808"
+,Carchi,Total Carchi,"Por tubería, dentro de la vivienda","40,073","26,872","12,413",59,9,720
+,Carchi,Total Carchi,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","8,920","1,859","6,168",77,4,812
+,Carchi,Total Carchi,"Por tubería, fuera del edificio, lote o terreno","1,024",122,619,32,,251
+,Carchi,Total Carchi,"No recibe agua por tubería, sino por otros medios","1,143",1,1,85,31,"1,025"
+,Carchi,Urbana,Total Urbana,"26,322","25,931",327,10,2,52
+,Carchi,Urbana,"Por tubería, dentro de la vivienda","24,746","24,508",225,5,2,6
+,Carchi,Urbana,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","1,450","1,354",93,1,,2
+,Carchi,Urbana,"Por tubería, fuera del edificio, lote o terreno",82,69,9,2,,2
+,Carchi,Urbana,"No recibe agua por tubería, sino por otros medios",44,,,2,,42
+,Carchi,Rural,Total Rural,"24,838","2,923","18,874",243,42,"2,756"
+,Carchi,Rural,"Por tubería, dentro de la vivienda","15,327","2,364","12,188",54,7,714
+,Carchi,Rural,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","7,470",505,"6,075",76,4,810
+,Carchi,Rural,"Por tubería, fuera del edificio, lote o terreno",942,53,610,30,,249
+,Carchi,Rural,"No recibe agua por tubería, sino por otros medios","1,099",1,1,83,31,983
+,Cotopaxi,Total Cotopaxi,Total Cotopaxi,"135,068","54,779","64,394","3,652",395,"11,848"
+,Cotopaxi,Total Cotopaxi,"Por tubería, dentro de la vivienda","85,579","47,991","34,853",834,41,"1,860"
+,Cotopaxi,Total Cotopaxi,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","37,957","6,101","26,750","1,030",43,"4,033"
+,Cotopaxi,Total Cotopaxi,"Por tubería, fuera del edificio, lote o terreno","4,804",686,"2,784",365,11,958
+,Cotopaxi,Total Cotopaxi,"No recibe agua por tubería, sino por otros medios","6,728",1,7,"1,423",300,"4,997"
+,Cotopaxi,Urbana,Total Urbana,"47,919","45,206","1,852",391,113,357
+,Cotopaxi,Urbana,"Por tubería, dentro de la vivienda","42,782","41,029","1,447",196,5,105
+,Cotopaxi,Urbana,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","4,203","3,677",350,85,15,76
+,Cotopaxi,Urbana,"Por tubería, fuera del edificio, lote o terreno",578,499,53,11,4,11
+,Cotopaxi,Urbana,"No recibe agua por tubería, sino por otros medios",356,1,2,99,89,165
+,Cotopaxi,Rural,Total Rural,"87,149","9,573","62,542","3,261",282,"11,491"
+,Cotopaxi,Rural,"Por tubería, dentro de la vivienda","42,797","6,962","33,406",638,36,"1,755"
+,Cotopaxi,Rural,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","33,754","2,424","26,400",945,28,"3,957"
+,Cotopaxi,Rural,"Por tubería, fuera del edificio, lote o terreno","4,226",187,"2,731",354,7,947
+,Cotopaxi,Rural,"No recibe agua por tubería, sino por otros medios","6,372",,5,"1,324",211,"4,832"
+,Chimborazo,Total Chimborazo,Total Chimborazo,"144,869","76,957","55,535","1,713",929,"9,735"
+,Chimborazo,Total Chimborazo,"Por tubería, dentro de la vivienda","97,730","72,263","22,584",464,170,"2,249"
+,Chimborazo,Total Chimborazo,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","37,896","4,303","29,203",664,102,"3,624"
+,Chimborazo,Total Chimborazo,"Por tubería, fuera del edificio, lote o terreno","5,046",388,"3,745",117,26,770
+,Chimborazo,Total Chimborazo,"No recibe agua por tubería, sino por otros medios","4,197",3,3,468,631,"3,092"
+,Chimborazo,Urbana,Total Urbana,"71,406","68,829","1,852",253,142,330
+,Chimborazo,Urbana,"Por tubería, dentro de la vivienda","67,688","65,862","1,491",196,33,106
+,Chimborazo,Urbana,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","3,180","2,793",300,30,19,38
+,Chimborazo,Urbana,"Por tubería, fuera del edificio, lote o terreno",258,171,61,7,4,15
+,Chimborazo,Urbana,"No recibe agua por tubería, sino por otros medios",280,3,,20,86,171
+,Chimborazo,Rural,Total Rural,"73,463","8,128","53,683","1,460",787,"9,405"
+,Chimborazo,Rural,"Por tubería, dentro de la vivienda","30,042","6,401","21,093",268,137,"2,143"
+,Chimborazo,Rural,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","34,716","1,510","28,903",634,83,"3,586"
+,Chimborazo,Rural,"Por tubería, fuera del edificio, lote o terreno","4,788",217,"3,684",110,22,755
+,Chimborazo,Rural,"No recibe agua por tubería, sino por otros medios","3,917",,3,448,545,"2,921"
+,El Oro,Total El Oro,Total El Oro,"216,642","177,467","18,360","10,016","2,703","8,096"
+,El Oro,Total El Oro,"Por tubería, dentro de la vivienda","179,624","155,111","14,437","5,499",328,"4,249"
+,El Oro,Total El Oro,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","27,721","20,383","3,400","2,325",274,"1,339"
+,El Oro,Total El Oro,"Por tubería, fuera del edificio, lote o terreno","3,612","1,890",511,485,110,616
+,El Oro,Total El Oro,"No recibe agua por tubería, sino por otros medios","5,685",83,12,"1,707","1,991","1,892"
+,El Oro,Urbana,Total Urbana,"170,478","161,635","1,024","4,764","1,824","1,231"
+,El Oro,Urbana,"Por tubería, dentro de la vivienda","146,389","142,510",645,"2,698",246,290
+,El Oro,Urbana,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","19,033","17,480",289,970,181,113
+,El Oro,Urbana,"Por tubería, fuera del edificio, lote o terreno","2,014","1,583",87,183,88,73
+,El Oro,Urbana,"No recibe agua por tubería, sino por otros medios","3,042",62,3,913,"1,309",755
+,El Oro,Rural,Total Rural,"46,164","15,832","17,336","5,252",879,"6,865"
+,El Oro,Rural,"Por tubería, dentro de la vivienda","33,235","12,601","13,792","2,801",82,"3,959"
+,El Oro,Rural,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","8,688","2,903","3,111","1,355",93,"1,226"
+,El Oro,Rural,"Por tubería, fuera del edificio, lote o terreno","1,598",307,424,302,22,543
+,El Oro,Rural,"No recibe agua por tubería, sino por otros medios","2,643",21,9,794,682,"1,137"
+,Esmeraldas,Total Esmeraldas,Total Esmeraldas,"159,710","85,866","15,116","25,086","6,965","26,677"
+,Esmeraldas,Total Esmeraldas,"Por tubería, dentro de la vivienda","80,738","68,099","8,582","3,071",228,758
+,Esmeraldas,Total Esmeraldas,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","23,579","13,860","5,533","2,682",292,"1,212"
+,Esmeraldas,Total Esmeraldas,"Por tubería, fuera del edificio, lote o terreno","6,598","3,831",968,"1,127",190,482
+,Esmeraldas,Total Esmeraldas,"No recibe agua por tubería, sino por otros medios","48,795",76,33,"18,206","6,255","24,225"
+,Esmeraldas,Urbana,Total Urbana,"71,593","65,020",699,"2,033","1,715","2,126"
+,Esmeraldas,Urbana,"Por tubería, dentro de la vivienda","55,646","54,408",387,623,126,102
+,Esmeraldas,Urbana,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","8,940","8,286",245,214,121,74
+,Esmeraldas,Urbana,"Por tubería, fuera del edificio, lote o terreno","2,631","2,279",66,114,100,72
+,Esmeraldas,Urbana,"No recibe agua por tubería, sino por otros medios","4,376",47,1,"1,082","1,368","1,878"
+,Esmeraldas,Rural,Total Rural,"88,117","20,846","14,417","23,053","5,250","24,551"
+,Esmeraldas,Rural,"Por tubería, dentro de la vivienda","25,092","13,691","8,195","2,448",102,656
+,Esmeraldas,Rural,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","14,639","5,574","5,288","2,468",171,"1,138"
+,Esmeraldas,Rural,"Por tubería, fuera del edificio, lote o terreno","3,967","1,552",902,"1,013",90,410
+,Esmeraldas,Rural,"No recibe agua por tubería, sino por otros medios","44,419",29,32,"17,124","4,887","22,347"
+,Guayas,Total Guayas,Total Guayas,"1,289,733","1,044,766","43,416","85,409","93,487","22,655"
+,Guayas,Total Guayas,"Por tubería, dentro de la vivienda","1,019,603","969,447","25,350","19,835","3,266","1,705"
+,Guayas,Total Guayas,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","98,789","62,185","14,358","19,354","1,584","1,308"
+,Guayas,Total Guayas,"Por tubería, fuera del edificio, lote o terreno","25,881","11,898","3,259","8,524","1,478",722
+,Guayas,Total Guayas,"No recibe agua por tubería, sino por otros medios","145,460","1,236",449,"37,696","87,159","18,920"
+,Guayas,Urbana,Total Urbana,"1,094,731","993,375","10,339","7,933","77,121","5,963"
+,Guayas,Urbana,"Por tubería, dentro de la vivienda","944,000","931,528","5,851","3,095","2,801",725
+,Guayas,Urbana,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","57,640","51,675","2,801","1,590","1,210",364
+,Guayas,Urbana,"Por tubería, fuera del edificio, lote o terreno","12,294","9,045","1,421",534,"1,085",209
+,Guayas,Urbana,"No recibe agua por tubería, sino por otros medios","80,797","1,127",266,"2,714","72,025","4,665"
+,Guayas,Rural,Total Rural,"195,002","51,391","33,077","77,476","16,366","16,692"
+,Guayas,Rural,"Por tubería, dentro de la vivienda","75,603","37,919","19,499","16,740",465,980
+,Guayas,Rural,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","41,149","10,510","11,557","17,764",374,944
+,Guayas,Rural,"Por tubería, fuera del edificio, lote o terreno","13,587","2,853","1,838","7,990",393,513
+,Guayas,Rural,"No recibe agua por tubería, sino por otros medios","64,663",109,183,"34,982","15,134","14,255"
+,Imbabura,Total Imbabura,Total Imbabura,"136,070","101,191","28,659","1,712",132,"4,376"
+,Imbabura,Total Imbabura,"Por tubería, dentro de la vivienda","107,801","91,427","14,474",724,19,"1,157"
+,Imbabura,Total Imbabura,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","24,080","8,999","13,304",441,16,"1,320"
+,Imbabura,Total Imbabura,"Por tubería, fuera del edificio, lote o terreno","2,131",762,877,39,3,450
+,Imbabura,Total Imbabura,"No recibe agua por tubería, sino por otros medios","2,058",3,4,508,94,"1,449"
+,Imbabura,Urbana,Total Urbana,"74,703","72,636","1,778",52,42,195
+,Imbabura,Urbana,"Por tubería, dentro de la vivienda","70,219","68,968","1,178",23,4,46
+,Imbabura,Urbana,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","4,001","3,416",550,19,2,14
+,Imbabura,Urbana,"Por tubería, fuera del edificio, lote o terreno",311,250,49,2,1,9
+,Imbabura,Urbana,"No recibe agua por tubería, sino por otros medios",172,2,1,8,35,126
+,Imbabura,Rural,Total Rural,"61,367","28,555","26,881","1,660",90,"4,181"
+,Imbabura,Rural,"Por tubería, dentro de la vivienda","37,582","22,459","13,296",701,15,"1,111"
+,Imbabura,Rural,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","20,079","5,583","12,754",422,14,"1,306"
+,Imbabura,Rural,"Por tubería, fuera del edificio, lote o terreno","1,820",512,828,37,2,441
+,Imbabura,Rural,"No recibe agua por tubería, sino por otros medios","1,886",1,3,500,59,"1,323"
+,Loja,Total Loja,Total Loja,"143,741","90,030","36,996","2,462",305,"13,948"
+,Loja,Total Loja,"Por tubería, dentro de la vivienda","106,910","83,064","19,793",572,41,"3,440"
+,Loja,Total Loja,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","29,306","6,506","16,128","1,034",40,"5,598"
+,Loja,Total Loja,"Por tubería, fuera del edificio, lote o terreno","2,626",452,"1,070",195,10,899
+,Loja,Total Loja,"No recibe agua por tubería, sino por otros medios","4,899",8,5,661,214,"4,011"
+,Loja,Urbana,Total Urbana,"86,536","82,725","2,828",199,81,703
+,Loja,Urbana,"Por tubería, dentro de la vivienda","79,641","77,533","1,858",69,14,167
+,Loja,Urbana,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","5,938","4,851",866,36,8,177
+,Loja,Urbana,"Por tubería, fuera del edificio, lote o terreno",485,335,104,10,2,34
+,Loja,Urbana,"No recibe agua por tubería, sino por otros medios",472,6,,84,57,325
+,Loja,Rural,Total Rural,"57,205","7,305","34,168","2,263",224,"13,245"
+,Loja,Rural,"Por tubería, dentro de la vivienda","27,269","5,531","17,935",503,27,"3,273"
+,Loja,Rural,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","23,368","1,655","15,262",998,32,"5,421"
+,Loja,Rural,"Por tubería, fuera del edificio, lote o terreno","2,141",117,966,185,8,865
+,Loja,Rural,"No recibe agua por tubería, sino por otros medios","4,427",2,5,577,157,"3,686"
+,Los Ríos,Total Los Ríos,Total Los Ríos,"275,131","148,223","28,011","87,451",443,"11,003"
+,Los Ríos,Total Los Ríos,"Por tubería, dentro de la vivienda","159,579","124,553","14,776","19,320",56,874
+,Los Ríos,Total Los Ríos,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","54,547","19,801","10,788","21,927",31,"2,000"
+,Los Ríos,Total Los Ríos,"Por tubería, fuera del edificio, lote o terreno","13,222","3,673","2,324","6,559",45,621
+,Los Ríos,Total Los Ríos,"No recibe agua por tubería, sino por otros medios","47,783",196,123,"39,645",311,"7,508"
+,Los Ríos,Urbana,Total Urbana,"147,425","126,011","2,372","17,289",216,"1,537"
+,Los Ríos,Urbana,"Por tubería, dentro de la vivienda","117,458","108,263","1,396","7,604",39,156
+,Los Ríos,Urbana,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","19,242","14,908",792,"3,413",16,113
+,Los Ríos,Urbana,"Por tubería, fuera del edificio, lote o terreno","3,482","2,671",174,560,22,55
+,Los Ríos,Urbana,"No recibe agua por tubería, sino por otros medios","7,243",169,10,"5,712",139,"1,213"
+,Los Ríos,Rural,Total Rural,"127,706","22,212","25,639","70,162",227,"9,466"
+,Los Ríos,Rural,"Por tubería, dentro de la vivienda","42,121","16,290","13,380","11,716",17,718
+,Los Ríos,Rural,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","35,305","4,893","9,996","18,514",15,"1,887"
+,Los Ríos,Rural,"Por tubería, fuera del edificio, lote o terreno","9,740","1,002","2,150","5,999",23,566
+,Los Ríos,Rural,"No recibe agua por tubería, sino por otros medios","40,540",27,113,"33,933",172,"6,295"
+,Manabí,Total Manabí,Total Manabí,"468,744","254,718","31,736","90,839","57,107","34,344"
+,Manabí,Total Manabí,"Por tubería, dentro de la vivienda","252,188","212,056","16,264","17,080","4,882","1,906"
+,Manabí,Total Manabí,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","70,551","35,798","12,693","16,537","2,240","3,283"
+,Manabí,Total Manabí,"Por tubería, fuera del edificio, lote o terreno","17,601","6,626","2,703","4,909","1,297","2,066"
+,Manabí,Total Manabí,"No recibe agua por tubería, sino por otros medios","128,404",238,76,"52,313","48,688","27,089"
+,Manabí,Urbana,Total Urbana,"268,338","222,867","4,970","8,635","28,870","2,996"
+,Manabí,Urbana,"Por tubería, dentro de la vivienda","202,924","192,669","2,134","4,338","3,555",228
+,Manabí,Urbana,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","30,934","25,544","2,335","1,467","1,358",230
+,Manabí,Urbana,"Por tubería, fuera del edificio, lote o terreno","6,208","4,446",476,350,786,150
+,Manabí,Urbana,"No recibe agua por tubería, sino por otros medios","28,272",208,25,"2,480","23,171","2,388"
+,Manabí,Rural,Total Rural,"200,406","31,851","26,766","82,204","28,237","31,348"
+,Manabí,Rural,"Por tubería, dentro de la vivienda","49,264","19,387","14,130","12,742","1,327","1,678"
+,Manabí,Rural,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","39,617","10,254","10,358","15,070",882,"3,053"
+,Manabí,Rural,"Por tubería, fuera del edificio, lote o terreno","11,393","2,180","2,227","4,559",511,"1,916"
+,Manabí,Rural,"No recibe agua por tubería, sino por otros medios","100,132",30,51,"49,833","25,517","24,701"
+,Morona Santiago,Total Morona Santiago,Total Morona Santiago,"51,588","24,132","11,803","3,203",48,"12,402"
+,Morona Santiago,Total Morona Santiago,"Por tubería, dentro de la vivienda","26,210","19,884","4,940",263,9,"1,114"
+,Morona Santiago,Total Morona Santiago,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","12,644","3,817","6,106",461,15,"2,245"
+,Morona Santiago,Total Morona Santiago,"Por tubería, fuera del edificio, lote o terreno","1,634",428,756,64,6,380
+,Morona Santiago,Total Morona Santiago,"No recibe agua por tubería, sino por otros medios","11,100",3,1,"2,415",18,"8,663"
+,Morona Santiago,Urbana,Total Urbana,"19,855","19,063",358,66,8,360
+,Morona Santiago,Urbana,"Por tubería, dentro de la vivienda","17,418","17,006",261,15,3,133
+,Morona Santiago,Urbana,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","2,074","1,924",77,16,,57
+,Morona Santiago,Urbana,"Por tubería, fuera del edificio, lote o terreno",170,131,20,4,1,14
+,Morona Santiago,Urbana,"No recibe agua por tubería, sino por otros medios",193,2,,31,4,156
+,Morona Santiago,Rural,Total Rural,"31,733","5,069","11,445","3,137",40,"12,042"
+,Morona Santiago,Rural,"Por tubería, dentro de la vivienda","8,792","2,878","4,679",248,6,981
+,Morona Santiago,Rural,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","10,570","1,893","6,029",445,15,"2,188"
+,Morona Santiago,Rural,"Por tubería, fuera del edificio, lote o terreno","1,464",297,736,60,5,366
+,Morona Santiago,Rural,"No recibe agua por tubería, sino por otros medios","10,907",1,1,"2,384",14,"8,507"
+,Napo,Total Napo,Total Napo,"33,997","18,293","8,105",548,168,"6,883"
+,Napo,Total Napo,"Por tubería, dentro de la vivienda","19,730","15,384","3,125",120,20,"1,081"
+,Napo,Total Napo,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","8,563","2,673","4,592",163,7,"1,128"
+,Napo,Total Napo,"Por tubería, fuera del edificio, lote o terreno",941,233,381,36,1,290
+,Napo,Total Napo,"No recibe agua por tubería, sino por otros medios","4,763",3,7,229,140,"4,384"
+,Napo,Urbana,Total Urbana,"13,909","13,450",166,49,40,204
+,Napo,Urbana,"Por tubería, dentro de la vivienda","12,204","12,030",108,16,3,47
+,Napo,Urbana,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","1,388","1,307",44,13,,24
+,Napo,Urbana,"Por tubería, fuera del edificio, lote o terreno",139,111,14,2,1,11
+,Napo,Urbana,"No recibe agua por tubería, sino por otros medios",178,2,,18,36,122
+,Napo,Rural,Total Rural,"20,088","4,843","7,939",499,128,"6,679"
+,Napo,Rural,"Por tubería, dentro de la vivienda","7,526","3,354","3,017",104,17,"1,034"
+,Napo,Rural,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","7,175","1,366","4,548",150,7,"1,104"
+,Napo,Rural,"Por tubería, fuera del edificio, lote o terreno",802,122,367,34,,279
+,Napo,Rural,"No recibe agua por tubería, sino por otros medios","4,585",1,7,211,104,"4,262"
+,Pastaza,Total Pastaza,Total Pastaza,"30,714","19,290","4,347",568,61,"6,448"
+,Pastaza,Total Pastaza,"Por tubería, dentro de la vivienda","19,950","17,002","2,407",64,9,468
+,Pastaza,Total Pastaza,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","4,694","2,118","1,691",150,4,731
+,Pastaza,Total Pastaza,"Por tubería, fuera del edificio, lote o terreno",532,168,236,35,3,90
+,Pastaza,Total Pastaza,"No recibe agua por tubería, sino por otros medios","5,538",2,13,319,45,"5,159"
+,Pastaza,Urbana,Total Urbana,"12,026","11,740",81,13,8,184
+,Pastaza,Urbana,"Por tubería, dentro de la vivienda","10,869","10,769",61,4,3,32
+,Pastaza,Urbana,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno",950,913,17,3,1,16
+,Pastaza,Urbana,"Por tubería, fuera del edificio, lote o terreno",70,58,3,,,9
+,Pastaza,Urbana,"No recibe agua por tubería, sino por otros medios",137,,,6,4,127
+,Pastaza,Rural,Total Rural,"18,688","7,550","4,266",555,53,"6,264"
+,Pastaza,Rural,"Por tubería, dentro de la vivienda","9,081","6,233","2,346",60,6,436
+,Pastaza,Rural,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","3,744","1,205","1,674",147,3,715
+,Pastaza,Rural,"Por tubería, fuera del edificio, lote o terreno",462,110,233,35,3,81
+,Pastaza,Rural,"No recibe agua por tubería, sino por otros medios","5,401",2,13,313,41,"5,032"
+,Pichincha,Total Pichincha,Total Pichincha,"983,801","902,596","63,289","5,918","1,669","10,329"
+,Pichincha,Total Pichincha,"Por tubería, dentro de la vivienda","917,872","862,814","47,733","3,325",393,"3,607"
+,Pichincha,Total Pichincha,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","54,402","36,688","14,329","1,219",190,"1,976"
+,Pichincha,Total Pichincha,"Por tubería, fuera del edificio, lote o terreno","4,957","2,991","1,205",159,112,490
+,Pichincha,Total Pichincha,"No recibe agua por tubería, sino por otros medios","6,570",103,22,"1,215",974,"4,256"
+,Pichincha,Urbana,Total Urbana,"641,680","631,738","7,258",810,221,"1,653"
+,Pichincha,Urbana,"Por tubería, dentro de la vivienda","616,252","609,057","6,040",554,68,533
+,Pichincha,Urbana,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","22,701","21,254","1,071",91,19,266
+,Pichincha,Urbana,"Por tubería, fuera del edificio, lote o terreno","1,644","1,371",146,27,11,89
+,Pichincha,Urbana,"No recibe agua por tubería, sino por otros medios","1,083",56,1,138,123,765
+,Pichincha,Rural,Total Rural,"342,121","270,858","56,031","5,108","1,448","8,676"
+,Pichincha,Rural,"Por tubería, dentro de la vivienda","301,620","253,757","41,693","2,771",325,"3,074"
+,Pichincha,Rural,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","31,701","15,434","13,258","1,128",171,"1,710"
+,Pichincha,Rural,"Por tubería, fuera del edificio, lote o terreno","3,313","1,620","1,059",132,101,401
+,Pichincha,Rural,"No recibe agua por tubería, sino por otros medios","5,487",47,21,"1,077",851,"3,491"
+,Tungurahua,Total Tungurahua,Total Tungurahua,"172,555","108,694","58,917",286,284,"4,374"
+,Tungurahua,Total Tungurahua,"Por tubería, dentro de la vivienda","131,401","96,921","33,690",72,38,680
+,Tungurahua,Total Tungurahua,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","34,943","10,907","23,180",122,32,702
+,Tungurahua,Total Tungurahua,"Por tubería, fuera del edificio, lote o terreno","3,094",862,"2,046",12,2,172
+,Tungurahua,Total Tungurahua,"No recibe agua por tubería, sino por otros medios","3,117",4,1,80,212,"2,820"
+,Tungurahua,Urbana,Total Urbana,"71,579","70,302","1,018",18,30,211
+,Tungurahua,Urbana,"Por tubería, dentro de la vivienda","67,217","66,385",799,5,5,23
+,Tungurahua,Urbana,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","3,883","3,657",198,6,2,20
+,Tungurahua,Urbana,"Por tubería, fuera del edificio, lote o terreno",291,260,21,1,,9
+,Tungurahua,Urbana,"No recibe agua por tubería, sino por otros medios",188,,,6,23,159
+,Tungurahua,Rural,Total Rural,"100,976","38,392","57,899",268,254,"4,163"
+,Tungurahua,Rural,"Por tubería, dentro de la vivienda","64,184","30,536","32,891",67,33,657
+,Tungurahua,Rural,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","31,060","7,250","22,982",116,30,682
+,Tungurahua,Rural,"Por tubería, fuera del edificio, lote o terreno","2,803",602,"2,025",11,2,163
+,Tungurahua,Rural,"No recibe agua por tubería, sino por otros medios","2,929",4,1,74,189,"2,661"
+,Zamora Chinchipe,Total Zamora Chinchipe,Total Zamora Chinchipe,"32,011","19,352","5,575",614,32,"6,438"
+,Zamora Chinchipe,Total Zamora Chinchipe,"Por tubería, dentro de la vivienda","22,396","16,777","3,677",197,10,"1,735"
+,Zamora Chinchipe,Total Zamora Chinchipe,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","6,778","2,331","1,752",254,5,"2,436"
+,Zamora Chinchipe,Total Zamora Chinchipe,"Por tubería, fuera del edificio, lote o terreno",755,243,144,51,1,316
+,Zamora Chinchipe,Total Zamora Chinchipe,"No recibe agua por tubería, sino por otros medios","2,082",1,2,112,16,"1,951"
+,Zamora Chinchipe,Urbana,Total Urbana,"15,690","14,317",846,51,7,469
+,Zamora Chinchipe,Urbana,"Por tubería, dentro de la vivienda","13,845","12,921",687,17,3,217
+,Zamora Chinchipe,Urbana,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","1,557","1,299",141,17,2,98
+,Zamora Chinchipe,Urbana,"Por tubería, fuera del edificio, lote o terreno",147,96,18,5,,28
+,Zamora Chinchipe,Urbana,"No recibe agua por tubería, sino por otros medios",141,1,,12,2,126
+,Zamora Chinchipe,Rural,Total Rural,"16,321","5,035","4,729",563,25,"5,969"
+,Zamora Chinchipe,Rural,"Por tubería, dentro de la vivienda","8,551","3,856","2,990",180,7,"1,518"
+,Zamora Chinchipe,Rural,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","5,221","1,032","1,611",237,3,"2,338"
+,Zamora Chinchipe,Rural,"Por tubería, fuera del edificio, lote o terreno",608,147,126,46,1,288
+,Zamora Chinchipe,Rural,"No recibe agua por tubería, sino por otros medios","1,941",,2,100,14,"1,825"
+,Galápagos,Total Galápagos,Total Galápagos,"9,657","8,351",130,24,643,509
+,Galápagos,Total Galápagos,"Por tubería, dentro de la vivienda","8,025","7,581",85,12,228,119
+,Galápagos,Total Galápagos,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno",799,673,39,1,33,53
+,Galápagos,Total Galápagos,"Por tubería, fuera del edificio, lote o terreno",123,97,6,1,15,4
+,Galápagos,Total Galápagos,"No recibe agua por tubería, sino por otros medios",710,,,10,367,333
+,Galápagos,Urbana,Total Urbana,"7,789","7,490",43,15,201,40
+,Galápagos,Urbana,"Por tubería, dentro de la vivienda","7,102","6,928",36,10,105,23
+,Galápagos,Urbana,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno",504,483,6,1,10,4
+,Galápagos,Urbana,"Por tubería, fuera del edificio, lote o terreno",95,79,1,1,12,2
+,Galápagos,Urbana,"No recibe agua por tubería, sino por otros medios",88,,,3,74,11
+,Galápagos,Rural,Total Rural,"1,868",861,87,9,442,469
+,Galápagos,Rural,"Por tubería, dentro de la vivienda",923,653,49,2,123,96
+,Galápagos,Rural,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno",295,190,33,,23,49
+,Galápagos,Rural,"Por tubería, fuera del edificio, lote o terreno",28,18,5,,3,2
+,Galápagos,Rural,"No recibe agua por tubería, sino por otros medios",622,,,7,293,322
+,Sucumbíos,Total Sucumbíos,Total Sucumbíos,"57,719","30,259","7,864","12,753",161,"6,682"
+,Sucumbíos,Total Sucumbíos,"Por tubería, dentro de la vivienda","33,685","25,260","5,288","2,766",27,344
+,Sucumbíos,Total Sucumbíos,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","8,960","4,488","2,169","1,823",7,473
+,Sucumbíos,Total Sucumbíos,"Por tubería, fuera del edificio, lote o terreno","1,262",509,405,219,2,127
+,Sucumbíos,Total Sucumbíos,"No recibe agua por tubería, sino por otros medios","13,812",2,2,"7,945",125,"5,738"
+,Sucumbíos,Urbana,Total Urbana,"25,482","22,437",162,"2,493",45,345
+,Sucumbíos,Urbana,"Por tubería, dentro de la vivienda","21,154","19,672",120,"1,291",17,54
+,Sucumbíos,Urbana,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","3,084","2,557",32,454,,41
+,Sucumbíos,Urbana,"Por tubería, fuera del edificio, lote o terreno",248,207,10,22,,9
+,Sucumbíos,Urbana,"No recibe agua por tubería, sino por otros medios",996,1,,726,28,241
+,Sucumbíos,Rural,Total Rural,"32,237","7,822","7,702","10,260",116,"6,337"
+,Sucumbíos,Rural,"Por tubería, dentro de la vivienda","12,531","5,588","5,168","1,475",10,290
+,Sucumbíos,Rural,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","5,876","1,931","2,137","1,369",7,432
+,Sucumbíos,Rural,"Por tubería, fuera del edificio, lote o terreno","1,014",302,395,197,2,118
+,Sucumbíos,Rural,"No recibe agua por tubería, sino por otros medios","12,816",1,2,"7,219",97,"5,497"
+,Orellana,Total Orellana,Total Orellana,"49,645","23,573","4,756","10,625",382,"10,309"
+,Orellana,Total Orellana,"Por tubería, dentro de la vivienda","25,486","19,335","2,609","3,166",20,356
+,Orellana,Total Orellana,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","8,008","3,800","1,794","2,112",14,288
+,Orellana,Total Orellana,"Por tubería, fuera del edificio, lote o terreno","1,189",434,348,284,4,119
+,Orellana,Total Orellana,"No recibe agua por tubería, sino por otros medios","14,962",4,5,"5,063",344,"9,546"
+,Orellana,Urbana,Total Urbana,"22,412","19,165",180,"2,443",147,477
+,Orellana,Urbana,"Por tubería, dentro de la vivienda","17,916","16,368",113,"1,380",12,43
+,Orellana,Urbana,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","2,955","2,589",46,282,5,33
+,Orellana,Urbana,"Por tubería, fuera del edificio, lote o terreno",288,207,20,50,2,9
+,Orellana,Urbana,"No recibe agua por tubería, sino por otros medios","1,253",1,1,731,128,392
+,Orellana,Rural,Total Rural,"27,233","4,408","4,576","8,182",235,"9,832"
+,Orellana,Rural,"Por tubería, dentro de la vivienda","7,570","2,967","2,496","1,786",8,313
+,Orellana,Rural,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","5,053","1,211","1,748","1,830",9,255
+,Orellana,Rural,"Por tubería, fuera del edificio, lote o terreno",901,227,328,234,2,110
+,Orellana,Rural,"No recibe agua por tubería, sino por otros medios","13,709",3,4,"4,332",216,"9,154"
+,Santo Domingo de los Tsáchilas,Total Santo Domingo de los Tsáchilas,Total Santo Domingo de los Tsáchilas,"150,746","94,603","17,500","28,412","2,260","7,971"
+,Santo Domingo de los Tsáchilas,Total Santo Domingo de los Tsáchilas,"Por tubería, dentro de la vivienda","108,260","85,455","13,648","6,960",455,"1,742"
+,Santo Domingo de los Tsáchilas,Total Santo Domingo de los Tsáchilas,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","16,425","8,042","3,326","3,884",175,998
+,Santo Domingo de los Tsáchilas,Total Santo Domingo de los Tsáchilas,"Por tubería, fuera del edificio, lote o terreno","2,360",832,425,678,50,375
+,Santo Domingo de los Tsáchilas,Total Santo Domingo de los Tsáchilas,"No recibe agua por tubería, sino por otros medios","23,701",274,101,"16,890","1,580","4,856"
+,Santo Domingo de los Tsáchilas,Urbana,Total Urbana,"113,660","93,202","5,622","11,796","2,058",982
+,Santo Domingo de los Tsáchilas,Urbana,"Por tubería, dentro de la vivienda","93,216","84,284","4,775","3,610",402,145
+,Santo Domingo de los Tsáchilas,Urbana,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","10,452","7,854",672,"1,691",158,77
+,Santo Domingo de los Tsáchilas,Urbana,"Por tubería, fuera del edificio, lote o terreno","1,281",804,117,269,45,46
+,Santo Domingo de los Tsáchilas,Urbana,"No recibe agua por tubería, sino por otros medios","8,711",260,58,"6,226","1,453",714
+,Santo Domingo de los Tsáchilas,Rural,Total Rural,"37,086","1,401","11,878","16,616",202,"6,989"
+,Santo Domingo de los Tsáchilas,Rural,"Por tubería, dentro de la vivienda","15,044","1,171","8,873","3,350",53,"1,597"
+,Santo Domingo de los Tsáchilas,Rural,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","5,973",188,"2,654","2,193",17,921
+,Santo Domingo de los Tsáchilas,Rural,"Por tubería, fuera del edificio, lote o terreno","1,079",28,308,409,5,329
+,Santo Domingo de los Tsáchilas,Rural,"No recibe agua por tubería, sino por otros medios","14,990",14,43,"10,664",127,"4,142"
+,Santa Elena,Total Santa Elena,Total Santa Elena,"98,242","74,081","16,466","1,791","3,091","2,813"
+,Santa Elena,Total Santa Elena,"Por tubería, dentro de la vivienda","77,005","64,925","10,906",624,239,311
+,Santa Elena,Total Santa Elena,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","12,148","6,583","4,483",618,282,182
+,Santa Elena,Total Santa Elena,"Por tubería, fuera del edificio, lote o terreno","4,014","2,556","1,070",98,167,123
+,Santa Elena,Total Santa Elena,"No recibe agua por tubería, sino por otros medios","5,075",17,7,451,"2,403","2,197"
+,Santa Elena,Urbana,Total Urbana,"52,634","49,151",715,101,"1,286","1,381"
+,Santa Elena,Urbana,"Por tubería, dentro de la vivienda","44,342","43,710",364,15,63,190
+,Santa Elena,Urbana,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","4,449","4,081",211,12,53,92
+,Santa Elena,Urbana,"Por tubería, fuera del edificio, lote o terreno","1,675","1,347",140,22,96,70
+,Santa Elena,Urbana,"No recibe agua por tubería, sino por otros medios","2,168",13,,52,"1,074","1,029"
+,Santa Elena,Rural,Total Rural,"45,608","24,930","15,751","1,690","1,805","1,432"
+,Santa Elena,Rural,"Por tubería, dentro de la vivienda","32,663","21,215","10,542",609,176,121
+,Santa Elena,Rural,"Por tubería, fuera de la vivienda pero dentro del edificio, lote o terreno","7,699","2,502","4,272",606,229,90
+,Santa Elena,Rural,"Por tubería, fuera del edificio, lote o terreno","2,339","1,209",930,76,71,53
+,Santa Elena,Rural,"No recibe agua por tubería, sino por otros medios","2,907",4,7,399,"1,329","1,168"
+,,,,,,,,,
+,"Nota: En el censo 2022, las viviendas ocupadas con personas ausentes fueron el insumo base para calcular la población no censada. Estas viviendas se incorporan a la categoría de viviendas particulares ocupadas al calcular indicadores y generar tabulados en los que esta condición de ocupación forme parte del cálculo.",,,,,,,,

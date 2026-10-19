@@ -1,0 +1,751 @@
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Tabla N°:,3.1 ,,,,,,,,,
+,Nombre de la tabla:,"Viviendas particulares ocupadas por tipo de servicio higiénico de la vivienda, según provincia, cantón y área ",,,,,,,,,
+,Fuente:,VIII Censo de Población y VII de Vivienda ,,,,,,,,,
+,Elaboración:,Instituto Nacional de Estadística y Censos (INEC) - Componente de Metodología y Análisis – CPV 2022 ,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Índice,"Provincia, cantón y área",,,Número total de viviendas particulares ocupadas,Tipo de servicio higiénico en la vivienda,,,,,,
+,,,,,"Inodoro o escusado, conectado a red pública de alcaltarillado","Inodoro o escusado, conectado a pozo séptico","Inodoro o escusado, conectado a biodigestor","Inodoro o escusado, conectado a pozo ciego","Inodoro o escusado, con descarga directa al mar, río, lago o quebrada",Letrina,No tiene
+,,,,,,,,,,,
+,Total Nacional,Nacional,Nacional,"5,062,650","3,330,851","1,222,743","10,019","213,824","48,483","59,285","177,445"
+,Total Nacional,Nacional,Urbana,"3,238,614","2,677,671","456,526","4,072","43,999","19,149","6,526","30,671"
+,Total Nacional,Nacional,Rural,"1,824,036","653,180","766,217","5,947","169,825","29,334","52,759","146,774"
+,Azuay,Total Azuay,Total Azuay,"242,168","174,655","52,616","1,212","3,058","3,036",527,"7,064"
+,Azuay,Total Azuay,Urbana,"131,740","127,343","2,976",227,207,657,26,304
+,Azuay,Total Azuay,Rural,"110,428","47,312","49,640",985,"2,851","2,379",501,"6,760"
+,Azuay,Cuenca,Total Cuenca,"180,009","146,907","25,500",772,877,"2,441",209,"3,303"
+,Azuay,Cuenca,Urbana,"113,949","111,248","1,641",184,93,562,17,204
+,Azuay,Cuenca,Rural,"66,060","35,659","23,859",588,784,"1,879",192,"3,099"
+,Azuay,Girón,Total Girón,"3,758","1,742","1,715",44,80,29,15,133
+,Azuay,Girón,Urbana,"1,293","1,239",39,1,2,9,1,2
+,Azuay,Girón,Rural,"2,465",503,"1,676",43,78,20,14,131
+,Azuay,Gualaceo,Total Gualaceo,"12,435","4,665","5,524",53,984,118,44,"1,047"
+,Azuay,Gualaceo,Urbana,"4,101","3,639",389,11,26,20,1,15
+,Azuay,Gualaceo,Rural,"8,334","1,026","5,135",42,958,98,43,"1,032"
+,Azuay,Nabón,Total Nabón,"4,428","1,290","2,405",105,86,29,23,490
+,Azuay,Nabón,Urbana,409,379,19,4,,6,,1
+,Azuay,Nabón,Rural,"4,019",911,"2,386",101,86,23,23,489
+,Azuay,Paute,Total Paute,"8,148","3,805","3,561",71,267,58,15,371
+,Azuay,Paute,Urbana,"2,589","2,419",144,6,3,6,,11
+,Azuay,Paute,Rural,"5,559","1,386","3,417",65,264,52,15,360
+,Azuay,Pucará,Total Pucará,"2,889",733,"1,620",13,144,51,120,208
+,Azuay,Pucará,Urbana,274,253,16,,1,,,4
+,Azuay,Pucará,Rural,"2,615",480,"1,604",13,143,51,120,204
+,Azuay,San Fernando,Total San Fernando,"1,175",775,318,56,8,5,1,12
+,Azuay,San Fernando,Urbana,450,426,20,3,,,,1
+,Azuay,San Fernando,Rural,725,349,298,53,8,5,1,11
+,Azuay,Santa Isabel,Total Santa Isabel,"6,493","2,344","3,481",21,60,56,47,484
+,Azuay,Santa Isabel,Urbana,"1,946","1,782",148,2,3,5,,6
+,Azuay,Santa Isabel,Rural,"4,547",562,"3,333",19,57,51,47,478
+,Azuay,Sígsig,Total Sígsig,"7,732","2,520","4,345",18,111,97,22,619
+,Azuay,Sígsig,Urbana,"1,286","1,180",92,2,1,3,,8
+,Azuay,Sígsig,Rural,"6,446","1,340","4,253",16,110,94,22,611
+,Azuay,Oña,Total Oña,"1,146",366,663,14,7,9,9,78
+,Azuay,Oña,Urbana,331,231,80,3,2,7,,8
+,Azuay,Oña,Rural,815,135,583,11,5,2,9,70
+,Azuay,Chordeleg,Total Chordeleg,"3,646","2,713",652,9,89,40,5,138
+,Azuay,Chordeleg,Urbana,"1,300","1,161",95,5,12,15,2,10
+,Azuay,Chordeleg,Rural,"2,346","1,552",557,4,77,25,3,128
+,Azuay,El Pan,Total El Pan,934,691,211,1,4,6,4,17
+,Azuay,El Pan,Urbana,151,147,1,,,3,,
+,Azuay,El Pan,Rural,783,544,210,1,4,3,4,17
+,Azuay,Sevilla de Oro,Total Sevilla de Oro,"1,446",989,325,16,33,58,1,24
+,Azuay,Sevilla de Oro,Urbana,233,221,2,3,1,4,,2
+,Azuay,Sevilla de Oro,Rural,"1,213",768,323,13,32,54,1,22
+,Azuay,Guachapala,Total Guachapala,"1,132",418,617,14,16,12,3,52
+,Azuay,Guachapala,Urbana,373,313,47,2,1,3,,7
+,Azuay,Guachapala,Rural,759,105,570,12,15,9,3,45
+,Azuay,Camilo Ponce Enríquez,Total Camilo Ponce Enríquez,"6,797","4,697","1,679",5,292,27,9,88
+,Azuay,Camilo Ponce Enríquez,Urbana,"3,055","2,705",243,1,62,14,5,25
+,Azuay,Camilo Ponce Enríquez,Rural,"3,742","1,992","1,436",4,230,13,4,63
+,Bolívar,Total Bolívar,Total Bolívar,"60,985","25,608","21,404",97,"6,110",894,897,"5,975"
+,Bolívar,Total Bolívar,Urbana,"20,593","18,549","1,485",21,147,225,25,141
+,Bolívar,Total Bolívar,Rural,"40,392","7,059","19,919",76,"5,963",669,872,"5,834"
+,Bolívar,Guaranda,Total Guaranda,"29,585","12,433","8,802",26,"3,753",192,557,"3,822"
+,Bolívar,Guaranda,Urbana,"10,088","9,493",396,6,55,60,13,65
+,Bolívar,Guaranda,Rural,"19,497","2,940","8,406",20,"3,698",132,544,"3,757"
+,Bolívar,Chillanes,Total Chillanes,"6,195","1,745","2,792",6,585,52,154,861
+,Bolívar,Chillanes,Urbana,"1,081",917,135,1,10,3,3,12
+,Bolívar,Chillanes,Rural,"5,114",828,"2,657",5,575,49,151,849
+,Bolívar,Chimbo,Total Chimbo,"4,716","2,175","1,858",6,247,55,77,298
+,Bolívar,Chimbo,Urbana,"1,296","1,249",13,3,2,14,,15
+,Bolívar,Chimbo,Rural,"3,420",926,"1,845",3,245,41,77,283
+,Bolívar,Echeandía,Total Echeandía,"4,731","2,439","1,838",2,260,33,31,128
+,Bolívar,Echeandía,Urbana,"2,306","2,058",195,2,33,2,3,13
+,Bolívar,Echeandía,Rural,"2,425",381,"1,643",,227,31,28,115
+,Bolívar,San Miguel,Total San Miguel,"8,624","3,839","2,803",11,"1,074",274,48,575
+,Bolívar,San Miguel,Urbana,"2,704","2,590",44,7,12,38,2,11
+,Bolívar,San Miguel,Rural,"5,920","1,249","2,759",4,"1,062",236,46,564
+,Bolívar,Caluma,Total Caluma,"4,885","2,589","1,741",2,116,233,19,185
+,Bolívar,Caluma,Urbana,"2,457","1,974",379,2,27,57,3,15
+,Bolívar,Caluma,Rural,"2,428",615,"1,362",,89,176,16,170
+,Bolívar,Las Naves,Total Las Naves,"2,249",388,"1,570",44,75,55,11,106
+,Bolívar,Las Naves,Urbana,661,268,323,,8,51,1,10
+,Bolívar,Las Naves,Rural,"1,588",120,"1,247",44,67,4,10,96
+,Cañar,Total Cañar,Total Cañar,"67,954","40,421","20,408",199,"1,521","1,769",183,"3,453"
+,Cañar,Total Cañar,Urbana,"30,114","26,544","2,765",34,121,410,23,217
+,Cañar,Total Cañar,Rural,"37,840","13,877","17,643",165,"1,400","1,359",160,"3,236"
+,Cañar,Azogues,Total Azogues,"22,582","15,872","4,832",110,165,577,41,985
+,Cañar,Azogues,Urbana,"10,799","10,245",337,18,10,138,3,48
+,Cañar,Azogues,Rural,"11,783","5,627","4,495",92,155,439,38,937
+,Cañar,Biblián,Total Biblián,"5,726","3,090","1,411",31,318,561,17,298
+,Cañar,Biblián,Urbana,"1,739","1,652",39,2,2,33,1,10
+,Cañar,Biblián,Rural,"3,987","1,438","1,372",29,316,528,16,288
+,Cañar,Cañar,Total Cañar,"15,204","6,969","5,944",14,552,263,64,"1,398"
+,Cañar,Cañar,Urbana,"3,805","3,584",167,3,11,11,5,24
+,Cañar,Cañar,Rural,"11,399","3,385","5,777",11,541,252,59,"1,374"
+,Cañar,La Troncal,Total La Troncal,"18,201","11,442","5,886",20,188,246,27,392
+,Cañar,La Troncal,Urbana,"11,714","9,143","2,149",10,83,208,12,109
+,Cañar,La Troncal,Rural,"6,487","2,299","3,737",10,105,38,15,283
+,Cañar,El Tambo,Total El Tambo,"2,785","2,163",386,4,67,54,5,106
+,Cañar,El Tambo,Urbana,"1,516","1,429",37,1,9,18,1,21
+,Cañar,El Tambo,Rural,"1,269",734,349,3,58,36,4,85
+,Cañar,Déleg,Total Déleg,"1,975",553,"1,005",18,221,64,16,98
+,Cañar,Déleg,Urbana,222,202,9,,6,2,1,2
+,Cañar,Déleg,Rural,"1,753",351,996,18,215,62,15,96
+,Cañar,Suscal,Total Suscal,"1,481",332,944,2,10,4,13,176
+,Cañar,Suscal,Urbana,319,289,27,,,,,3
+,Cañar,Suscal,Rural,"1,162",43,917,2,10,4,13,173
+,Carchi,Total Carchi,Total Carchi,"51,160","40,632","7,542",38,849,633,230,"1,236"
+,Carchi,Total Carchi,Urbana,"26,322","25,710",320,11,28,125,19,109
+,Carchi,Total Carchi,Rural,"24,838","14,922","7,222",27,821,508,211,"1,127"
+,Carchi,Tulcán,Total Tulcán,"26,588","21,599","3,445",15,428,150,179,772
+,Carchi,Tulcán,Urbana,"16,809","16,532",134,5,12,58,10,58
+,Carchi,Tulcán,Rural,"9,779","5,067","3,311",10,416,92,169,714
+,Carchi,Bolívar,Total Bolívar,"5,008","3,849",723,3,191,77,14,151
+,Carchi,Bolívar,Urbana,"1,069","1,005",42,,3,6,3,10
+,Carchi,Bolívar,Rural,"3,939","2,844",681,3,188,71,11,141
+,Carchi,Espejo,Total Espejo,"4,208","3,608",349,1,32,138,11,69
+,Carchi,Espejo,Urbana,"1,479","1,444",18,1,3,5,,8
+,Carchi,Espejo,Rural,"2,729","2,164",331,,29,133,11,61
+,Carchi,Mira,Total Mira,"4,014","3,013",652,8,71,119,5,146
+,Carchi,Mira,Urbana,"1,251","1,218",16,1,3,4,1,8
+,Carchi,Mira,Rural,"2,763","1,795",636,7,68,115,4,138
+,Carchi,Montúfar,Total Montúfar,"9,028","6,725","1,972",7,103,112,19,90
+,Carchi,Montúfar,Urbana,"4,417","4,285",57,1,5,45,4,20
+,Carchi,Montúfar,Rural,"4,611","2,440","1,915",6,98,67,15,70
+,Carchi,San Pedro de Huaca,Total San Pedro de Huaca,"2,314","1,838",401,4,24,37,2,8
+,Carchi,San Pedro de Huaca,Urbana,"1,297","1,226",53,3,2,7,1,5
+,Carchi,San Pedro de Huaca,Rural,"1,017",612,348,1,22,30,1,3
+,Cotopaxi,Total Cotopaxi,Total Cotopaxi,"135,068","68,906","40,262",234,"15,085","1,087",854,"8,640"
+,Cotopaxi,Total Cotopaxi,Urbana,"47,919","41,456","5,385",132,409,230,57,250
+,Cotopaxi,Total Cotopaxi,Rural,"87,149","27,450","34,877",102,"14,676",857,797,"8,390"
+,Cotopaxi,Latacunga,Total Latacunga,"60,502","38,921","14,194",51,"4,669",328,154,"2,185"
+,Cotopaxi,Latacunga,Urbana,"23,711","22,826",434,18,146,161,12,114
+,Cotopaxi,Latacunga,Rural,"36,791","16,095","13,760",33,"4,523",167,142,"2,071"
+,Cotopaxi,La Maná,Total La Maná,"16,530","5,564","9,613",120,552,76,121,484
+,Cotopaxi,La Maná,Urbana,"10,044","5,145","4,599",107,109,9,22,53
+,Cotopaxi,La Maná,Rural,"6,486",419,"5,014",13,443,67,99,431
+,Cotopaxi,Pangua,Total Pangua,"6,959","1,411","3,529",14,804,94,147,960
+,Cotopaxi,Pangua,Urbana,678,634,18,1,2,6,10,7
+,Cotopaxi,Pangua,Rural,"6,281",777,"3,511",13,802,88,137,953
+,Cotopaxi,Pujilí,Total Pujilí,"19,364","7,036","6,708",22,"2,436",194,255,"2,713"
+,Cotopaxi,Pujilí,Urbana,"4,719","4,412",160,3,78,35,5,26
+,Cotopaxi,Pujilí,Rural,"14,645","2,624","6,548",19,"2,358",159,250,"2,687"
+,Cotopaxi,Salcedo,Total Salcedo,"19,748","10,835","3,768",15,"4,045",83,56,946
+,Cotopaxi,Salcedo,Urbana,"5,124","4,993",70,1,21,15,4,20
+,Cotopaxi,Salcedo,Rural,"14,624","5,842","3,698",14,"4,024",68,52,926
+,Cotopaxi,Saquisilí,Total Saquisilí,"6,556","3,743","1,367",8,994,16,25,403
+,Cotopaxi,Saquisilí,Urbana,"2,763","2,659",59,2,12,3,2,26
+,Cotopaxi,Saquisilí,Rural,"3,793","1,084","1,308",6,982,13,23,377
+,Cotopaxi,Sigchos,Total Sigchos,"5,409","1,396","1,083",4,"1,585",296,96,949
+,Cotopaxi,Sigchos,Urbana,880,787,45,,41,1,2,4
+,Cotopaxi,Sigchos,Rural,"4,529",609,"1,038",4,"1,544",295,94,945
+,Chimborazo,Total Chimborazo,Total Chimborazo,"144,869","90,061","30,591",224,"12,552",865,"2,600","7,976"
+,Chimborazo,Total Chimborazo,Urbana,"71,406","68,699","2,185",66,161,79,29,187
+,Chimborazo,Total Chimborazo,Rural,"73,463","21,362","28,406",158,"12,391",786,"2,571","7,789"
+,Chimborazo,Riobamba,Total Riobamba,"81,840","65,774","10,152",94,"3,366",312,526,"1,616"
+,Chimborazo,Riobamba,Urbana,"57,297","55,644","1,399",51,88,14,17,84
+,Chimborazo,Riobamba,Rural,"24,543","10,130","8,753",43,"3,278",298,509,"1,532"
+,Chimborazo,Alausí,Total Alausí,"10,946","3,547","3,396",33,"1,472",143,188,"2,167"
+,Chimborazo,Alausí,Urbana,"1,898","1,862",12,2,4,13,,5
+,Chimborazo,Alausí,Rural,"9,048","1,685","3,384",31,"1,468",130,188,"2,162"
+,Chimborazo,Colta,Total Colta,"10,119","2,867","3,213",18,"2,255",36,747,983
+,Chimborazo,Colta,Urbana,829,786,16,,7,2,3,15
+,Chimborazo,Colta,Rural,"9,290","2,081","3,197",18,"2,248",34,744,968
+,Chimborazo,Chambo,Total Chambo,"3,822","2,935",666,8,85,36,5,87
+,Chimborazo,Chambo,Urbana,"1,538","1,475",36,1,6,5,1,14
+,Chimborazo,Chambo,Rural,"2,284","1,460",630,7,79,31,4,73
+,Chimborazo,Chunchi,Total Chunchi,"3,256","1,681",580,7,699,54,4,231
+,Chimborazo,Chunchi,Urbana,"1,194","1,179",6,1,1,3,,4
+,Chimborazo,Chunchi,Rural,"2,062",502,574,6,698,51,4,227
+,Chimborazo,Guamote,Total Guamote,"9,916","1,659","3,518",13,"2,010",16,"1,009","1,691"
+,Chimborazo,Guamote,Urbana,907,843,23,1,3,1,5,31
+,Chimborazo,Guamote,Rural,"9,009",816,"3,495",12,"2,007",15,"1,004","1,660"
+,Chimborazo,Guano,Total Guano,"14,108","6,063","5,619",23,"1,479",48,82,794
+,Chimborazo,Guano,Urbana,"2,563","2,465",50,2,5,16,1,24
+,Chimborazo,Guano,Rural,"11,545","3,598","5,569",21,"1,474",32,81,770
+,Chimborazo,Pallatanga,Total Pallatanga,"3,505","1,546",939,4,655,127,20,214
+,Chimborazo,Pallatanga,Urbana,"1,306","1,229",51,1,14,8,,3
+,Chimborazo,Pallatanga,Rural,"2,199",317,888,3,641,119,20,211
+,Chimborazo,Penipe,Total Penipe,"2,327","1,049",862,2,340,4,10,60
+,Chimborazo,Penipe,Urbana,393,381,11,,1,,,
+,Chimborazo,Penipe,Rural,"1,934",668,851,2,339,4,10,60
+,Chimborazo,Cumandá,Total Cumandá,"5,030","2,940","1,646",22,191,89,9,133
+,Chimborazo,Cumandá,Urbana,"3,481","2,835",581,7,32,17,2,7
+,Chimborazo,Cumandá,Rural,"1,549",105,"1,065",15,159,72,7,126
+,El Oro,Total El Oro,Total El Oro,"216,642","170,804","30,367",372,"3,075","7,097",537,"4,390"
+,El Oro,Total El Oro,Urbana,"170,478","151,238","12,028",173,"1,231","3,272",287,"2,249"
+,El Oro,Total El Oro,Rural,"46,164","19,566","18,339",199,"1,844","3,825",250,"2,141"
+,El Oro,Machala,Total Machala,"92,040","80,275","7,524",97,859,"2,016",235,"1,034"
+,El Oro,Machala,Urbana,"86,605","78,807","4,922",93,548,"1,218",169,848
+,El Oro,Machala,Rural,"5,435","1,468","2,602",4,311,798,66,186
+,El Oro,Arenillas,Total Arenillas,"9,949","6,986","2,290",8,176,155,24,310
+,El Oro,Arenillas,Urbana,"6,592","5,712",649,5,50,47,7,122
+,El Oro,Arenillas,Rural,"3,357","1,274","1,641",3,126,108,17,188
+,El Oro,Atahualpa,Total Atahualpa,"1,958","1,106",445,10,94,277,1,25
+,El Oro,Atahualpa,Urbana,564,544,7,2,7,4,,
+,El Oro,Atahualpa,Rural,"1,394",562,438,8,87,273,1,25
+,El Oro,Balsas,Total Balsas,"2,394","1,292",251,2,30,763,7,49
+,El Oro,Balsas,Urbana,"1,399",948,18,,7,389,1,36
+,El Oro,Balsas,Rural,995,344,233,2,23,374,6,13
+,El Oro,Chilla,Total Chilla,772,366,265,1,62,6,5,67
+,El Oro,Chilla,Urbana,317,276,26,,4,3,,8
+,El Oro,Chilla,Rural,455,90,239,1,58,3,5,59
+,El Oro,El Guabo,Total El Guabo,"17,090","11,459","4,543",62,242,212,37,535
+,El Oro,El Guabo,Urbana,"7,839","7,133",516,7,48,35,9,91
+,El Oro,El Guabo,Rural,"9,251","4,326","4,027",55,194,177,28,444
+,El Oro,Huaquillas,Total Huaquillas,"16,936","12,704","3,249",11,207,68,49,648
+,El Oro,Huaquillas,Urbana,"16,824","12,696","3,166",9,206,65,48,634
+,El Oro,Huaquillas,Rural,112,8,83,2,1,3,1,14
+,El Oro,Marcabelí,Total Marcabelí,"2,095","1,652",291,,24,96,4,28
+,El Oro,Marcabelí,Urbana,"1,524","1,413",68,,6,23,1,13
+,El Oro,Marcabelí,Rural,571,239,223,,18,73,3,15
+,El Oro,Pasaje,Total Pasaje,"25,860","20,849","3,656",26,207,632,66,424
+,El Oro,Pasaje,Urbana,"18,693","16,545","1,385",20,79,461,21,182
+,El Oro,Pasaje,Rural,"7,167","4,304","2,271",6,128,171,45,242
+,El Oro,Piñas,Total Piñas,"9,378","6,142","1,440",19,331,"1,346",21,79
+,El Oro,Piñas,Urbana,"5,918","5,210",89,5,21,584,7,2
+,El Oro,Piñas,Rural,"3,460",932,"1,351",14,310,762,14,77
+,El Oro,Portovelo,Total Portovelo,"4,287","3,323",704,5,107,83,9,56
+,El Oro,Portovelo,Urbana,"3,092","3,030",30,,12,10,2,8
+,El Oro,Portovelo,Rural,"1,195",293,674,5,95,73,7,48
+,El Oro,Santa Rosa,Total Santa Rosa,"24,310","18,806","3,476",98,468,819,36,607
+,El Oro,Santa Rosa,Urbana,"17,355","15,372","1,051",29,205,383,17,298
+,El Oro,Santa Rosa,Rural,"6,955","3,434","2,425",69,263,436,19,309
+,El Oro,Zaruma,Total Zaruma,"7,759","4,792","1,677",30,238,564,23,435
+,El Oro,Zaruma,Urbana,"3,261","3,133",37,3,32,49,3,4
+,El Oro,Zaruma,Rural,"4,498","1,659","1,640",27,206,515,20,431
+,El Oro,Las Lajas,Total Las Lajas,"1,814","1,052",556,3,30,60,20,93
+,El Oro,Las Lajas,Urbana,495,419,64,,6,1,2,3
+,El Oro,Las Lajas,Rural,"1,319",633,492,3,24,59,18,90
+,Esmeraldas,Total Esmeraldas,Total Esmeraldas,"159,710","61,255","59,906",443,"17,054","2,735","7,320","10,997"
+,Esmeraldas,Total Esmeraldas,Urbana,"71,593","51,723","13,653",131,"1,578","1,633",420,"2,455"
+,Esmeraldas,Total Esmeraldas,Rural,"88,117","9,532","46,253",312,"15,476","1,102","6,900","8,542"
+,Esmeraldas,Esmeraldas,Total Esmeraldas,"60,420","45,014","9,927",128,"2,658",286,695,"1,712"
+,Esmeraldas,Esmeraldas,Urbana,"44,852","39,741","3,419",80,356,236,114,906
+,Esmeraldas,Esmeraldas,Rural,"15,568","5,273","6,508",48,"2,302",50,581,806
+,Esmeraldas,Eloy Alfaro,Total Eloy Alfaro,"12,269","1,534","4,016",14,"1,386",330,"1,693","3,296"
+,Esmeraldas,Eloy Alfaro,Urbana,"1,435",678,125,2,24,71,75,460
+,Esmeraldas,Eloy Alfaro,Rural,"10,834",856,"3,891",12,"1,362",259,"1,618","2,836"
+,Esmeraldas,Muisne,Total Muisne,"10,652",376,"5,456",47,"2,031",674,671,"1,397"
+,Esmeraldas,Muisne,Urbana,"1,726",247,754,5,110,340,30,240
+,Esmeraldas,Muisne,Rural,"8,926",129,"4,702",42,"1,921",334,641,"1,157"
+,Esmeraldas,Quinindé,Total Quinindé,"39,637","7,083","22,303",144,"6,611",256,"2,127","1,113"
+,Esmeraldas,Quinindé,Urbana,"10,034","5,356","3,918",22,417,117,87,117
+,Esmeraldas,Quinindé,Rural,"29,603","1,727","18,385",122,"6,194",139,"2,040",996
+,Esmeraldas,San Lorenzo,Total San Lorenzo,"12,621","4,697","4,455",22,776,987,185,"1,499"
+,Esmeraldas,San Lorenzo,Urbana,"7,268","4,096","1,794",14,213,726,45,380
+,Esmeraldas,San Lorenzo,Rural,"5,353",601,"2,661",8,563,261,140,"1,119"
+,Esmeraldas,Atacames,Total Atacames,"14,623","2,200","9,349",70,"1,420",166,516,902
+,Esmeraldas,Atacames,Urbana,"5,127","1,582","2,821",4,337,131,36,216
+,Esmeraldas,Atacames,Rural,"9,496",618,"6,528",66,"1,083",35,480,686
+,Esmeraldas,Rioverde,Total Rioverde,"9,488",351,"4,400",18,"2,172",36,"1,433","1,078"
+,Esmeraldas,Rioverde,Urbana,"1,151",23,822,4,121,12,33,136
+,Esmeraldas,Rioverde,Rural,"8,337",328,"3,578",14,"2,051",24,"1,400",942
+,Guayas,Total Guayas,Total Guayas,"1,289,733","850,852","345,030","1,910","43,151","4,519","12,065","32,206"
+,Guayas,Total Guayas,Urbana,"1,094,731","830,026","224,201","1,378","21,668","2,977","2,807","11,674"
+,Guayas,Total Guayas,Rural,"195,002","20,826","120,829",532,"21,483","1,542","9,258","20,532"
+,Guayas,Guayaquil,Total Guayaquil,"795,286","664,300","105,780",683,"13,555","2,226","1,820","6,922"
+,Guayas,Guayaquil,Urbana,"768,430","654,172","93,755",637,"11,782","1,502","1,407","5,175"
+,Guayas,Guayaquil,Rural,"26,856","10,128","12,025",46,"1,773",724,413,"1,747"
+,Guayas,Alfredo Baquerizo Moreno (Juján),Total Alfredo Baquerizo Moreno (Juján),"8,322",246,"6,104",48,590,25,237,"1,072"
+,Guayas,Alfredo Baquerizo Moreno (Juján),Urbana,"1,960",128,"1,625",5,33,3,28,138
+,Guayas,Alfredo Baquerizo Moreno (Juján),Rural,"6,362",118,"4,479",43,557,22,209,934
+,Guayas,Balao,Total Balao,"7,325","4,259","2,572",1,202,66,37,188
+,Guayas,Balao,Urbana,"3,391","3,131",210,,19,5,1,25
+,Guayas,Balao,Rural,"3,934","1,128","2,362",1,183,61,36,163
+,Guayas,Balzar,Total Balzar,"17,334","5,657","6,522",34,"3,386",121,471,"1,143"
+,Guayas,Balzar,Urbana,"9,726","5,443","2,873",17,872,85,81,355
+,Guayas,Balzar,Rural,"7,608",214,"3,649",17,"2,514",36,390,788
+,Guayas,Colimes,Total Colimes,"8,240","1,593","3,991",49,"1,528",6,267,806
+,Guayas,Colimes,Urbana,"2,499","1,556",712,1,119,2,15,94
+,Guayas,Colimes,Rural,"5,741",37,"3,279",48,"1,409",4,252,712
+,Guayas,Daule,Total Daule,"66,018","43,018","14,935",131,"1,848",65,"3,165","2,856"
+,Guayas,Daule,Urbana,"47,204","42,149","4,155",104,297,16,59,424
+,Guayas,Daule,Rural,"18,814",869,"10,780",27,"1,551",49,"3,106","2,432"
+,Guayas,Durán,Total Durán,"88,966","32,807","48,884",244,"4,249",483,466,"1,833"
+,Guayas,Durán,Urbana,"86,297","32,024","47,929",198,"3,963",430,396,"1,357"
+,Guayas,Durán,Rural,"2,669",783,955,46,286,53,70,476
+,Guayas,El Empalme,Total El Empalme,"23,825","1,623","16,321",52,"3,336",169,"1,412",912
+,Guayas,El Empalme,Urbana,"12,326","1,563","9,611",25,637,125,86,279
+,Guayas,El Empalme,Rural,"11,499",60,"6,710",27,"2,699",44,"1,326",633
+,Guayas,El Triunfo,Total El Triunfo,"17,518","6,199","9,597",28,614,138,118,824
+,Guayas,El Triunfo,Urbana,"11,877","6,153","4,833",10,290,135,47,409
+,Guayas,El Triunfo,Rural,"5,641",46,"4,764",18,324,3,71,415
+,Guayas,Milagro,Total Milagro,"60,320","16,075","39,077",116,"2,573",192,630,"1,657"
+,Guayas,Milagro,Urbana,"49,137","15,536","30,643",85,"1,529",173,294,877
+,Guayas,Milagro,Rural,"11,183",539,"8,434",31,"1,044",19,336,780
+,Guayas,Naranjal,Total Naranjal,"24,713","9,230","13,124",44,856,138,299,"1,022"
+,Guayas,Naranjal,Urbana,"11,579","7,587","3,406",7,252,86,78,163
+,Guayas,Naranjal,Rural,"13,134","1,643","9,718",37,604,52,221,859
+,Guayas,Naranjito,Total Naranjito,"13,691","9,016","3,795",9,265,174,56,376
+,Guayas,Naranjito,Urbana,"10,752","8,986","1,353",1,55,164,21,172
+,Guayas,Naranjito,Rural,"2,939",30,"2,442",8,210,10,35,204
+,Guayas,Palestina,Total Palestina,"5,694","2,259","2,680",8,277,2,103,365
+,Guayas,Palestina,Urbana,"3,351","2,226",909,2,130,,12,72
+,Guayas,Palestina,Rural,"2,343",33,"1,771",6,147,2,91,293
+,Guayas,Pedro Carbo,Total Pedro Carbo,"16,283","4,377","6,788",33,"2,342",222,486,"2,035"
+,Guayas,Pedro Carbo,Urbana,"7,334","4,314","2,323",10,246,156,22,263
+,Guayas,Pedro Carbo,Rural,"8,949",63,"4,465",23,"2,096",66,464,"1,772"
+,Guayas,Samborondón,Total Samborondón,"31,369","24,835","4,464",231,435,160,102,"1,142"
+,Guayas,Samborondón,Urbana,"23,599","21,894","1,228",229,86,8,21,133
+,Guayas,Samborondón,Rural,"7,770","2,941","3,236",2,349,152,81,"1,009"
+,Guayas,Santa Lucía,Total Santa Lucía,"13,139","1,877","6,805",24,"1,489",14,805,"2,125"
+,Guayas,Santa Lucía,Urbana,"3,272","1,847","1,154",4,154,3,11,99
+,Guayas,Santa Lucía,Rural,"9,867",30,"5,651",20,"1,335",11,794,"2,026"
+,Guayas,Salitre,Total Salitre,"18,785",202,"13,307",66,"2,174",24,747,"2,265"
+,Guayas,Salitre,Urbana,"4,088",102,"3,473",11,257,1,58,186
+,Guayas,Salitre,Rural,"14,697",100,"9,834",55,"1,917",23,689,"2,079"
+,Guayas,San Jacinto de Yaguachi,Total San Jacinto de Yaguachi,"22,359","5,030","14,206",44,"1,292",81,396,"1,310"
+,Guayas,San Jacinto de Yaguachi,Urbana,"7,190","4,606","2,021",5,292,15,23,228
+,Guayas,San Jacinto de Yaguachi,Rural,"15,169",424,"12,185",39,"1,000",66,373,"1,082"
+,Guayas,Playas,Total Playas,"15,970","8,021","6,483",24,559,119,91,673
+,Guayas,Playas,Urbana,"13,359","7,225","5,242",17,213,41,87,534
+,Guayas,Playas,Rural,"2,611",796,"1,241",7,346,78,4,139
+,Guayas,Simón Bolívar,Total Simón Bolívar,"9,356",328,"7,524",14,555,13,161,761
+,Guayas,Simón Bolívar,Urbana,"2,802",295,"2,233",2,152,,21,99
+,Guayas,Simón Bolívar,Rural,"6,554",33,"5,291",12,403,13,140,662
+,Guayas,Coronel Marcelino Maridueña,Total Coronel Marcelino Maridueña,"4,033","2,348","1,448",3,109,1,7,117
+,Guayas,Coronel Marcelino Maridueña,Urbana,"2,378","2,334",25,1,,1,,17
+,Guayas,Coronel Marcelino Maridueña,Rural,"1,655",14,"1,423",2,109,,7,100
+,Guayas,Lomas de Sargentillo,Total Lomas de Sargentillo,"6,563","3,270","2,029",11,323,11,68,851
+,Guayas,Lomas de Sargentillo,Urbana,"4,813","3,262","1,072",3,68,3,22,383
+,Guayas,Lomas de Sargentillo,Rural,"1,750",8,957,8,255,8,46,468
+,Guayas,Nobol,Total Nobol,"6,621","2,180","3,802",6,180,15,30,408
+,Guayas,Nobol,Urbana,"2,745","1,859",784,1,29,3,8,61
+,Guayas,Nobol,Rural,"3,876",321,"3,018",5,151,12,22,347
+,Guayas,General  Antonio Elizalde,Total General  Antonio Elizalde,"3,727","2,072","1,355",1,170,31,5,93
+,Guayas,General  Antonio Elizalde,Urbana,"2,200","1,610",450,1,99,20,2,18
+,Guayas,General  Antonio Elizalde,Rural,"1,527",462,905,,71,11,3,75
+,Guayas,Isidro Ayora,Total Isidro Ayora,"4,276",30,"3,437",6,244,23,86,450
+,Guayas,Isidro Ayora,Urbana,"2,422",24,"2,182",2,94,,7,113
+,Guayas,Isidro Ayora,Rural,"1,854",6,"1,255",4,150,23,79,337
+,Imbabura,Total Imbabura,Total Imbabura,"136,070","110,699","16,484",193,"3,414","1,275",474,"3,531"
+,Imbabura,Total Imbabura,Urbana,"74,703","72,661","1,165",100,122,397,26,232
+,Imbabura,Total Imbabura,Rural,"61,367","38,038","15,319",93,"3,292",878,448,"3,299"
+,Imbabura,Ibarra,Total Ibarra,"65,980","59,011","4,747",52,559,377,204,"1,030"
+,Imbabura,Ibarra,Urbana,"48,906","47,949",594,24,38,174,17,110
+,Imbabura,Ibarra,Rural,"17,074","11,062","4,153",28,521,203,187,920
+,Imbabura,Antonio Ante,Total Antonio Ante,"14,924","13,339",976,59,166,113,32,239
+,Imbabura,Antonio Ante,Urbana,"7,193","6,834",208,55,22,32,3,39
+,Imbabura,Antonio Ante,Rural,"7,731","6,505",768,4,144,81,29,200
+,Imbabura,Cotacachi,Total Cotacachi,"14,853","7,407","5,179",42,799,427,108,891
+,Imbabura,Cotacachi,Urbana,"3,244","3,115",68,4,19,27,1,10
+,Imbabura,Cotacachi,Rural,"11,609","4,292","5,111",38,780,400,107,881
+,Imbabura,Otavalo,Total Otavalo,"30,812","24,041","4,068",31,"1,165",301,94,"1,112"
+,Imbabura,Otavalo,Urbana,"12,062","11,591",208,14,38,155,4,52
+,Imbabura,Otavalo,Rural,"18,750","12,450","3,860",17,"1,127",146,90,"1,060"
+,Imbabura,Pimampiro,Total Pimampiro,"4,319","2,965",692,4,581,4,10,63
+,Imbabura,Pimampiro,Urbana,"1,963","1,917",37,2,2,,1,4
+,Imbabura,Pimampiro,Rural,"2,356","1,048",655,2,579,4,9,59
+,Imbabura,San Miguel de Urcuquí,Total San Miguel de Urcuquí,"5,182","3,936",822,5,144,53,26,196
+,Imbabura,San Miguel de Urcuquí,Urbana,"1,335","1,255",50,1,3,9,,17
+,Imbabura,San Miguel de Urcuquí,Rural,"3,847","2,681",772,4,141,44,26,179
+,Loja,Total Loja,Total Loja,"143,741","91,148","38,432",379,"3,776","1,548","1,386","7,072"
+,Loja,Total Loja,Urbana,"86,536","79,751","5,235",106,294,512,104,534
+,Loja,Total Loja,Rural,"57,205","11,397","33,197",273,"3,482","1,036","1,282","6,538"
+,Loja,Loja,Total Loja,"73,925","60,037","10,456",165,755,929,282,"1,301"
+,Loja,Loja,Urbana,"60,079","55,788","3,315",75,158,377,52,314
+,Loja,Loja,Rural,"13,846","4,249","7,141",90,597,552,230,987
+,Loja,Calvas,Total Calvas,"7,544","4,138","1,920",66,461,67,93,799
+,Loja,Calvas,Urbana,"3,829","3,705",75,4,13,5,11,16
+,Loja,Calvas,Rural,"3,715",433,"1,845",62,448,62,82,783
+,Loja,Catamayo,Total Catamayo,"10,345","7,497","2,240",15,125,31,30,407
+,Loja,Catamayo,Urbana,"7,798","6,781",879,10,16,7,7,98
+,Loja,Catamayo,Rural,"2,547",716,"1,361",5,109,24,23,309
+,Loja,Celica,Total Celica,"4,146","1,724","1,732",7,250,29,105,299
+,Loja,Celica,Urbana,"1,292","1,245",25,4,3,10,4,1
+,Loja,Celica,Rural,"2,854",479,"1,707",3,247,19,101,298
+,Loja,Chaguarpamba,Total Chaguarpamba,"2,250",771,"1,174",3,109,14,73,106
+,Loja,Chaguarpamba,Urbana,405,383,11,,1,,5,5
+,Loja,Chaguarpamba,Rural,"1,845",388,"1,163",3,108,14,68,101
+,Loja,Espíndola,Total Espíndola,"4,171","1,268","1,554",5,418,88,223,615
+,Loja,Espíndola,Urbana,657,620,12,,2,10,2,11
+,Loja,Espíndola,Rural,"3,514",648,"1,542",5,416,78,221,604
+,Loja,Gonzanamá,Total Gonzanamá,"4,004","1,184","2,088",4,144,34,69,481
+,Loja,Gonzanamá,Urbana,601,557,39,1,,1,1,2
+,Loja,Gonzanamá,Rural,"3,403",627,"2,049",3,144,33,68,479
+,Loja,Macará,Total Macará,"5,275","3,460","1,112",5,405,52,21,220
+,Loja,Macará,Urbana,"3,622","3,184",298,3,71,23,3,40
+,Loja,Macará,Rural,"1,653",276,814,2,334,29,18,180
+,Loja,Paltas,Total Paltas,"6,851","2,802","3,529",10,66,38,84,322
+,Loja,Paltas,Urbana,"2,289","2,140",123,4,2,2,8,10
+,Loja,Paltas,Rural,"4,562",662,"3,406",6,64,36,76,312
+,Loja,Puyango,Total Puyango,"4,901","2,259","2,325",7,85,26,27,172
+,Loja,Puyango,Urbana,"1,872","1,771",70,2,3,12,4,10
+,Loja,Puyango,Rural,"3,029",488,"2,255",5,82,14,23,162
+,Loja,Saraguro,Total Saraguro,"8,445","2,656","4,283",56,313,183,74,880
+,Loja,Saraguro,Urbana,"1,369","1,167",134,1,3,54,3,7
+,Loja,Saraguro,Rural,"7,076","1,489","4,149",55,310,129,71,873
+,Loja,Sozoranga,Total Sozoranga,"1,958",473,835,7,176,11,69,387
+,Loja,Sozoranga,Urbana,281,267,10,,,,,4
+,Loja,Sozoranga,Rural,"1,677",206,825,7,176,11,69,383
+,Loja,Zapotillo,Total Zapotillo,"4,405","1,243","2,338",16,247,11,89,461
+,Loja,Zapotillo,Urbana,"1,143",974,144,1,15,1,2,6
+,Loja,Zapotillo,Rural,"3,262",269,"2,194",15,232,10,87,455
+,Loja,Pindal,Total Pindal,"2,922",765,"1,582",9,76,33,32,425
+,Loja,Pindal,Urbana,768,668,77,1,7,9,1,5
+,Loja,Pindal,Rural,"2,154",97,"1,505",8,69,24,31,420
+,Loja,Quilanga,Total Quilanga,"1,278",476,559,1,134,2,15,91
+,Loja,Quilanga,Urbana,297,276,16,,,1,,4
+,Loja,Quilanga,Rural,981,200,543,1,134,1,15,87
+,Loja,Olmedo,Total Olmedo,"1,321",395,705,3,12,,100,106
+,Loja,Olmedo,Urbana,234,225,7,,,,1,1
+,Loja,Olmedo,Rural,"1,087",170,698,3,12,,99,105
+,Los Ríos,Total Los Ríos,Total Los Ríos,"275,131","70,913","166,660",682,"14,398","1,533","4,482","16,463"
+,Los Ríos,Total Los Ríos,Urbana,"147,425","62,011","76,503",190,"3,395","1,171",690,"3,465"
+,Los Ríos,Total Los Ríos,Rural,"127,706","8,902","90,157",492,"11,003",362,"3,792","12,998"
+,Los Ríos,Babahoyo,Total Babahoyo,"56,335","21,193","27,809",196,"2,416",263,694,"3,764"
+,Los Ríos,Babahoyo,Urbana,"31,098","18,743","10,206",45,681,192,151,"1,080"
+,Los Ríos,Babahoyo,Rural,"25,237","2,450","17,603",151,"1,735",71,543,"2,684"
+,Los Ríos,Baba,Total Baba,"14,018","1,421","9,162",40,"1,095",42,368,"1,890"
+,Los Ríos,Baba,Urbana,"1,971","1,099",754,,25,1,7,85
+,Los Ríos,Baba,Rural,"12,047",322,"8,408",40,"1,070",41,361,"1,805"
+,Los Ríos,Montalvo,Total Montalvo,"8,891","2,717","5,400",10,189,35,129,411
+,Los Ríos,Montalvo,Urbana,"5,089","2,574","2,330",6,57,23,12,87
+,Los Ríos,Montalvo,Rural,"3,802",143,"3,070",4,132,12,117,324
+,Los Ríos,Puebloviejo,Total Puebloviejo,"12,322","3,214","7,140",23,711,44,336,854
+,Los Ríos,Puebloviejo,Urbana,"2,890","1,451","1,158",3,169,5,17,87
+,Los Ríos,Puebloviejo,Rural,"9,432","1,763","5,982",20,542,39,319,767
+,Los Ríos,Quevedo,Total Quevedo,"62,809","14,954","43,552",105,"1,612",596,605,"1,385"
+,Los Ríos,Quevedo,Urbana,"54,131","14,131","37,027",87,"1,056",589,268,973
+,Los Ríos,Quevedo,Rural,"8,678",823,"6,525",18,556,7,337,412
+,Los Ríos,Urdaneta,Total Urdaneta,"10,276","1,230","7,183",30,699,14,239,881
+,Los Ríos,Urdaneta,Urbana,"2,154",583,"1,302",3,161,4,17,84
+,Los Ríos,Urdaneta,Rural,"8,122",647,"5,881",27,538,10,222,797
+,Los Ríos,Ventanas,Total Ventanas,"22,642","6,661","12,796",63,"1,380",254,238,"1,250"
+,Los Ríos,Ventanas,Urbana,"12,585","6,533","5,141",24,275,248,42,322
+,Los Ríos,Ventanas,Rural,"10,057",128,"7,655",39,"1,105",6,196,928
+,Los Ríos,Vinces,Total Vinces,"24,499","5,941","13,986",49,"1,706",50,439,"2,328"
+,Los Ríos,Vinces,Urbana,"10,442","5,527","4,240",5,370,18,58,224
+,Los Ríos,Vinces,Rural,"14,057",414,"9,746",44,"1,336",32,381,"2,104"
+,Los Ríos,Palenque,Total Palenque,"7,589","1,372","3,037",58,"1,170",150,204,"1,598"
+,Los Ríos,Palenque,Urbana,"2,146","1,312",472,2,157,71,11,121
+,Los Ríos,Palenque,Rural,"5,443",60,"2,565",56,"1,013",79,193,"1,477"
+,Los Ríos,Buena Fe,Total Buena Fe,"21,508","7,710","12,232",23,878,17,262,386
+,Los Ríos,Buena Fe,Urbana,"13,471","6,058","6,920",5,247,2,54,185
+,Los Ríos,Buena Fe,Rural,"8,037","1,652","5,312",18,631,15,208,201
+,Los Ríos,Valencia,Total Valencia,"15,071","1,216","11,900",37,870,26,362,660
+,Los Ríos,Valencia,Urbana,"6,687",963,"5,423",5,123,4,28,141
+,Los Ríos,Valencia,Rural,"8,384",253,"6,477",32,747,22,334,519
+,Los Ríos,Mocache,Total Mocache,"13,086","1,855","8,454",37,"1,396",38,485,821
+,Los Ríos,Mocache,Urbana,"2,809","1,650","1,026",4,50,12,20,47
+,Los Ríos,Mocache,Rural,"10,277",205,"7,428",33,"1,346",26,465,774
+,Los Ríos,Quinsaloma,Total Quinsaloma,"6,085","1,429","4,009",11,276,4,121,235
+,Los Ríos,Quinsaloma,Urbana,"1,952","1,387",504,1,24,2,5,29
+,Los Ríos,Quinsaloma,Rural,"4,133",42,"3,505",10,252,2,116,206
+,Manabí,Total Manabí,Total Manabí,"468,744","204,327","175,552","1,317","52,355","1,604","19,848","13,741"
+,Manabí,Total Manabí,Urbana,"268,338","194,200","58,241",584,"9,673",636,922,"4,082"
+,Manabí,Total Manabí,Rural,"200,406","10,127","117,311",733,"42,682",968,"18,926","9,659"
+,Manabí,Portoviejo,Total Portoviejo,"94,368","58,149","27,682",165,"5,807",68,615,"1,882"
+,Manabí,Portoviejo,Urbana,"71,579","56,168","11,213",125,"2,789",43,158,"1,083"
+,Manabí,Portoviejo,Rural,"22,789","1,981","16,469",40,"3,018",25,457,799
+,Manabí,Bolívar,Total Bolívar,"12,428","5,285","3,892",29,"1,986",19,"1,004",213
+,Manabí,Bolívar,Urbana,"5,917","4,859",850,9,113,1,23,62
+,Manabí,Bolívar,Rural,"6,511",426,"3,042",20,"1,873",18,981,151
+,Manabí,Chone,Total Chone,"39,580","12,714","15,559",78,"7,496",217,"2,235","1,281"
+,Manabí,Chone,Urbana,"16,522","11,683","3,772",24,784,14,81,164
+,Manabí,Chone,Rural,"23,058","1,031","11,787",54,"6,712",203,"2,154","1,117"
+,Manabí,El Carmen,Total El Carmen,"35,702","5,796","24,943",103,"3,350",189,761,560
+,Manabí,El Carmen,Urbana,"15,256","5,619","8,877",23,345,151,53,188
+,Manabí,El Carmen,Rural,"20,446",177,"16,066",80,"3,005",38,708,372
+,Manabí,Flavio Alfaro,Total Flavio Alfaro,"8,319",881,"4,850",32,"1,313",95,856,292
+,Manabí,Flavio Alfaro,Urbana,"2,707",818,"1,591",7,186,17,44,44
+,Manabí,Flavio Alfaro,Rural,"5,612",63,"3,259",25,"1,127",78,812,248
+,Manabí,Jipijapa,Total Jipijapa,"22,405","10,541","5,096",30,"3,775",38,"1,920","1,005"
+,Manabí,Jipijapa,Urbana,"12,254","10,417",920,9,425,22,73,388
+,Manabí,Jipijapa,Rural,"10,151",124,"4,176",21,"3,350",16,"1,847",617
+,Manabí,Junín,Total Junín,"6,642","1,646","2,876",19,"1,578",25,248,250
+,Manabí,Junín,Urbana,"2,163","1,620",385,3,112,1,12,30
+,Manabí,Junín,Rural,"4,479",26,"2,491",16,"1,466",24,236,220
+,Manabí,Manta,Total Manta,"78,620","65,780","8,500",175,"2,593",365,151,"1,056"
+,Manabí,Manta,Urbana,"75,041","65,688","6,588",153,"1,557",211,108,736
+,Manabí,Manta,Rural,"3,579",92,"1,912",22,"1,036",154,43,320
+,Manabí,Montecristi,Total Montecristi,"28,191","12,277","12,671",176,"2,032",87,171,777
+,Manabí,Montecristi,Urbana,"19,989","10,433","7,766",105,"1,251",72,107,255
+,Manabí,Montecristi,Rural,"8,202","1,844","4,905",71,781,15,64,522
+,Manabí,Paján,Total Paján,"13,265","2,377","3,515",34,"3,596",18,"3,100",625
+,Manabí,Paján,Urbana,"2,399","2,225",71,6,37,2,13,45
+,Manabí,Paján,Rural,"10,866",152,"3,444",28,"3,559",16,"3,087",580
+,Manabí,Pichincha,Total Pichincha,"9,106",713,"3,646",23,"2,008",30,"2,428",258
+,Manabí,Pichincha,Urbana,"1,300",678,563,3,21,5,14,16
+,Manabí,Pichincha,Rural,"7,806",35,"3,083",20,"1,987",25,"2,414",242
+,Manabí,Rocafuerte,Total Rocafuerte,"12,772","2,946","8,496",19,695,49,176,391
+,Manabí,Rocafuerte,Urbana,"3,391","2,902",425,1,25,,6,32
+,Manabí,Rocafuerte,Rural,"9,381",44,"8,071",18,670,49,170,359
+,Manabí,Santa Ana,Total Santa Ana,"14,527","2,703","7,159",36,"2,847",25,"1,309",448
+,Manabí,Santa Ana,Urbana,"3,262","2,304",779,3,99,,20,57
+,Manabí,Santa Ana,Rural,"11,265",399,"6,380",33,"2,748",25,"1,289",391
+,Manabí,Sucre,Total Sucre,"19,581","8,014","8,657",61,"1,451",47,586,765
+,Manabí,Sucre,Urbana,"6,883","6,092",539,7,76,35,12,122
+,Manabí,Sucre,Rural,"12,698","1,922","8,118",54,"1,375",12,574,643
+,Manabí,Tosagua,Total Tosagua,"13,018","1,308","8,868",40,"1,191",93,627,891
+,Manabí,Tosagua,Urbana,"3,363","1,235","1,943",13,116,2,14,40
+,Manabí,Tosagua,Rural,"9,655",73,"6,925",27,"1,075",91,613,851
+,Manabí,24 de Mayo,Total 24 de Mayo,"9,601","1,453","3,938",40,"3,044",7,690,429
+,Manabí,24 de Mayo,Urbana,"1,958","1,284",423,2,169,2,16,62
+,Manabí,24 de Mayo,Rural,"7,643",169,"3,515",38,"2,875",5,674,367
+,Manabí,Pedernales,Total Pedernales,"19,770","2,981","10,143",75,"3,179",161,"2,064","1,167"
+,Manabí,Pedernales,Urbana,"7,875","2,503","4,586",21,419,38,81,227
+,Manabí,Pedernales,Rural,"11,895",478,"5,557",54,"2,760",123,"1,983",940
+,Manabí,Olmedo,Total Olmedo,"3,177",500,"1,530",5,824,8,199,111
+,Manabí,Olmedo,Urbana,855,496,298,1,41,1,7,11
+,Manabí,Olmedo,Rural,"2,322",4,"1,232",4,783,7,192,100
+,Manabí,Puerto López,Total Puerto López,"6,734",327,"4,726",10,"1,097",7,74,493
+,Manabí,Puerto López,Urbana,"3,247",69,"2,389",5,515,2,46,221
+,Manabí,Puerto López,Rural,"3,487",258,"2,337",5,582,5,28,272
+,Manabí,Jama,Total Jama,"5,005","1,410","1,858",82,"1,009",8,343,295
+,Manabí,Jama,Urbana,"1,622","1,217",262,9,86,,4,44
+,Manabí,Jama,Rural,"3,383",193,"1,596",73,923,8,339,251
+,Manabí,Jaramijó,Total Jaramijó,"7,740","4,292","2,792",48,385,11,26,186
+,Manabí,Jaramijó,Urbana,"7,364","4,142","2,589",43,378,11,24,177
+,Manabí,Jaramijó,Rural,376,150,203,5,7,,2,9
+,Manabí,San Vicente,Total San Vicente,"8,193","2,234","4,155",37,"1,099",37,265,366
+,Manabí,San Vicente,Urbana,"3,391","1,748","1,412",12,129,6,6,78
+,Manabí,San Vicente,Rural,"4,802",486,"2,743",25,970,31,259,288
+,Morona Santiago,Total Morona Santiago,Total Morona Santiago,"51,588","21,677","12,435",199,940,"1,448","1,687","13,202"
+,Morona Santiago,Total Morona Santiago,Urbana,"19,855","17,161","2,009",38,70,328,51,198
+,Morona Santiago,Total Morona Santiago,Rural,"31,733","4,516","10,426",161,870,"1,120","1,636","13,004"
+,Morona Santiago,Morona,Total Morona,"15,495","7,208","5,001",53,220,197,189,"2,627"
+,Morona Santiago,Morona,Urbana,"7,179","6,083",932,16,27,85,7,29
+,Morona Santiago,Morona,Rural,"8,316","1,125","4,069",37,193,112,182,"2,598"
+,Morona Santiago,Gualaquiza,Total Gualaquiza,"6,418","3,337","1,226",38,79,462,45,"1,231"
+,Morona Santiago,Gualaquiza,Urbana,"2,943","2,740",148,11,5,23,5,11
+,Morona Santiago,Gualaquiza,Rural,"3,475",597,"1,078",27,74,439,40,"1,220"
+,Morona Santiago,Limón Indanza,Total Limón Indanza,"2,781","1,507",202,5,40,524,28,475
+,Morona Santiago,Limón Indanza,Urbana,"1,205","1,005",16,,2,172,2,8
+,Morona Santiago,Limón Indanza,Rural,"1,576",502,186,5,38,352,26,467
+,Morona Santiago,Palora,Total Palora,"3,454","1,715","1,107",10,25,10,22,565
+,Morona Santiago,Palora,Urbana,"1,731","1,464",221,3,6,3,5,29
+,Morona Santiago,Palora,Rural,"1,723",251,886,7,19,7,17,536
+,Morona Santiago,Santiago,Total Santiago,"2,803","1,739",499,48,25,131,14,347
+,Morona Santiago,Santiago,Urbana,810,766,20,1,1,19,,3
+,Morona Santiago,Santiago,Rural,"1,993",973,479,47,24,112,14,344
+,Morona Santiago,Sucúa,Total Sucúa,"6,674","3,454","1,962",18,230,37,64,909
+,Morona Santiago,Sucúa,Urbana,"3,386","2,913",403,4,14,12,3,37
+,Morona Santiago,Sucúa,Rural,"3,288",541,"1,559",14,216,25,61,872
+,Morona Santiago,Huamboya,Total Huamboya,"2,570",350,959,10,91,20,96,"1,044"
+,Morona Santiago,Huamboya,Urbana,398,317,67,,3,1,2,8
+,Morona Santiago,Huamboya,Rural,"2,172",33,892,10,88,19,94,"1,036"
+,Morona Santiago,San Juan Bosco,Total San Juan Bosco,"1,192",701,205,5,12,17,42,210
+,Morona Santiago,San Juan Bosco,Urbana,492,471,10,,1,1,4,5
+,Morona Santiago,San Juan Bosco,Rural,700,230,195,5,11,16,38,205
+,Morona Santiago,Taisha,Total Taisha,"5,518",395,410,5,132,11,"1,063","3,502"
+,Morona Santiago,Taisha,Urbana,589,376,135,3,8,4,15,48
+,Morona Santiago,Taisha,Rural,"4,929",19,275,2,124,7,"1,048","3,454"
+,Morona Santiago,Logroño,Total Logroño,"1,820",516,411,5,49,20,43,776
+,Morona Santiago,Logroño,Urbana,438,422,9,,,3,,4
+,Morona Santiago,Logroño,Rural,"1,382",94,402,5,49,17,43,772
+,Morona Santiago,Pablo Sexto,Total Pablo Sexto,616,317,148,,3,,4,144
+,Morona Santiago,Pablo Sexto,Urbana,318,271,39,,2,,2,4
+,Morona Santiago,Pablo Sexto,Rural,298,46,109,,1,,2,140
+,Morona Santiago,Tiwintza,Total Tiwintza,"2,247",438,305,2,34,19,77,"1,372"
+,Morona Santiago,Tiwintza,Urbana,366,333,9,,1,5,6,12
+,Morona Santiago,Tiwintza,Rural,"1,881",105,296,2,33,14,71,"1,360"
+,Napo,Total Napo,Total Napo,"33,997","16,648","8,254",120,"2,890","1,283",314,"4,488"
+,Napo,Total Napo,Urbana,"13,909","12,519",773,34,141,324,13,105
+,Napo,Total Napo,Rural,"20,088","4,129","7,481",86,"2,749",959,301,"4,383"
+,Napo,Tena,Total Tena,"20,774","9,851","5,451",93,"1,226",625,207,"3,321"
+,Napo,Tena,Urbana,"9,412","8,478",529,26,77,225,9,68
+,Napo,Tena,Rural,"11,362","1,373","4,922",67,"1,149",400,198,"3,253"
+,Napo,Archidona,Total Archidona,"7,258","2,433","1,898",12,"1,558",316,93,948
+,Napo,Archidona,Urbana,"2,131","1,781",184,4,60,72,4,26
+,Napo,Archidona,Rural,"5,127",652,"1,714",8,"1,498",244,89,922
+,Napo,El Chaco,Total El Chaco,"2,778","2,224",356,9,57,95,6,31
+,Napo,El Chaco,Urbana,"1,382","1,308",42,3,2,24,,3
+,Napo,El Chaco,Rural,"1,396",916,314,6,55,71,6,28
+,Napo,Quijos,Total Quijos,"1,981","1,458",259,5,23,217,2,17
+,Napo,Quijos,Urbana,609,596,8,1,2,1,,1
+,Napo,Quijos,Rural,"1,372",862,251,4,21,216,2,16
+,Napo,Carlos Julio Arosemena Tola,Total Carlos Julio Arosemena Tola,"1,206",682,290,1,26,30,6,171
+,Napo,Carlos Julio Arosemena Tola,Urbana,375,356,10,,,2,,7
+,Napo,Carlos Julio Arosemena Tola,Rural,831,326,280,1,26,28,6,164
+,Pastaza,Total Pastaza,Total Pastaza,"30,714","16,032","6,307",247,"1,867","1,446",362,"4,453"
+,Pastaza,Total Pastaza,Urbana,"12,026","10,713",673,20,106,446,14,54
+,Pastaza,Total Pastaza,Rural,"18,688","5,319","5,634",227,"1,761","1,000",348,"4,399"
+,Pastaza,Pastaza,Total Pastaza,"23,257","12,644","4,501",110,"1,430","1,031",216,"3,325"
+,Pastaza,Pastaza,Urbana,"10,745","9,649",573,19,40,425,10,29
+,Pastaza,Pastaza,Rural,"12,512","2,995","3,928",91,"1,390",606,206,"3,296"
+,Pastaza,Mera,Total Mera,"4,328","2,317","1,219",30,157,206,105,294
+,Pastaza,Mera,Urbana,267,240,10,,,17,,
+,Pastaza,Mera,Rural,"4,061","2,077","1,209",30,157,189,105,294
+,Pastaza,Santa Clara,Total Santa Clara,"1,214",692,294,44,46,26,4,108
+,Pastaza,Santa Clara,Urbana,503,486,6,,5,2,,4
+,Pastaza,Santa Clara,Rural,711,206,288,44,41,24,4,104
+,Pastaza,Arajuno,Total Arajuno,"1,915",379,293,63,234,183,37,726
+,Pastaza,Arajuno,Urbana,511,338,84,1,61,2,4,21
+,Pastaza,Arajuno,Rural,"1,404",41,209,62,173,181,33,705
+,Pichincha,Total Pichincha,Total Pichincha,"983,801","914,115","51,213","1,065","6,106","6,978",656,"3,668"
+,Pichincha,Total Pichincha,Urbana,"641,680","631,736","5,937",396,781,"1,850",128,852
+,Pichincha,Total Pichincha,Rural,"342,121","282,379","45,276",669,"5,325","5,128",528,"2,816"
+,Pichincha,Distrito Metropolitano de Quito,Total Distrito Metropolitano de Quito,"865,770","822,459","30,979",847,"3,231","5,855",310,"2,089"
+,Pichincha,Distrito Metropolitano de Quito,Urbana,"583,055","575,616","4,206",330,678,"1,403",106,716
+,Pichincha,Distrito Metropolitano de Quito,Rural,"282,715","246,843","26,773",517,"2,553","4,452",204,"1,373"
+,Pichincha,Cayambe,Total Cayambe,"29,050","22,404","4,116",38,"1,185",204,71,"1,032"
+,Pichincha,Cayambe,Urbana,"13,067","12,720",175,17,12,76,7,60
+,Pichincha,Cayambe,Rural,"15,983","9,684","3,941",21,"1,173",128,64,972
+,Pichincha,Mejía,Total Mejía,"28,725","24,808","2,973",31,368,375,25,145
+,Pichincha,Mejía,Urbana,"6,911","6,818",65,2,3,12,,11
+,Pichincha,Mejía,Rural,"21,814","17,990","2,908",29,365,363,25,134
+,Pichincha,Pedro Moncayo,Total Pedro Moncayo,"10,971","6,918","3,787",19,87,47,11,102
+,Pichincha,Pedro Moncayo,Urbana,"3,732","3,550",142,4,1,23,2,10
+,Pichincha,Pedro Moncayo,Rural,"7,239","3,368","3,645",15,86,24,9,92
+,Pichincha,Rumiñahui,Total Rumiñahui,"33,224","31,871",764,38,44,435,10,62
+,Pichincha,Rumiñahui,Urbana,"29,863","29,155",297,36,15,309,8,43
+,Pichincha,Rumiñahui,Rural,"3,361","2,716",467,2,29,126,2,19
+,Pichincha,San Miguel de los Bancos,Total San Miguel de los Bancos,"3,893","2,000","1,653",47,102,26,11,54
+,Pichincha,San Miguel de los Bancos,Urbana,"1,512","1,291",196,,9,10,2,4
+,Pichincha,San Miguel de los Bancos,Rural,"2,381",709,"1,457",47,93,16,9,50
+,Pichincha,Pedro Vicente Maldonado,Total Pedro Vicente Maldonado,"4,644","1,929","1,846",26,745,24,33,41
+,Pichincha,Pedro Vicente Maldonado,Urbana,"2,270","1,690",508,6,46,15,2,3
+,Pichincha,Pedro Vicente Maldonado,Rural,"2,374",239,"1,338",20,699,9,31,38
+,Pichincha,Puerto Quito,Total Puerto Quito,"7,524","1,726","5,095",19,344,12,185,143
+,Pichincha,Puerto Quito,Urbana,"1,270",896,348,1,17,2,1,5
+,Pichincha,Puerto Quito,Rural,"6,254",830,"4,747",18,327,10,184,138
+,Tungurahua,Total Tungurahua,Total Tungurahua,"172,555","140,416","15,418",126,"11,013",587,743,"4,252"
+,Tungurahua,Total Tungurahua,Urbana,"71,579","70,107",865,47,219,98,34,209
+,Tungurahua,Total Tungurahua,Rural,"100,976","70,309","14,553",79,"10,794",489,709,"4,043"
+,Tungurahua,Ambato,Total Ambato,"113,908","100,390","5,728",79,"4,548",296,488,"2,379"
+,Tungurahua,Ambato,Urbana,"57,004","56,137",470,35,133,60,27,142
+,Tungurahua,Ambato,Rural,"56,904","44,253","5,258",44,"4,415",236,461,"2,237"
+,Tungurahua,Baños de Agua Santa,Total Baños de Agua Santa,"6,940","6,096",493,8,106,175,8,54
+,Tungurahua,Baños de Agua Santa,Urbana,"4,456","4,324",76,3,19,28,,6
+,Tungurahua,Baños de Agua Santa,Rural,"2,484","1,772",417,5,87,147,8,48
+,Tungurahua,Cevallos,Total Cevallos,"3,240","2,447",581,3,152,1,15,41
+,Tungurahua,Cevallos,Urbana,"1,193","1,127",48,3,10,,1,4
+,Tungurahua,Cevallos,Rural,"2,047","1,320",533,,142,1,14,37
+,Tungurahua,Mocha,Total Mocha,"2,316","1,384",725,,150,2,19,36
+,Tungurahua,Mocha,Urbana,455,423,26,,3,,2,1
+,Tungurahua,Mocha,Rural,"1,861",961,699,,147,2,17,35
+,Tungurahua,Patate,Total Patate,"4,323","2,401",295,7,"1,415",13,12,180
+,Tungurahua,Patate,Urbana,788,758,11,1,13,1,,4
+,Tungurahua,Patate,Rural,"3,535","1,643",284,6,"1,402",12,12,176
+,Tungurahua,Quero,Total Quero,"6,031","2,532","2,384",3,856,15,33,208
+,Tungurahua,Quero,Urbana,987,915,47,,10,5,1,9
+,Tungurahua,Quero,Rural,"5,044","1,617","2,337",3,846,10,32,199
+,Tungurahua,San Pedro de Pelileo,Total San Pedro de Pelileo,"18,471","14,240","1,840",10,"1,352",41,69,919
+,Tungurahua,San Pedro de Pelileo,Urbana,"3,209","3,130",41,4,10,1,1,22
+,Tungurahua,San Pedro de Pelileo,Rural,"15,262","11,110","1,799",6,"1,342",40,68,897
+,Tungurahua,Santiago de Píllaro,Total Santiago de Píllaro,"13,201","8,349","2,294",8,"2,134",43,21,352
+,Tungurahua,Santiago de Píllaro,Urbana,"3,027","2,881",112,1,13,3,1,16
+,Tungurahua,Santiago de Píllaro,Rural,"10,174","5,468","2,182",7,"2,121",40,20,336
+,Tungurahua,Tisaleo,Total Tisaleo,"4,125","2,577","1,078",8,300,1,78,83
+,Tungurahua,Tisaleo,Urbana,460,412,34,,8,,1,5
+,Tungurahua,Tisaleo,Rural,"3,665","2,165","1,044",8,292,1,77,78
+,Zamora Chinchipe,Total Zamora Chinchipe,Total Zamora Chinchipe,"32,011","20,390","4,452",98,658,"3,521",187,"2,705"
+,Zamora Chinchipe,Total Zamora Chinchipe,Urbana,"15,690","14,257",660,22,54,586,17,94
+,Zamora Chinchipe,Total Zamora Chinchipe,Rural,"16,321","6,133","3,792",76,604,"2,935",170,"2,611"
+,Zamora Chinchipe,Zamora,Total Zamora,"9,297","7,067",783,25,96,"1,027",15,284
+,Zamora Chinchipe,Zamora,Urbana,"5,546","5,223",148,6,18,123,2,26
+,Zamora Chinchipe,Zamora,Rural,"3,751","1,844",635,19,78,904,13,258
+,Zamora Chinchipe,Chinchipe,Total Chinchipe,"3,061","1,586",559,13,203,284,21,395
+,Zamora Chinchipe,Chinchipe,Urbana,"1,291","1,185",33,4,5,60,2,2
+,Zamora Chinchipe,Chinchipe,Rural,"1,770",401,526,9,198,224,19,393
+,Zamora Chinchipe,Nangaritza,Total Nangaritza,"1,638",926,166,2,15,214,25,290
+,Zamora Chinchipe,Nangaritza,Urbana,685,640,17,1,3,20,1,3
+,Zamora Chinchipe,Nangaritza,Rural,953,286,149,1,12,194,24,287
+,Zamora Chinchipe,Yacuambi,Total Yacuambi,"1,779",721,424,3,28,210,15,378
+,Zamora Chinchipe,Yacuambi,Urbana,470,374,25,,5,58,1,7
+,Zamora Chinchipe,Yacuambi,Rural,"1,309",347,399,3,23,152,14,371
+,Zamora Chinchipe,Yantzaza,Total Yantzaza,"6,721","4,380",896,32,48,"1,002",33,330
+,Zamora Chinchipe,Yantzaza,Urbana,"3,968","3,321",329,8,14,270,4,22
+,Zamora Chinchipe,Yantzaza,Rural,"2,753","1,059",567,24,34,732,29,308
+,Zamora Chinchipe,El Pangui,Total El Pangui,"3,673","2,284",667,11,37,234,26,414
+,Zamora Chinchipe,El Pangui,Urbana,"1,676","1,578",57,2,3,17,3,16
+,Zamora Chinchipe,El Pangui,Rural,"1,997",706,610,9,34,217,23,398
+,Zamora Chinchipe,Centinela del Cóndor,Total Centinela del Cóndor,"2,178","1,438",294,7,23,304,26,86
+,Zamora Chinchipe,Centinela del Cóndor,Urbana,898,835,16,1,4,33,3,6
+,Zamora Chinchipe,Centinela del Cóndor,Rural,"1,280",603,278,6,19,271,23,80
+,Zamora Chinchipe,Palanda,Total Palanda,"2,403","1,326",398,3,198,58,19,401
+,Zamora Chinchipe,Palanda,Urbana,710,680,22,,1,4,,3
+,Zamora Chinchipe,Palanda,Rural,"1,693",646,376,3,197,54,19,398
+,Zamora Chinchipe,Paquisha,Total Paquisha,"1,261",662,265,2,10,188,7,127
+,Zamora Chinchipe,Paquisha,Urbana,446,421,13,,1,1,1,9
+,Zamora Chinchipe,Paquisha,Rural,815,241,252,2,9,187,6,118
+,Galápagos,Total Galápagos,Total Galápagos,"9,657","2,841","6,502",27,244,11,2,30
+,Galápagos,Total Galápagos,Urbana,"7,789","2,714","4,846",12,201,10,,6
+,Galápagos,Total Galápagos,Rural,"1,868",127,"1,656",15,43,1,2,24
+,Galápagos,San Cristóbal,Total San Cristóbal,"2,741","2,314",399,3,13,3,,9
+,Galápagos,San Cristóbal,Urbana,"2,426","2,224",190,2,7,2,,1
+,Galápagos,San Cristóbal,Rural,315,90,209,1,6,1,,8
+,Galápagos,Isabela,Total Isabela,"1,033",333,655,5,33,1,,6
+,Galápagos,Isabela,Urbana,932,329,568,5,26,1,,3
+,Galápagos,Isabela,Rural,101,4,87,,7,,,3
+,Galápagos,Santa Cruz,Total Santa Cruz,"5,883",194,"5,448",19,198,7,2,15
+,Galápagos,Santa Cruz,Urbana,"4,431",161,"4,088",5,168,7,,2
+,Galápagos,Santa Cruz,Rural,"1,452",33,"1,360",14,30,,2,13
+,Sucumbíos,Total Sucumbíos,Total Sucumbíos,"57,719","28,393","20,060",180,"2,042",995,691,"5,358"
+,Sucumbíos,Total Sucumbíos,Urbana,"25,482","21,923","2,675",37,151,460,46,190
+,Sucumbíos,Total Sucumbíos,Rural,"32,237","6,470","17,385",143,"1,891",535,645,"5,168"
+,Sucumbíos,Lago Agrio,Total Lago Agrio,"31,273","18,329","8,918",77,909,656,406,"1,978"
+,Sucumbíos,Lago Agrio,Urbana,"17,580","15,339","1,602",22,87,390,28,112
+,Sucumbíos,Lago Agrio,Rural,"13,693","2,990","7,316",55,822,266,378,"1,866"
+,Sucumbíos,Gonzalo Pizarro,Total Gonzalo Pizarro,"2,860","1,220","1,160",9,72,45,8,346
+,Sucumbíos,Gonzalo Pizarro,Urbana,661,595,58,,4,,,4
+,Sucumbíos,Gonzalo Pizarro,Rural,"2,199",625,"1,102",9,68,45,8,342
+,Sucumbíos,Putumayo,Total Putumayo,"2,503",477,"1,358",11,162,44,63,388
+,Sucumbíos,Putumayo,Urbana,579,385,163,2,7,4,4,14
+,Sucumbíos,Putumayo,Rural,"1,924",92,"1,195",9,155,40,59,374
+,Sucumbíos,Shushufindi,Total Shushufindi,"14,404","5,624","6,278",33,591,161,131,"1,586"
+,Sucumbíos,Shushufindi,Urbana,"5,084","4,227",708,12,35,65,7,30
+,Sucumbíos,Shushufindi,Rural,"9,320","1,397","5,570",21,556,96,124,"1,556"
+,Sucumbíos,Sucumbíos,Total Sucumbíos,952,623,189,2,51,40,16,31
+,Sucumbíos,Sucumbíos,Urbana,232,204,9,,7,,3,9
+,Sucumbíos,Sucumbíos,Rural,720,419,180,2,44,40,13,22
+,Sucumbíos,Cascales,Total Cascales,"3,198","1,363","1,077",8,71,30,24,625
+,Sucumbíos,Cascales,Urbana,789,701,74,,5,,2,7
+,Sucumbíos,Cascales,Rural,"2,409",662,"1,003",8,66,30,22,618
+,Sucumbíos,Cuyabeno,Total Cuyabeno,"2,529",757,"1,080",40,186,19,43,404
+,Sucumbíos,Cuyabeno,Urbana,557,472,61,1,6,1,2,14
+,Sucumbíos,Cuyabeno,Rural,"1,972",285,"1,019",39,180,18,41,390
+,Orellana,Total Orellana,Total Orellana,"49,645","19,716","16,957",143,"3,421",261,745,"8,402"
+,Orellana,Total Orellana,Urbana,"22,412","16,914","4,679",29,436,65,45,244
+,Orellana,Total Orellana,Rural,"27,233","2,802","12,278",114,"2,985",196,700,"8,158"
+,Orellana,Francisco de Orellana,Total Francisco de Orellana,"26,448","12,766","7,391",40,"2,336",105,361,"3,449"
+,Orellana,Francisco de Orellana,Urbana,"15,510","11,669","3,241",14,359,28,31,168
+,Orellana,Francisco de Orellana,Rural,"10,938","1,097","4,150",26,"1,977",77,330,"3,281"
+,Orellana,Aguarico,Total Aguarico,"1,641",376,214,41,90,37,8,875
+,Orellana,Aguarico,Urbana,172,105,35,,5,12,,15
+,Orellana,Aguarico,Rural,"1,469",271,179,41,85,25,8,860
+,Orellana,La Joya de los Sachas,Total La Joya de los Sachas,"14,964","4,771","7,637",40,523,49,284,"1,660"
+,Orellana,La Joya de los Sachas,Urbana,"5,122","3,810","1,195",8,41,19,10,39
+,Orellana,La Joya de los Sachas,Rural,"9,842",961,"6,442",32,482,30,274,"1,621"
+,Orellana,Loreto,Total Loreto,"6,592","1,803","1,715",22,472,70,92,"2,418"
+,Orellana,Loreto,Urbana,"1,608","1,330",208,7,31,6,4,22
+,Orellana,Loreto,Rural,"4,984",473,"1,507",15,441,64,88,"2,396"
+,Santo Domingo de los Tsáchilas,Total Santo Domingo de los Tsáchilas,Total Santo Domingo de los Tsáchilas,"150,746","97,915","43,400",398,"3,250","3,154","1,033","1,596"
+,Santo Domingo de los Tsáchilas,Total Santo Domingo de los Tsáchilas,Urbana,"113,660","91,583","17,511",235,903,"2,595",152,681
+,Santo Domingo de los Tsáchilas,Total Santo Domingo de los Tsáchilas,Rural,"37,086","6,332","25,889",163,"2,347",559,881,915
+,Santo Domingo de los Tsáchilas,Santo Domingo,Total Santo Domingo,"135,560","95,731","31,554",371,"2,773","3,117",646,"1,368"
+,Santo Domingo de los Tsáchilas,Santo Domingo,Urbana,"103,132","89,928","9,083",222,651,"2,572",112,564
+,Santo Domingo de los Tsáchilas,Santo Domingo,Rural,"32,428","5,803","22,471",149,"2,122",545,534,804
+,Santo Domingo de los Tsáchilas,La Concordia,Total La Concordia,"15,186","2,184","11,846",27,477,37,387,228
+,Santo Domingo de los Tsáchilas,La Concordia,Urbana,"10,528","1,655","8,428",13,252,23,40,117
+,Santo Domingo de los Tsáchilas,La Concordia,Rural,"4,658",529,"3,418",14,225,14,347,111
+,Santa Elena,Total Santa Elena,Total Santa Elena,"98,242","52,427","32,491",116,"4,995",204,"1,462","6,547"
+,Santa Elena,Total Santa Elena,Urbana,"52,634","38,133","9,756",49,"1,903",63,591,"2,139"
+,Santa Elena,Total Santa Elena,Rural,"45,608","14,294","22,735",67,"3,092",141,871,"4,408"
+,Santa Elena,Santa Elena,Total Santa Elena,"46,909","15,095","23,492",63,"2,901",165,872,"4,321"
+,Santa Elena,Santa Elena,Urbana,"14,542","8,962","4,125",8,649,34,107,657
+,Santa Elena,Santa Elena,Rural,"32,367","6,133","19,367",55,"2,252",131,765,"3,664"
+,Santa Elena,La Libertad,Total La Libertad,"29,408","21,396","4,918",38,"1,235",25,462,"1,334"
+,Santa Elena,La Libertad,Urbana,"29,377","21,396","4,911",37,"1,217",25,459,"1,332"
+,Santa Elena,La Libertad,Rural,31,,7,1,18,,3,2
+,Santa Elena,Salinas,Total Salinas,"21,925","15,936","4,081",15,859,14,128,892
+,Santa Elena,Salinas,Urbana,"8,715","7,775",720,4,37,4,25,150
+,Santa Elena,Salinas,Rural,"13,210","8,161","3,361",11,822,10,103,742
+,,,,,,,,,,,
+,"Nota: En el censo 2022, las viviendas ocupadas con personas ausentes fueron el insumo base para calcular la población no censada. Estas viviendas se incorporan a la categoría de viviendas particulares ocupadas al calcular indicadores y generar tabulados en los que esta condición de ocupación forme parte del cálculo.",,,,,,,,,,

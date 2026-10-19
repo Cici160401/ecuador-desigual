@@ -1,0 +1,463 @@
+,,,,,,
+,,,,,,
+,Tabla N°:,5 ,,,,
+,Nombre de la tabla:,"Viviendas particulares ocupadas  por disponibilidad de energía eléctrica proveniente de la red pública, según provincia, área  y disponibilidad de energia distinta a la red pública",,,,
+,Fuente:,VIII Censo de Población y VII de Vivienda ,,,,
+,Elaboración:,Instituto Nacional de Estadística y Censos (INEC) - Componente de Metodología y Análisis – CPV 2022 ,,,,
+,,,,,,
+,,,,,,
+Índice,"Provincia, área y disponibilidad de energía distinta a la red publica",,,Número total de viviendas particulares ocupadas,"Energía eléctrica proveniente de la red pública	",
+,,,,,Si,No
+,,,,,,
+,Total Nacional,Total Nacional,Total Nacional,"5,062,650","4,935,302","127,348"
+,Total Nacional,Total Nacional,Planta eléctrica (generador de luz),"209,516","199,607","9,909"
+,Total Nacional,Total Nacional,Energía solar (panel fotovoltaico),"9,733","6,927","2,806"
+,Total Nacional,Total Nacional,Energía eólica (a partir del viento),452,410,42
+,Total Nacional,Total Nacional,Otra fuente (desechos vegetales y animales),"3,211","1,694","1,517"
+,Total Nacional,Total Nacional,No dispone,"4,839,738","4,726,664","113,074"
+,Total Nacional,Urbana,Total Urbana,"3,238,614","3,204,435","34,179"
+,Total Nacional,Urbana,Planta eléctrica (generador de luz),"147,337","142,981","4,356"
+,Total Nacional,Urbana,Energía solar (panel fotovoltaico),"3,615","3,389",226
+,Total Nacional,Urbana,Energía eólica (a partir del viento),279,258,21
+,Total Nacional,Urbana,Otra fuente (desechos vegetales y animales),"1,526",987,539
+,Total Nacional,Urbana,No dispone,"3,085,857","3,056,820","29,037"
+,Total Nacional,Rural,Total Rural,"1,824,036","1,730,867","93,169"
+,Total Nacional,Rural,Planta eléctrica (generador de luz),"62,179","56,626","5,553"
+,Total Nacional,Rural,Energía solar (panel fotovoltaico),"6,118","3,538","2,580"
+,Total Nacional,Rural,Energía eólica (a partir del viento),173,152,21
+,Total Nacional,Rural,Otra fuente (desechos vegetales y animales),"1,685",707,978
+,Total Nacional,Rural,No dispone,"1,753,881","1,669,844","84,037"
+,Azuay,Total Azuay,Total Azuay,"242,168","239,108","3,060"
+,Azuay,Total Azuay,Planta eléctrica (generador de luz),"12,609","12,391",218
+,Azuay,Total Azuay,Energía solar (panel fotovoltaico),229,172,57
+,Azuay,Total Azuay,Energía eólica (a partir del viento),13,9,4
+,Azuay,Total Azuay,Otra fuente (desechos vegetales y animales),101,55,46
+,Azuay,Total Azuay,No dispone,"229,216","226,481","2,735"
+,Azuay,Urbana,Total Urbana,"131,740","131,252",488
+,Azuay,Urbana,Planta eléctrica (generador de luz),"9,634","9,506",128
+,Azuay,Urbana,Energía solar (panel fotovoltaico),127,105,22
+,Azuay,Urbana,Energía eólica (a partir del viento),6,4,2
+,Azuay,Urbana,Otra fuente (desechos vegetales y animales),41,31,10
+,Azuay,Urbana,No dispone,"121,932","121,606",326
+,Azuay,Rural,Total Rural,"110,428","107,856","2,572"
+,Azuay,Rural,Planta eléctrica (generador de luz),"2,975","2,885",90
+,Azuay,Rural,Energía solar (panel fotovoltaico),102,67,35
+,Azuay,Rural,Energía eólica (a partir del viento),7,5,2
+,Azuay,Rural,Otra fuente (desechos vegetales y animales),60,24,36
+,Azuay,Rural,No dispone,"107,284","104,875","2,409"
+,Bolívar,Total Bolívar,Total Bolívar,"60,985","57,052","3,933"
+,Bolívar,Total Bolívar,Planta eléctrica (generador de luz),"2,230","2,188",42
+,Bolívar,Total Bolívar,Energía solar (panel fotovoltaico),50,40,10
+,Bolívar,Total Bolívar,Energía eólica (a partir del viento),3,1,2
+,Bolívar,Total Bolívar,Otra fuente (desechos vegetales y animales),31,18,13
+,Bolívar,Total Bolívar,No dispone,"58,671","54,805","3,866"
+,Bolívar,Urbana,Total Urbana,"20,593","20,417",176
+,Bolívar,Urbana,Planta eléctrica (generador de luz),957,950,7
+,Bolívar,Urbana,Energía solar (panel fotovoltaico),24,24,
+,Bolívar,Urbana,Energía eólica (a partir del viento),1,1,
+,Bolívar,Urbana,Otra fuente (desechos vegetales y animales),8,8,
+,Bolívar,Urbana,No dispone,"19,603","19,434",169
+,Bolívar,Rural,Total Rural,"40,392","36,635","3,757"
+,Bolívar,Rural,Planta eléctrica (generador de luz),"1,273","1,238",35
+,Bolívar,Rural,Energía solar (panel fotovoltaico),26,16,10
+,Bolívar,Rural,Energía eólica (a partir del viento),2,,2
+,Bolívar,Rural,Otra fuente (desechos vegetales y animales),23,10,13
+,Bolívar,Rural,No dispone,"39,068","35,371","3,697"
+,Cañar,Total Cañar,Total Cañar,"67,954","66,662","1,292"
+,Cañar,Total Cañar,Planta eléctrica (generador de luz),"2,037","1,998",39
+,Cañar,Total Cañar,Energía solar (panel fotovoltaico),50,43,7
+,Cañar,Total Cañar,Energía eólica (a partir del viento),14,13,1
+,Cañar,Total Cañar,Otra fuente (desechos vegetales y animales),52,22,30
+,Cañar,Total Cañar,No dispone,"65,801","64,586","1,215"
+,Cañar,Urbana,Total Urbana,"30,114","29,871",243
+,Cañar,Urbana,Planta eléctrica (generador de luz),"1,026","1,010",16
+,Cañar,Urbana,Energía solar (panel fotovoltaico),18,16,2
+,Cañar,Urbana,Energía eólica (a partir del viento),3,2,1
+,Cañar,Urbana,Otra fuente (desechos vegetales y animales),5,3,2
+,Cañar,Urbana,No dispone,"29,062","28,840",222
+,Cañar,Rural,Total Rural,"37,840","36,791","1,049"
+,Cañar,Rural,Planta eléctrica (generador de luz),"1,011",988,23
+,Cañar,Rural,Energía solar (panel fotovoltaico),32,27,5
+,Cañar,Rural,Energía eólica (a partir del viento),11,11,
+,Cañar,Rural,Otra fuente (desechos vegetales y animales),47,19,28
+,Cañar,Rural,No dispone,"36,739","35,746",993
+,Carchi,Total Carchi,Total Carchi,"51,160","50,133","1,027"
+,Carchi,Total Carchi,Planta eléctrica (generador de luz),"1,874","1,839",35
+,Carchi,Total Carchi,Energía solar (panel fotovoltaico),116,98,18
+,Carchi,Total Carchi,Energía eólica (a partir del viento),3,1,2
+,Carchi,Total Carchi,Otra fuente (desechos vegetales y animales),12,9,3
+,Carchi,Total Carchi,No dispone,"49,155","48,186",969
+,Carchi,Urbana,Total Urbana,"26,322","26,175",147
+,Carchi,Urbana,Planta eléctrica (generador de luz),"1,445","1,430",15
+,Carchi,Urbana,Energía solar (panel fotovoltaico),73,70,3
+,Carchi,Urbana,Energía eólica (a partir del viento),2,1,1
+,Carchi,Urbana,Otra fuente (desechos vegetales y animales),5,4,1
+,Carchi,Urbana,No dispone,"24,797","24,670",127
+,Carchi,Rural,Total Rural,"24,838","23,958",880
+,Carchi,Rural,Planta eléctrica (generador de luz),429,409,20
+,Carchi,Rural,Energía solar (panel fotovoltaico),43,28,15
+,Carchi,Rural,Energía eólica (a partir del viento),1,,1
+,Carchi,Rural,Otra fuente (desechos vegetales y animales),7,5,2
+,Carchi,Rural,No dispone,"24,358","23,516",842
+,Cotopaxi,Total Cotopaxi,Total Cotopaxi,"135,068","130,641","4,427"
+,Cotopaxi,Total Cotopaxi,Planta eléctrica (generador de luz),"4,584","4,481",103
+,Cotopaxi,Total Cotopaxi,Energía solar (panel fotovoltaico),168,141,27
+,Cotopaxi,Total Cotopaxi,Energía eólica (a partir del viento),8,8,
+,Cotopaxi,Total Cotopaxi,Otra fuente (desechos vegetales y animales),92,38,54
+,Cotopaxi,Total Cotopaxi,No dispone,"130,216","125,973","4,243"
+,Cotopaxi,Urbana,Total Urbana,"47,919","47,508",411
+,Cotopaxi,Urbana,Planta eléctrica (generador de luz),"2,167","2,141",26
+,Cotopaxi,Urbana,Energía solar (panel fotovoltaico),69,60,9
+,Cotopaxi,Urbana,Energía eólica (a partir del viento),2,2,
+,Cotopaxi,Urbana,Otra fuente (desechos vegetales y animales),30,12,18
+,Cotopaxi,Urbana,No dispone,"45,651","45,293",358
+,Cotopaxi,Rural,Total Rural,"87,149","83,133","4,016"
+,Cotopaxi,Rural,Planta eléctrica (generador de luz),"2,417","2,340",77
+,Cotopaxi,Rural,Energía solar (panel fotovoltaico),99,81,18
+,Cotopaxi,Rural,Energía eólica (a partir del viento),6,6,
+,Cotopaxi,Rural,Otra fuente (desechos vegetales y animales),62,26,36
+,Cotopaxi,Rural,No dispone,"84,565","80,680","3,885"
+,Chimborazo,Total Chimborazo,Total Chimborazo,"144,869","140,745","4,124"
+,Chimborazo,Total Chimborazo,Planta eléctrica (generador de luz),"3,797","3,691",106
+,Chimborazo,Total Chimborazo,Energía solar (panel fotovoltaico),578,546,32
+,Chimborazo,Total Chimborazo,Energía eólica (a partir del viento),10,10,
+,Chimborazo,Total Chimborazo,Otra fuente (desechos vegetales y animales),82,51,31
+,Chimborazo,Total Chimborazo,No dispone,"140,402","136,447","3,955"
+,Chimborazo,Urbana,Total Urbana,"71,406","71,122",284
+,Chimborazo,Urbana,Planta eléctrica (generador de luz),"1,860","1,842",18
+,Chimborazo,Urbana,Energía solar (panel fotovoltaico),467,465,2
+,Chimborazo,Urbana,Energía eólica (a partir del viento),6,6,
+,Chimborazo,Urbana,Otra fuente (desechos vegetales y animales),23,23,
+,Chimborazo,Urbana,No dispone,"69,050","68,786",264
+,Chimborazo,Rural,Total Rural,"73,463","69,623","3,840"
+,Chimborazo,Rural,Planta eléctrica (generador de luz),"1,937","1,849",88
+,Chimborazo,Rural,Energía solar (panel fotovoltaico),111,81,30
+,Chimborazo,Rural,Energía eólica (a partir del viento),4,4,
+,Chimborazo,Rural,Otra fuente (desechos vegetales y animales),59,28,31
+,Chimborazo,Rural,No dispone,"71,352","67,661","3,691"
+,El Oro,Total El Oro,Total El Oro,"216,642","213,743","2,899"
+,El Oro,Total El Oro,Planta eléctrica (generador de luz),"6,806","6,571",235
+,El Oro,Total El Oro,Energía solar (panel fotovoltaico),104,89,15
+,El Oro,Total El Oro,Energía eólica (a partir del viento),11,11,
+,El Oro,Total El Oro,Otra fuente (desechos vegetales y animales),69,49,20
+,El Oro,Total El Oro,No dispone,"209,652","207,023","2,629"
+,El Oro,Urbana,Total Urbana,"170,478","168,844","1,634"
+,El Oro,Urbana,Planta eléctrica (generador de luz),"5,859","5,687",172
+,El Oro,Urbana,Energía solar (panel fotovoltaico),73,66,7
+,El Oro,Urbana,Energía eólica (a partir del viento),9,9,
+,El Oro,Urbana,Otra fuente (desechos vegetales y animales),49,38,11
+,El Oro,Urbana,No dispone,"164,488","163,044","1,444"
+,El Oro,Rural,Total Rural,"46,164","44,899","1,265"
+,El Oro,Rural,Planta eléctrica (generador de luz),947,884,63
+,El Oro,Rural,Energía solar (panel fotovoltaico),31,23,8
+,El Oro,Rural,Energía eólica (a partir del viento),2,2,
+,El Oro,Rural,Otra fuente (desechos vegetales y animales),20,11,9
+,El Oro,Rural,No dispone,"45,164","43,979","1,185"
+,Esmeraldas,Total Esmeraldas,Total Esmeraldas,"159,710","150,010","9,700"
+,Esmeraldas,Total Esmeraldas,Planta eléctrica (generador de luz),"7,739","6,975",764
+,Esmeraldas,Total Esmeraldas,Energía solar (panel fotovoltaico),239,95,144
+,Esmeraldas,Total Esmeraldas,Energía eólica (a partir del viento),24,23,1
+,Esmeraldas,Total Esmeraldas,Otra fuente (desechos vegetales y animales),315,172,143
+,Esmeraldas,Total Esmeraldas,No dispone,"151,393","142,745","8,648"
+,Esmeraldas,Urbana,Total Urbana,"71,593","69,841","1,752"
+,Esmeraldas,Urbana,Planta eléctrica (generador de luz),"3,465","3,341",124
+,Esmeraldas,Urbana,Energía solar (panel fotovoltaico),40,31,9
+,Esmeraldas,Urbana,Energía eólica (a partir del viento),10,10,
+,Esmeraldas,Urbana,Otra fuente (desechos vegetales y animales),128,100,28
+,Esmeraldas,Urbana,No dispone,"67,950","66,359","1,591"
+,Esmeraldas,Rural,Total Rural,"88,117","80,169","7,948"
+,Esmeraldas,Rural,Planta eléctrica (generador de luz),"4,274","3,634",640
+,Esmeraldas,Rural,Energía solar (panel fotovoltaico),199,64,135
+,Esmeraldas,Rural,Energía eólica (a partir del viento),14,13,1
+,Esmeraldas,Rural,Otra fuente (desechos vegetales y animales),187,72,115
+,Esmeraldas,Rural,No dispone,"83,443","76,386","7,057"
+,Guayas,Total Guayas,Total Guayas,"1,289,733","1,263,559","26,174"
+,Guayas,Total Guayas,Planta eléctrica (generador de luz),"55,836","51,917","3,919"
+,Guayas,Total Guayas,Energía solar (panel fotovoltaico),920,656,264
+,Guayas,Total Guayas,Energía eólica (a partir del viento),132,118,14
+,Guayas,Total Guayas,Otra fuente (desechos vegetales y animales),905,449,456
+,Guayas,Total Guayas,No dispone,"1,231,940","1,210,419","21,521"
+,Guayas,Urbana,Total Urbana,"1,094,731","1,080,034","14,697"
+,Guayas,Urbana,Planta eléctrica (generador de luz),"48,695","46,173","2,522"
+,Guayas,Urbana,Energía solar (panel fotovoltaico),618,538,80
+,Guayas,Urbana,Energía eólica (a partir del viento),102,91,11
+,Guayas,Urbana,Otra fuente (desechos vegetales y animales),602,326,276
+,Guayas,Urbana,No dispone,"1,044,714","1,032,906","11,808"
+,Guayas,Rural,Total Rural,"195,002","183,525","11,477"
+,Guayas,Rural,Planta eléctrica (generador de luz),"7,141","5,744","1,397"
+,Guayas,Rural,Energía solar (panel fotovoltaico),302,118,184
+,Guayas,Rural,Energía eólica (a partir del viento),30,27,3
+,Guayas,Rural,Otra fuente (desechos vegetales y animales),303,123,180
+,Guayas,Rural,No dispone,"187,226","177,513","9,713"
+,Imbabura,Total Imbabura,Total Imbabura,"136,070","134,098","1,972"
+,Imbabura,Total Imbabura,Planta eléctrica (generador de luz),"5,412","5,317",95
+,Imbabura,Total Imbabura,Energía solar (panel fotovoltaico),213,193,20
+,Imbabura,Total Imbabura,Energía eólica (a partir del viento),10,10,
+,Imbabura,Total Imbabura,Otra fuente (desechos vegetales y animales),22,19,3
+,Imbabura,Total Imbabura,No dispone,"130,413","128,559","1,854"
+,Imbabura,Urbana,Total Urbana,"74,703","74,377",326
+,Imbabura,Urbana,Planta eléctrica (generador de luz),"2,827","2,789",38
+,Imbabura,Urbana,Energía solar (panel fotovoltaico),156,151,5
+,Imbabura,Urbana,Energía eólica (a partir del viento),7,7,
+,Imbabura,Urbana,Otra fuente (desechos vegetales y animales),14,13,1
+,Imbabura,Urbana,No dispone,"71,699","71,417",282
+,Imbabura,Rural,Total Rural,"61,367","59,721","1,646"
+,Imbabura,Rural,Planta eléctrica (generador de luz),"2,585","2,528",57
+,Imbabura,Rural,Energía solar (panel fotovoltaico),57,42,15
+,Imbabura,Rural,Energía eólica (a partir del viento),3,3,
+,Imbabura,Rural,Otra fuente (desechos vegetales y animales),8,6,2
+,Imbabura,Rural,No dispone,"58,714","57,142","1,572"
+,Loja,Total Loja,Total Loja,"143,741","140,909","2,832"
+,Loja,Total Loja,Planta eléctrica (generador de luz),"5,501","5,363",138
+,Loja,Total Loja,Energía solar (panel fotovoltaico),226,126,100
+,Loja,Total Loja,Energía eólica (a partir del viento),38,37,1
+,Loja,Total Loja,Otra fuente (desechos vegetales y animales),39,30,9
+,Loja,Total Loja,No dispone,"137,937","135,353","2,584"
+,Loja,Urbana,Total Urbana,"86,536","86,061",475
+,Loja,Urbana,Planta eléctrica (generador de luz),"3,839","3,779",60
+,Loja,Urbana,Energía solar (panel fotovoltaico),85,69,16
+,Loja,Urbana,Energía eólica (a partir del viento),34,33,1
+,Loja,Urbana,Otra fuente (desechos vegetales y animales),12,10,2
+,Loja,Urbana,No dispone,"82,566","82,170",396
+,Loja,Rural,Total Rural,"57,205","54,848","2,357"
+,Loja,Rural,Planta eléctrica (generador de luz),"1,662","1,584",78
+,Loja,Rural,Energía solar (panel fotovoltaico),141,57,84
+,Loja,Rural,Energía eólica (a partir del viento),4,4,
+,Loja,Rural,Otra fuente (desechos vegetales y animales),27,20,7
+,Loja,Rural,No dispone,"55,371","53,183","2,188"
+,Los Ríos,Total Los Ríos,Total Los Ríos,"275,131","265,724","9,407"
+,Los Ríos,Total Los Ríos,Planta eléctrica (generador de luz),"8,011","7,642",369
+,Los Ríos,Total Los Ríos,Energía solar (panel fotovoltaico),129,113,16
+,Los Ríos,Total Los Ríos,Energía eólica (a partir del viento),20,18,2
+,Los Ríos,Total Los Ríos,Otra fuente (desechos vegetales y animales),166,89,77
+,Los Ríos,Total Los Ríos,No dispone,"266,805","257,862","8,943"
+,Los Ríos,Urbana,Total Urbana,"147,425","144,156","3,269"
+,Los Ríos,Urbana,Planta eléctrica (generador de luz),"4,544","4,435",109
+,Los Ríos,Urbana,Energía solar (panel fotovoltaico),60,56,4
+,Los Ríos,Urbana,Energía eólica (a partir del viento),8,7,1
+,Los Ríos,Urbana,Otra fuente (desechos vegetales y animales),65,28,37
+,Los Ríos,Urbana,No dispone,"142,748","139,630","3,118"
+,Los Ríos,Rural,Total Rural,"127,706","121,568","6,138"
+,Los Ríos,Rural,Planta eléctrica (generador de luz),"3,467","3,207",260
+,Los Ríos,Rural,Energía solar (panel fotovoltaico),69,57,12
+,Los Ríos,Rural,Energía eólica (a partir del viento),12,11,1
+,Los Ríos,Rural,Otra fuente (desechos vegetales y animales),101,61,40
+,Los Ríos,Rural,No dispone,"124,057","118,232","5,825"
+,Manabí,Total Manabí,Total Manabí,"468,744","451,104","17,640"
+,Manabí,Total Manabí,Planta eléctrica (generador de luz),"17,868","16,858","1,010"
+,Manabí,Total Manabí,Energía solar (panel fotovoltaico),332,245,87
+,Manabí,Total Manabí,Energía eólica (a partir del viento),38,34,4
+,Manabí,Total Manabí,Otra fuente (desechos vegetales y animales),311,192,119
+,Manabí,Total Manabí,No dispone,"450,195","433,775","16,420"
+,Manabí,Urbana,Total Urbana,"268,338","263,516","4,822"
+,Manabí,Urbana,Planta eléctrica (generador de luz),"11,705","11,260",445
+,Manabí,Urbana,Energía solar (panel fotovoltaico),190,164,26
+,Manabí,Urbana,Energía eólica (a partir del viento),20,18,2
+,Manabí,Urbana,Otra fuente (desechos vegetales y animales),142,96,46
+,Manabí,Urbana,No dispone,"256,281","251,978","4,303"
+,Manabí,Rural,Total Rural,"200,406","187,588","12,818"
+,Manabí,Rural,Planta eléctrica (generador de luz),"6,163","5,598",565
+,Manabí,Rural,Energía solar (panel fotovoltaico),142,81,61
+,Manabí,Rural,Energía eólica (a partir del viento),18,16,2
+,Manabí,Rural,Otra fuente (desechos vegetales y animales),169,96,73
+,Manabí,Rural,No dispone,"193,914","181,797","12,117"
+,Morona Santiago,Total Morona Santiago,Total Morona Santiago,"51,588","42,517","9,071"
+,Morona Santiago,Total Morona Santiago,Planta eléctrica (generador de luz),"2,961","2,672",289
+,Morona Santiago,Total Morona Santiago,Energía solar (panel fotovoltaico),"1,672",521,"1,151"
+,Morona Santiago,Total Morona Santiago,Energía eólica (a partir del viento),9,8,1
+,Morona Santiago,Total Morona Santiago,Otra fuente (desechos vegetales y animales),38,17,21
+,Morona Santiago,Total Morona Santiago,No dispone,"46,908","39,299","7,609"
+,Morona Santiago,Urbana,Total Urbana,"19,855","19,610",245
+,Morona Santiago,Urbana,Planta eléctrica (generador de luz),"1,497","1,474",23
+,Morona Santiago,Urbana,Energía solar (panel fotovoltaico),35,27,8
+,Morona Santiago,Urbana,Energía eólica (a partir del viento),2,2,
+,Morona Santiago,Urbana,Otra fuente (desechos vegetales y animales),6,6,
+,Morona Santiago,Urbana,No dispone,"18,315","18,101",214
+,Morona Santiago,Rural,Total Rural,"31,733","22,907","8,826"
+,Morona Santiago,Rural,Planta eléctrica (generador de luz),"1,464","1,198",266
+,Morona Santiago,Rural,Energía solar (panel fotovoltaico),"1,637",494,"1,143"
+,Morona Santiago,Rural,Energía eólica (a partir del viento),7,6,1
+,Morona Santiago,Rural,Otra fuente (desechos vegetales y animales),32,11,21
+,Morona Santiago,Rural,No dispone,"28,593","21,198","7,395"
+,Napo,Total Napo,Total Napo,"33,997","31,719","2,278"
+,Napo,Total Napo,Planta eléctrica (generador de luz),769,698,71
+,Napo,Total Napo,Energía solar (panel fotovoltaico),59,32,27
+,Napo,Total Napo,Energía eólica (a partir del viento),7,5,2
+,Napo,Total Napo,Otra fuente (desechos vegetales y animales),25,9,16
+,Napo,Total Napo,No dispone,"33,137","30,975","2,162"
+,Napo,Urbana,Total Urbana,"13,909","13,829",80
+,Napo,Urbana,Planta eléctrica (generador de luz),420,416,4
+,Napo,Urbana,Energía solar (panel fotovoltaico),19,17,2
+,Napo,Urbana,Energía eólica (a partir del viento),,,
+,Napo,Urbana,Otra fuente (desechos vegetales y animales),2,1,1
+,Napo,Urbana,No dispone,"13,468","13,395",73
+,Napo,Rural,Total Rural,"20,088","17,890","2,198"
+,Napo,Rural,Planta eléctrica (generador de luz),349,282,67
+,Napo,Rural,Energía solar (panel fotovoltaico),40,15,25
+,Napo,Rural,Energía eólica (a partir del viento),7,5,2
+,Napo,Rural,Otra fuente (desechos vegetales y animales),23,8,15
+,Napo,Rural,No dispone,"19,669","17,580","2,089"
+,Pastaza,Total Pastaza,Total Pastaza,"30,714","26,730","3,984"
+,Pastaza,Total Pastaza,Planta eléctrica (generador de luz),"1,094",655,439
+,Pastaza,Total Pastaza,Energía solar (panel fotovoltaico),670,288,382
+,Pastaza,Total Pastaza,Energía eólica (a partir del viento),3,2,1
+,Pastaza,Total Pastaza,Otra fuente (desechos vegetales y animales),28,16,12
+,Pastaza,Total Pastaza,No dispone,"28,919","25,769","3,150"
+,Pastaza,Urbana,Total Urbana,"12,026","11,940",86
+,Pastaza,Urbana,Planta eléctrica (generador de luz),309,303,6
+,Pastaza,Urbana,Energía solar (panel fotovoltaico),7,4,3
+,Pastaza,Urbana,Energía eólica (a partir del viento),,,
+,Pastaza,Urbana,Otra fuente (desechos vegetales y animales),3,2,1
+,Pastaza,Urbana,No dispone,"11,707","11,631",76
+,Pastaza,Rural,Total Rural,"18,688","14,790","3,898"
+,Pastaza,Rural,Planta eléctrica (generador de luz),785,352,433
+,Pastaza,Rural,Energía solar (panel fotovoltaico),663,284,379
+,Pastaza,Rural,Energía eólica (a partir del viento),3,2,1
+,Pastaza,Rural,Otra fuente (desechos vegetales y animales),25,14,11
+,Pastaza,Rural,No dispone,"17,212","14,138","3,074"
+,Pichincha,Total Pichincha,Total Pichincha,"983,801","979,411","4,390"
+,Pichincha,Total Pichincha,Planta eléctrica (generador de luz),"49,357","48,663",694
+,Pichincha,Total Pichincha,Energía solar (panel fotovoltaico),"3,201","3,062",139
+,Pichincha,Total Pichincha,Energía eólica (a partir del viento),66,64,2
+,Pichincha,Total Pichincha,Otra fuente (desechos vegetales y animales),330,211,119
+,Pichincha,Total Pichincha,No dispone,"930,847","927,411","3,436"
+,Pichincha,Urbana,Total Urbana,"641,680","639,941","1,739"
+,Pichincha,Urbana,Planta eléctrica (generador de luz),"35,729","35,370",359
+,Pichincha,Urbana,Energía solar (panel fotovoltaico),"1,268","1,255",13
+,Pichincha,Urbana,Energía eólica (a partir del viento),41,41,
+,Pichincha,Urbana,Otra fuente (desechos vegetales y animales),216,134,82
+,Pichincha,Urbana,No dispone,"604,426","603,141","1,285"
+,Pichincha,Rural,Total Rural,"342,121","339,470","2,651"
+,Pichincha,Rural,Planta eléctrica (generador de luz),"13,628","13,293",335
+,Pichincha,Rural,Energía solar (panel fotovoltaico),"1,933","1,807",126
+,Pichincha,Rural,Energía eólica (a partir del viento),25,23,2
+,Pichincha,Rural,Otra fuente (desechos vegetales y animales),114,77,37
+,Pichincha,Rural,No dispone,"326,421","324,270","2,151"
+,Tungurahua,Total Tungurahua,Total Tungurahua,"172,555","170,383","2,172"
+,Tungurahua,Total Tungurahua,Planta eléctrica (generador de luz),"4,008","3,955",53
+,Tungurahua,Total Tungurahua,Energía solar (panel fotovoltaico),191,189,2
+,Tungurahua,Total Tungurahua,Energía eólica (a partir del viento),4,3,1
+,Tungurahua,Total Tungurahua,Otra fuente (desechos vegetales y animales),55,43,12
+,Tungurahua,Total Tungurahua,No dispone,"168,297","166,193","2,104"
+,Tungurahua,Urbana,Total Urbana,"71,579","71,361",218
+,Tungurahua,Urbana,Planta eléctrica (generador de luz),"1,940","1,922",18
+,Tungurahua,Urbana,Energía solar (panel fotovoltaico),117,117,
+,Tungurahua,Urbana,Energía eólica (a partir del viento),3,2,1
+,Tungurahua,Urbana,Otra fuente (desechos vegetales y animales),31,27,4
+,Tungurahua,Urbana,No dispone,"69,488","69,293",195
+,Tungurahua,Rural,Total Rural,"100,976","99,022","1,954"
+,Tungurahua,Rural,Planta eléctrica (generador de luz),"2,068","2,033",35
+,Tungurahua,Rural,Energía solar (panel fotovoltaico),74,72,2
+,Tungurahua,Rural,Energía eólica (a partir del viento),1,1,
+,Tungurahua,Rural,Otra fuente (desechos vegetales y animales),24,16,8
+,Tungurahua,Rural,No dispone,"98,809","96,900","1,909"
+,Zamora Chinchipe,Total Zamora Chinchipe,Total Zamora Chinchipe,"32,011","30,905","1,106"
+,Zamora Chinchipe,Total Zamora Chinchipe,Planta eléctrica (generador de luz),"1,717","1,640",77
+,Zamora Chinchipe,Total Zamora Chinchipe,Energía solar (panel fotovoltaico),77,29,48
+,Zamora Chinchipe,Total Zamora Chinchipe,Energía eólica (a partir del viento),5,5,
+,Zamora Chinchipe,Total Zamora Chinchipe,Otra fuente (desechos vegetales y animales),22,14,8
+,Zamora Chinchipe,Total Zamora Chinchipe,No dispone,"30,190","29,217",973
+,Zamora Chinchipe,Urbana,Total Urbana,"15,690","15,523",167
+,Zamora Chinchipe,Urbana,Planta eléctrica (generador de luz),772,745,27
+,Zamora Chinchipe,Urbana,Energía solar (panel fotovoltaico),14,11,3
+,Zamora Chinchipe,Urbana,Energía eólica (a partir del viento),3,3,
+,Zamora Chinchipe,Urbana,Otra fuente (desechos vegetales y animales),7,6,1
+,Zamora Chinchipe,Urbana,No dispone,"14,894","14,758",136
+,Zamora Chinchipe,Rural,Total Rural,"16,321","15,382",939
+,Zamora Chinchipe,Rural,Planta eléctrica (generador de luz),945,895,50
+,Zamora Chinchipe,Rural,Energía solar (panel fotovoltaico),63,18,45
+,Zamora Chinchipe,Rural,Energía eólica (a partir del viento),2,2,
+,Zamora Chinchipe,Rural,Otra fuente (desechos vegetales y animales),15,8,7
+,Zamora Chinchipe,Rural,No dispone,"15,296","14,459",837
+,Galápagos,Total Galápagos,Total Galápagos,"9,657","9,624",33
+,Galápagos,Total Galápagos,Planta eléctrica (generador de luz),377,366,11
+,Galápagos,Total Galápagos,Energía solar (panel fotovoltaico),46,46,
+,Galápagos,Total Galápagos,Energía eólica (a partir del viento),2,2,
+,Galápagos,Total Galápagos,Otra fuente (desechos vegetales y animales),2,2,
+,Galápagos,Total Galápagos,No dispone,"9,230","9,208",22
+,Galápagos,Urbana,Total Urbana,"7,789","7,776",13
+,Galápagos,Urbana,Planta eléctrica (generador de luz),303,300,3
+,Galápagos,Urbana,Energía solar (panel fotovoltaico),32,32,
+,Galápagos,Urbana,Energía eólica (a partir del viento),2,2,
+,Galápagos,Urbana,Otra fuente (desechos vegetales y animales),2,2,
+,Galápagos,Urbana,No dispone,"7,450","7,440",10
+,Galápagos,Rural,Total Rural,"1,868","1,848",20
+,Galápagos,Rural,Planta eléctrica (generador de luz),74,66,8
+,Galápagos,Rural,Energía solar (panel fotovoltaico),14,14,
+,Galápagos,Rural,Energía eólica (a partir del viento),,,
+,Galápagos,Rural,Otra fuente (desechos vegetales y animales),,,
+,Galápagos,Rural,No dispone,"1,780","1,768",12
+,Sucumbíos,Total Sucumbíos,Total Sucumbíos,"57,719","54,076","3,643"
+,Sucumbíos,Total Sucumbíos,Planta eléctrica (generador de luz),"2,779","2,479",300
+,Sucumbíos,Total Sucumbíos,Energía solar (panel fotovoltaico),216,56,160
+,Sucumbíos,Total Sucumbíos,Energía eólica (a partir del viento),9,8,1
+,Sucumbíos,Total Sucumbíos,Otra fuente (desechos vegetales y animales),40,20,20
+,Sucumbíos,Total Sucumbíos,No dispone,"54,675","51,513","3,162"
+,Sucumbíos,Urbana,Total Urbana,"25,482","25,261",221
+,Sucumbíos,Urbana,Planta eléctrica (generador de luz),976,954,22
+,Sucumbíos,Urbana,Energía solar (panel fotovoltaico),23,23,
+,Sucumbíos,Urbana,Energía eólica (a partir del viento),4,4,
+,Sucumbíos,Urbana,Otra fuente (desechos vegetales y animales),6,6,
+,Sucumbíos,Urbana,No dispone,"24,473","24,274",199
+,Sucumbíos,Rural,Total Rural,"32,237","28,815","3,422"
+,Sucumbíos,Rural,Planta eléctrica (generador de luz),"1,803","1,525",278
+,Sucumbíos,Rural,Energía solar (panel fotovoltaico),193,33,160
+,Sucumbíos,Rural,Energía eólica (a partir del viento),5,4,1
+,Sucumbíos,Rural,Otra fuente (desechos vegetales y animales),34,14,20
+,Sucumbíos,Rural,No dispone,"30,202","27,239","2,963"
+,Orellana,Total Orellana,Total Orellana,"49,645","44,105","5,540"
+,Orellana,Total Orellana,Planta eléctrica (generador de luz),"1,770","1,272",498
+,Orellana,Total Orellana,Energía solar (panel fotovoltaico),101,33,68
+,Orellana,Total Orellana,Energía eólica (a partir del viento),6,6,
+,Orellana,Total Orellana,Otra fuente (desechos vegetales y animales),287,34,253
+,Orellana,Total Orellana,No dispone,"47,481","42,760","4,721"
+,Orellana,Urbana,Total Urbana,"22,412","22,165",247
+,Orellana,Urbana,Planta eléctrica (generador de luz),622,599,23
+,Orellana,Urbana,Energía solar (panel fotovoltaico),15,15,
+,Orellana,Urbana,Energía eólica (a partir del viento),3,3,
+,Orellana,Urbana,Otra fuente (desechos vegetales y animales),10,9,1
+,Orellana,Urbana,No dispone,"21,762","21,539",223
+,Orellana,Rural,Total Rural,"27,233","21,940","5,293"
+,Orellana,Rural,Planta eléctrica (generador de luz),"1,148",673,475
+,Orellana,Rural,Energía solar (panel fotovoltaico),86,18,68
+,Orellana,Rural,Energía eólica (a partir del viento),3,3,
+,Orellana,Rural,Otra fuente (desechos vegetales y animales),277,25,252
+,Orellana,Rural,No dispone,"25,719","21,221","4,498"
+,Santo Domingo de los Tsáchilas,Total Santo Domingo de los Tsáchilas,Total Santo Domingo de los Tsáchilas,"150,746","148,405","2,341"
+,Santo Domingo de los Tsáchilas,Total Santo Domingo de los Tsáchilas,Planta eléctrica (generador de luz),"5,860","5,661",199
+,Santo Domingo de los Tsáchilas,Total Santo Domingo de los Tsáchilas,Energía solar (panel fotovoltaico),65,55,10
+,Santo Domingo de los Tsáchilas,Total Santo Domingo de los Tsáchilas,Energía eólica (a partir del viento),8,8,
+,Santo Domingo de los Tsáchilas,Total Santo Domingo de los Tsáchilas,Otra fuente (desechos vegetales y animales),77,47,30
+,Santo Domingo de los Tsáchilas,Total Santo Domingo de los Tsáchilas,No dispone,"144,736","142,634","2,102"
+,Santo Domingo de los Tsáchilas,Urbana,Total Urbana,"113,660","112,586","1,074"
+,Santo Domingo de los Tsáchilas,Urbana,Planta eléctrica (generador de luz),"4,669","4,558",111
+,Santo Domingo de los Tsáchilas,Urbana,Energía solar (panel fotovoltaico),45,40,5
+,Santo Domingo de los Tsáchilas,Urbana,Energía eólica (a partir del viento),7,7,
+,Santo Domingo de los Tsáchilas,Urbana,Otra fuente (desechos vegetales y animales),35,29,6
+,Santo Domingo de los Tsáchilas,Urbana,No dispone,"108,904","107,952",952
+,Santo Domingo de los Tsáchilas,Rural,Total Rural,"37,086","35,819","1,267"
+,Santo Domingo de los Tsáchilas,Rural,Planta eléctrica (generador de luz),"1,191","1,103",88
+,Santo Domingo de los Tsáchilas,Rural,Energía solar (panel fotovoltaico),20,15,5
+,Santo Domingo de los Tsáchilas,Rural,Energía eólica (a partir del viento),1,1,
+,Santo Domingo de los Tsáchilas,Rural,Otra fuente (desechos vegetales y animales),42,18,24
+,Santo Domingo de los Tsáchilas,Rural,No dispone,"35,832","34,682","1,150"
+,Santa Elena,Total Santa Elena,Total Santa Elena,"98,242","93,939","4,303"
+,Santa Elena,Total Santa Elena,Planta eléctrica (generador de luz),"4,520","4,315",205
+,Santa Elena,Total Santa Elena,Energía solar (panel fotovoltaico),81,59,22
+,Santa Elena,Total Santa Elena,Energía eólica (a partir del viento),9,6,3
+,Santa Elena,Total Santa Elena,Otra fuente (desechos vegetales y animales),110,88,22
+,Santa Elena,Total Santa Elena,No dispone,"93,522","89,471","4,051"
+,Santa Elena,Urbana,Total Urbana,"52,634","51,269","1,365"
+,Santa Elena,Urbana,Planta eléctrica (generador de luz),"2,077","1,997",80
+,Santa Elena,Urbana,Energía solar (panel fotovoltaico),40,33,7
+,Santa Elena,Urbana,Energía eólica (a partir del viento),4,3,1
+,Santa Elena,Urbana,Otra fuente (desechos vegetales y animales),84,73,11
+,Santa Elena,Urbana,No dispone,"50,429","49,163","1,266"
+,Santa Elena,Rural,Total Rural,"45,608","42,670","2,938"
+,Santa Elena,Rural,Planta eléctrica (generador de luz),"2,443","2,318",125
+,Santa Elena,Rural,Energía solar (panel fotovoltaico),41,26,15
+,Santa Elena,Rural,Energía eólica (a partir del viento),5,3,2
+,Santa Elena,Rural,Otra fuente (desechos vegetales y animales),26,15,11
+,Santa Elena,Rural,No dispone,"43,093","40,308","2,785"
+,,,,,,
+,"Nota: En el censo 2022, las viviendas ocupadas con personas ausentes fueron el insumo base para calcular la población no censada. Estas viviendas se incorporan a la categoría de viviendas particulares ocupadas al calcular indicadores y generar tabulados en los que esta condición de ocupación forme parte del cálculo.",,,,,

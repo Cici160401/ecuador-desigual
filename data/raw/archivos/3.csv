@@ -1,0 +1,88 @@
+,,,,,,,,,,
+,,,,,,,,,,
+,Tabla N°:,3 ,,,,,,,,
+,Nombre de la tabla:,"Viviendas particulares ocupadas por tipo de servicio higiénico de la vivienda, según provincia y área ",,,,,,,,
+,Fuente:,VIII Censo de Población y VII de Vivienda ,,,,,,,,
+,Elaboración:,Instituto Nacional de Estadística y Censos (INEC) - Componente de Metodología y Análisis – CPV 2022 ,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Índice,Provincia y área,,Número total de viviendas particulares ocupadas,Tipo de servicio higiénico en la vivienda,,,,,,
+,,,,"Inodoro o escusado, conectado a red pública de alcaltarillado","Inodoro o escusado, conectado a pozo séptico","Inodoro o escusado, conectado a biodigestor","Inodoro o escusado, conectado a pozo ciego","Inodoro o escusado, con descarga directa al mar, río, lago o quebrada",Letrina,No tiene
+,,,,,,,,,,
+,Total Nacional,Total Nacional,"5,062,650","3,330,851","1,222,743","10,019","213,824","48,483","59,285","177,445"
+,Total Nacional,Urbana,"3,238,614","2,677,671","456,526","4,072","43,999","19,149","6,526","30,671"
+,Total Nacional,Rural,"1,824,036","653,180","766,217","5,947","169,825","29,334","52,759","146,774"
+,Azuay,Total Azuay,"242,168","174,655","52,616","1,212","3,058","3,036",527,"7,064"
+,Azuay,Urbana,"131,740","127,343","2,976",227,207,657,26,304
+,Azuay,Rural,"110,428","47,312","49,640",985,"2,851","2,379",501,"6,760"
+,Bolívar,Total Bolívar,"60,985","25,608","21,404",97,"6,110",894,897,"5,975"
+,Bolívar,Urbana,"20,593","18,549","1,485",21,147,225,25,141
+,Bolívar,Rural,"40,392","7,059","19,919",76,"5,963",669,872,"5,834"
+,Cañar,Total Cañar,"67,954","40,421","20,408",199,"1,521","1,769",183,"3,453"
+,Cañar,Urbana,"30,114","26,544","2,765",34,121,410,23,217
+,Cañar,Rural,"37,840","13,877","17,643",165,"1,400","1,359",160,"3,236"
+,Carchi,Total Carchi,"51,160","40,632","7,542",38,849,633,230,"1,236"
+,Carchi,Urbana,"26,322","25,710",320,11,28,125,19,109
+,Carchi,Rural,"24,838","14,922","7,222",27,821,508,211,"1,127"
+,Cotopaxi,Total Cotopaxi,"135,068","68,906","40,262",234,"15,085","1,087",854,"8,640"
+,Cotopaxi,Urbana,"47,919","41,456","5,385",132,409,230,57,250
+,Cotopaxi,Rural,"87,149","27,450","34,877",102,"14,676",857,797,"8,390"
+,Chimborazo,Total Chimborazo,"144,869","90,061","30,591",224,"12,552",865,"2,600","7,976"
+,Chimborazo,Urbana,"71,406","68,699","2,185",66,161,79,29,187
+,Chimborazo,Rural,"73,463","21,362","28,406",158,"12,391",786,"2,571","7,789"
+,El Oro,Total El Oro,"216,642","170,804","30,367",372,"3,075","7,097",537,"4,390"
+,El Oro,Urbana,"170,478","151,238","12,028",173,"1,231","3,272",287,"2,249"
+,El Oro,Rural,"46,164","19,566","18,339",199,"1,844","3,825",250,"2,141"
+,Esmeraldas,Total Esmeraldas,"159,710","61,255","59,906",443,"17,054","2,735","7,320","10,997"
+,Esmeraldas,Urbana,"71,593","51,723","13,653",131,"1,578","1,633",420,"2,455"
+,Esmeraldas,Rural,"88,117","9,532","46,253",312,"15,476","1,102","6,900","8,542"
+,Guayas,Total Guayas,"1,289,733","850,852","345,030","1,910","43,151","4,519","12,065","32,206"
+,Guayas,Urbana,"1,094,731","830,026","224,201","1,378","21,668","2,977","2,807","11,674"
+,Guayas,Rural,"195,002","20,826","120,829",532,"21,483","1,542","9,258","20,532"
+,Imbabura,Total Imbabura,"136,070","110,699","16,484",193,"3,414","1,275",474,"3,531"
+,Imbabura,Urbana,"74,703","72,661","1,165",100,122,397,26,232
+,Imbabura,Rural,"61,367","38,038","15,319",93,"3,292",878,448,"3,299"
+,Loja,Total Loja,"143,741","91,148","38,432",379,"3,776","1,548","1,386","7,072"
+,Loja,Urbana,"86,536","79,751","5,235",106,294,512,104,534
+,Loja,Rural,"57,205","11,397","33,197",273,"3,482","1,036","1,282","6,538"
+,Los Ríos,Total Los Ríos,"275,131","70,913","166,660",682,"14,398","1,533","4,482","16,463"
+,Los Ríos,Urbana,"147,425","62,011","76,503",190,"3,395","1,171",690,"3,465"
+,Los Ríos,Rural,"127,706","8,902","90,157",492,"11,003",362,"3,792","12,998"
+,Manabí,Total Manabí,"468,744","204,327","175,552","1,317","52,355","1,604","19,848","13,741"
+,Manabí,Urbana,"268,338","194,200","58,241",584,"9,673",636,922,"4,082"
+,Manabí,Rural,"200,406","10,127","117,311",733,"42,682",968,"18,926","9,659"
+,Morona Santiago,Total Morona Santiago,"51,588","21,677","12,435",199,940,"1,448","1,687","13,202"
+,Morona Santiago,Urbana,"19,855","17,161","2,009",38,70,328,51,198
+,Morona Santiago,Rural,"31,733","4,516","10,426",161,870,"1,120","1,636","13,004"
+,Napo,Total Napo,"33,997","16,648","8,254",120,"2,890","1,283",314,"4,488"
+,Napo,Urbana,"13,909","12,519",773,34,141,324,13,105
+,Napo,Rural,"20,088","4,129","7,481",86,"2,749",959,301,"4,383"
+,Pastaza,Total Pastaza,"30,714","16,032","6,307",247,"1,867","1,446",362,"4,453"
+,Pastaza,Urbana,"12,026","10,713",673,20,106,446,14,54
+,Pastaza,Rural,"18,688","5,319","5,634",227,"1,761","1,000",348,"4,399"
+,Pichincha,Total Pichincha,"983,801","914,115","51,213","1,065","6,106","6,978",656,"3,668"
+,Pichincha,Urbana,"641,680","631,736","5,937",396,781,"1,850",128,852
+,Pichincha,Rural,"342,121","282,379","45,276",669,"5,325","5,128",528,"2,816"
+,Tungurahua,Total Tungurahua,"172,555","140,416","15,418",126,"11,013",587,743,"4,252"
+,Tungurahua,Urbana,"71,579","70,107",865,47,219,98,34,209
+,Tungurahua,Rural,"100,976","70,309","14,553",79,"10,794",489,709,"4,043"
+,Zamora Chinchipe,Total Zamora Chinchipe,"32,011","20,390","4,452",98,658,"3,521",187,"2,705"
+,Zamora Chinchipe,Urbana,"15,690","14,257",660,22,54,586,17,94
+,Zamora Chinchipe,Rural,"16,321","6,133","3,792",76,604,"2,935",170,"2,611"
+,Galápagos,Total Galápagos,"9,657","2,841","6,502",27,244,11,2,30
+,Galápagos,Urbana,"7,789","2,714","4,846",12,201,10,,6
+,Galápagos,Rural,"1,868",127,"1,656",15,43,1,2,24
+,Sucumbíos,Total Sucumbíos,"57,719","28,393","20,060",180,"2,042",995,691,"5,358"
+,Sucumbíos,Urbana,"25,482","21,923","2,675",37,151,460,46,190
+,Sucumbíos,Rural,"32,237","6,470","17,385",143,"1,891",535,645,"5,168"
+,Orellana,Total Orellana,"49,645","19,716","16,957",143,"3,421",261,745,"8,402"
+,Orellana,Urbana,"22,412","16,914","4,679",29,436,65,45,244
+,Orellana,Rural,"27,233","2,802","12,278",114,"2,985",196,700,"8,158"
+,Santo Domingo de los Tsáchilas,Total Santo Domingo de los Tsáchilas,"150,746","97,915","43,400",398,"3,250","3,154","1,033","1,596"
+,Santo Domingo de los Tsáchilas,Urbana,"113,660","91,583","17,511",235,903,"2,595",152,681
+,Santo Domingo de los Tsáchilas,Rural,"37,086","6,332","25,889",163,"2,347",559,881,915
+,Santa Elena,Total Santa Elena,"98,242","52,427","32,491",116,"4,995",204,"1,462","6,547"
+,Santa Elena,Urbana,"52,634","38,133","9,756",49,"1,903",63,591,"2,139"
+,Santa Elena,Rural,"45,608","14,294","22,735",67,"3,092",141,871,"4,408"
+,,,,,,,,,,
+,"Nota: En el censo 2022, las viviendas ocupadas con personas ausentes fueron el insumo base para calcular la población no censada. Estas viviendas se incorporan a la categoría de viviendas particulares ocupadas al calcular indicadores y generar tabulados en los que esta condición de ocupación forme parte del cálculo.",,,,,,,,,

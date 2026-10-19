@@ -1,0 +1,613 @@
+,,,,,,,,,
+,,,,,,,,,
+,Tabla N°:,7 ,,,,,,,
+,Nombre de la tabla:,"Viviendas particulares ocupadas por fuente de abastecimiento de agua, según provincia, área  y tipo de servicio higiénico",,,,,,,
+,Fuente:,VIII Censo de Población y VII de Vivienda ,,,,,,,
+,Elaboración:,Instituto Nacional de Estadística y Censos (INEC) - Componente de Metodología y Análisis – CPV 2022 ,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Índice,"Provincia, área y tipo de servicio higiénico",,,Número total de viviendas particulares ocupadas,Fuente de abastecimiento de agua,,,,
+,,,,,Empresa pública/Municipio,Juntas de agua/Organizaciones comunitarias/GAD parroquial,Pozo,Carro o tanquero repartidor,"Otras fuentes (río, vertiente, acequia, canal o grieta o agua lluvia)"
+,,,,,,,,,
+,Total Nacional,Total Nacional,Total Nacional,"5,062,650","3,600,915","660,179","382,437","171,759","247,360"
+,Total Nacional,Total Nacional,"Inodoro o escusado, conectado a red pública de alcantarillado","3,330,851","3,020,522","246,387","27,392","21,079","15,471"
+,Total Nacional,Total Nacional,"Inodoro o escusado, conectado a pozo séptico","1,222,743","478,034","296,995","238,796","107,154","101,764"
+,Total Nacional,Total Nacional,"Inodoro o escusado, conectado a biodigestor","10,019","4,826","1,936","1,630",686,941
+,Total Nacional,Total Nacional,"Inodoro o escusado, conectado a pozo ciego","213,824","38,173","57,602","55,757","23,464","38,828"
+,Total Nacional,Total Nacional,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada","48,483","23,063","10,766","3,484","1,714","9,456"
+,Total Nacional,Total Nacional,Letrina,"59,285","6,012","8,777","20,957","5,494","18,045"
+,Total Nacional,Total Nacional,No tiene,"177,445","30,285","37,716","34,421","12,168","62,855"
+,Total Nacional,Urbana,Total Urbana,"3,238,614","2,985,839","54,732","61,234","114,233","22,576"
+,Total Nacional,Urbana,"Inodoro o escusado, conectado a red pública de alcantarillado","2,677,671","2,605,388","30,151","19,291","16,653","6,188"
+,Total Nacional,Urbana,"Inodoro o escusado, conectado a pozo séptico","456,526","320,939","19,896","33,932","73,979","7,780"
+,Total Nacional,Urbana,"Inodoro o escusado, conectado a biodigestor","4,072","3,162",194,207,430,79
+,Total Nacional,Urbana,"Inodoro o escusado, conectado a pozo ciego","43,999","21,457","2,031","3,384","15,213","1,914"
+,Total Nacional,Urbana,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada","19,149","14,744","1,123","1,282",894,"1,106"
+,Total Nacional,Urbana,Letrina,"6,526","3,043",282,862,"1,674",665
+,Total Nacional,Urbana,No tiene,"30,671","17,106","1,055","2,276","5,390","4,844"
+,Total Nacional,Rural,Total Rural,"1,824,036","615,076","605,447","321,203","57,526","224,784"
+,Total Nacional,Rural,"Inodoro o escusado, conectado a red pública de alcantarillado","653,180","415,134","216,236","8,101","4,426","9,283"
+,Total Nacional,Rural,"Inodoro o escusado, conectado a pozo séptico","766,217","157,095","277,099","204,864","33,175","93,984"
+,Total Nacional,Rural,"Inodoro o escusado, conectado a biodigestor","5,947","1,664","1,742","1,423",256,862
+,Total Nacional,Rural,"Inodoro o escusado, conectado a pozo ciego","169,825","16,716","55,571","52,373","8,251","36,914"
+,Total Nacional,Rural,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada","29,334","8,319","9,643","2,202",820,"8,350"
+,Total Nacional,Rural,Letrina,"52,759","2,969","8,495","20,095","3,820","17,380"
+,Total Nacional,Rural,No tiene,"146,774","13,179","36,661","32,145","6,778","58,011"
+,Azuay,Total Azuay,Total Azuay,"242,168","163,452","67,001","1,772",310,"9,633"
+,Azuay,Total Azuay,"Inodoro o escusado, conectado a red pública de alcantarillado","174,655","146,228","27,332",161,82,852
+,Azuay,Total Azuay,"Inodoro o escusado, conectado a pozo séptico","52,616","14,128","32,346",988,145,"5,009"
+,Azuay,Total Azuay,"Inodoro o escusado, conectado a biodigestor","1,212",521,524,25,13,129
+,Azuay,Total Azuay,"Inodoro o escusado, conectado a pozo ciego","3,058",425,"2,096",115,9,413
+,Azuay,Total Azuay,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada","3,036","1,195","1,515",35,10,281
+,Azuay,Total Azuay,Letrina,527,71,229,41,2,184
+,Azuay,Total Azuay,No tiene,"7,064",884,"2,959",407,49,"2,765"
+,Azuay,Urbana,Total Urbana,"131,740","125,607","5,649",89,25,370
+,Azuay,Urbana,"Inodoro o escusado, conectado a red pública de alcantarillado","127,343","122,558","4,598",29,9,149
+,Azuay,Urbana,"Inodoro o escusado, conectado a pozo séptico","2,976","2,040",794,38,4,100
+,Azuay,Urbana,"Inodoro o escusado, conectado a biodigestor",227,191,26,3,3,4
+,Azuay,Urbana,"Inodoro o escusado, conectado a pozo ciego",207,130,58,6,,13
+,Azuay,Urbana,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada",657,481,139,3,3,31
+,Azuay,Urbana,Letrina,26,16,2,,,8
+,Azuay,Urbana,No tiene,304,191,32,10,6,65
+,Azuay,Rural,Total Rural,"110,428","37,845","61,352","1,683",285,"9,263"
+,Azuay,Rural,"Inodoro o escusado, conectado a red pública de alcantarillado","47,312","23,670","22,734",132,73,703
+,Azuay,Rural,"Inodoro o escusado, conectado a pozo séptico","49,640","12,088","31,552",950,141,"4,909"
+,Azuay,Rural,"Inodoro o escusado, conectado a biodigestor",985,330,498,22,10,125
+,Azuay,Rural,"Inodoro o escusado, conectado a pozo ciego","2,851",295,"2,038",109,9,400
+,Azuay,Rural,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada","2,379",714,"1,376",32,7,250
+,Azuay,Rural,Letrina,501,55,227,41,2,176
+,Azuay,Rural,No tiene,"6,760",693,"2,927",397,43,"2,700"
+,Bolívar,Total Bolívar,Total Bolívar,"60,985","21,414","23,383","3,122",42,"13,024"
+,Bolívar,Total Bolívar,"Inodoro o escusado, conectado a red pública de alcantarillado","25,608","18,384","6,776",63,8,377
+,Bolívar,Total Bolívar,"Inodoro o escusado, conectado a pozo séptico","21,404","2,321","11,125","1,251",19,"6,688"
+,Bolívar,Total Bolívar,"Inodoro o escusado, conectado a biodigestor",97,64,21,2,,10
+,Bolívar,Total Bolívar,"Inodoro o escusado, conectado a pozo ciego","6,110",224,"3,149",515,4,"2,218"
+,Bolívar,Total Bolívar,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada",894,288,268,24,1,313
+,Bolívar,Total Bolívar,Letrina,897,23,353,161,,360
+,Bolívar,Total Bolívar,No tiene,"5,975",110,"1,691","1,106",10,"3,058"
+,Bolívar,Urbana,Total Urbana,"20,593","18,274","2,093",54,8,164
+,Bolívar,Urbana,"Inodoro o escusado, conectado a red pública de alcantarillado","18,549","16,664","1,808",20,4,53
+,Bolívar,Urbana,"Inodoro o escusado, conectado a pozo séptico","1,485","1,180",230,17,1,57
+,Bolívar,Urbana,"Inodoro o escusado, conectado a biodigestor",21,19,2,,,
+,Bolívar,Urbana,"Inodoro o escusado, conectado a pozo ciego",147,109,20,5,1,12
+,Bolívar,Urbana,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada",225,214,6,1,,4
+,Bolívar,Urbana,Letrina,25,14,5,1,,5
+,Bolívar,Urbana,No tiene,141,74,22,10,2,33
+,Bolívar,Rural,Total Rural,"40,392","3,140","21,290","3,068",34,"12,860"
+,Bolívar,Rural,"Inodoro o escusado, conectado a red pública de alcantarillado","7,059","1,720","4,968",43,4,324
+,Bolívar,Rural,"Inodoro o escusado, conectado a pozo séptico","19,919","1,141","10,895","1,234",18,"6,631"
+,Bolívar,Rural,"Inodoro o escusado, conectado a biodigestor",76,45,19,2,,10
+,Bolívar,Rural,"Inodoro o escusado, conectado a pozo ciego","5,963",115,"3,129",510,3,"2,206"
+,Bolívar,Rural,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada",669,74,262,23,1,309
+,Bolívar,Rural,Letrina,872,9,348,160,,355
+,Bolívar,Rural,No tiene,"5,834",36,"1,669","1,096",8,"3,025"
+,Cañar,Total Cañar,Total Cañar,"67,954","29,974","29,619","4,208",98,"4,055"
+,Cañar,Total Cañar,"Inodoro o escusado, conectado a red pública de alcantarillado","40,421","26,650","12,041","1,313",23,394
+,Cañar,Total Cañar,"Inodoro o escusado, conectado a pozo séptico","20,408","2,502","13,666","2,302",44,"1,894"
+,Cañar,Total Cañar,"Inodoro o escusado, conectado a biodigestor",199,48,121,12,3,15
+,Cañar,Total Cañar,"Inodoro o escusado, conectado a pozo ciego","1,521",111,"1,129",116,6,159
+,Cañar,Total Cañar,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada","1,769",467,995,96,9,202
+,Cañar,Total Cañar,Letrina,183,14,111,18,1,39
+,Cañar,Total Cañar,No tiene,"3,453",182,"1,556",351,12,"1,352"
+,Cañar,Urbana,Total Urbana,"30,114","25,668","2,500","1,677",23,246
+,Cañar,Urbana,"Inodoro o escusado, conectado a red pública de alcantarillado","26,544","23,696","1,599","1,161",11,77
+,Cañar,Urbana,"Inodoro o escusado, conectado a pozo séptico","2,765","1,490",763,442,7,63
+,Cañar,Urbana,"Inodoro o escusado, conectado a biodigestor",34,30,1,3,,
+,Cañar,Urbana,"Inodoro o escusado, conectado a pozo ciego",121,61,44,11,,5
+,Cañar,Urbana,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada",410,288,64,32,3,23
+,Cañar,Urbana,Letrina,23,11,1,7,,4
+,Cañar,Urbana,No tiene,217,92,28,21,2,74
+,Cañar,Rural,Total Rural,"37,840","4,306","27,119","2,531",75,"3,809"
+,Cañar,Rural,"Inodoro o escusado, conectado a red pública de alcantarillado","13,877","2,954","10,442",152,12,317
+,Cañar,Rural,"Inodoro o escusado, conectado a pozo séptico","17,643","1,012","12,903","1,860",37,"1,831"
+,Cañar,Rural,"Inodoro o escusado, conectado a biodigestor",165,18,120,9,3,15
+,Cañar,Rural,"Inodoro o escusado, conectado a pozo ciego","1,400",50,"1,085",105,6,154
+,Cañar,Rural,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada","1,359",179,931,64,6,179
+,Cañar,Rural,Letrina,160,3,110,11,1,35
+,Cañar,Rural,No tiene,"3,236",90,"1,528",330,10,"1,278"
+,Carchi,Total Carchi,Total Carchi,"51,160","28,854","19,201",253,44,"2,808"
+,Carchi,Total Carchi,"Inodoro o escusado, conectado a red pública de alcantarillado","40,632","27,621","12,520",34,10,447
+,Carchi,Total Carchi,"Inodoro o escusado, conectado a pozo séptico","7,542",809,"5,447",148,22,"1,116"
+,Carchi,Total Carchi,"Inodoro o escusado, conectado a biodigestor",38,16,14,1,,7
+,Carchi,Total Carchi,"Inodoro o escusado, conectado a pozo ciego",849,84,570,22,1,172
+,Carchi,Total Carchi,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada",633,190,338,5,,100
+,Carchi,Total Carchi,Letrina,230,17,52,3,4,154
+,Carchi,Total Carchi,No tiene,"1,236",117,260,40,7,812
+,Carchi,Urbana,Total Urbana,"26,322","25,931",327,10,2,52
+,Carchi,Urbana,"Inodoro o escusado, conectado a red pública de alcantarillado","25,710","25,413",270,3,2,22
+,Carchi,Urbana,"Inodoro o escusado, conectado a pozo séptico",320,265,44,3,,8
+,Carchi,Urbana,"Inodoro o escusado, conectado a biodigestor",11,11,,,,
+,Carchi,Urbana,"Inodoro o escusado, conectado a pozo ciego",28,24,3,,,1
+,Carchi,Urbana,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada",125,121,1,,,3
+,Carchi,Urbana,Letrina,19,12,5,,,2
+,Carchi,Urbana,No tiene,109,85,4,4,,16
+,Carchi,Rural,Total Rural,"24,838","2,923","18,874",243,42,"2,756"
+,Carchi,Rural,"Inodoro o escusado, conectado a red pública de alcantarillado","14,922","2,208","12,250",31,8,425
+,Carchi,Rural,"Inodoro o escusado, conectado a pozo séptico","7,222",544,"5,403",145,22,"1,108"
+,Carchi,Rural,"Inodoro o escusado, conectado a biodigestor",27,5,14,1,,7
+,Carchi,Rural,"Inodoro o escusado, conectado a pozo ciego",821,60,567,22,1,171
+,Carchi,Rural,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada",508,69,337,5,,97
+,Carchi,Rural,Letrina,211,5,47,3,4,152
+,Carchi,Rural,No tiene,"1,127",32,256,36,7,796
+,Cotopaxi,Total Cotopaxi,Total Cotopaxi,"135,068","54,779","64,394","3,652",395,"11,848"
+,Cotopaxi,Total Cotopaxi,"Inodoro o escusado, conectado a red pública de alcantarillado","68,906","45,678","22,300",173,53,702
+,Cotopaxi,Total Cotopaxi,"Inodoro o escusado, conectado a pozo séptico","40,262","7,498","26,450","1,959",156,"4,199"
+,Cotopaxi,Total Cotopaxi,"Inodoro o escusado, conectado a biodigestor",234,131,77,7,1,18
+,Cotopaxi,Total Cotopaxi,"Inodoro o escusado, conectado a pozo ciego","15,085",838,"11,118",454,111,"2,564"
+,Cotopaxi,Total Cotopaxi,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada","1,087",239,379,42,1,426
+,Cotopaxi,Total Cotopaxi,Letrina,854,48,379,122,9,296
+,Cotopaxi,Total Cotopaxi,No tiene,"8,640",347,"3,691",895,64,"3,643"
+,Cotopaxi,Urbana,Total Urbana,"47,919","45,206","1,852",391,113,357
+,Cotopaxi,Urbana,"Inodoro o escusado, conectado a red pública de alcantarillado","41,456","40,564",742,31,22,97
+,Cotopaxi,Urbana,"Inodoro o escusado, conectado a pozo séptico","5,385","3,898",977,324,38,148
+,Cotopaxi,Urbana,"Inodoro o escusado, conectado a biodigestor",132,122,10,,,
+,Cotopaxi,Urbana,"Inodoro o escusado, conectado a pozo ciego",409,234,88,16,33,38
+,Cotopaxi,Urbana,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada",230,213,9,,,8
+,Cotopaxi,Urbana,Letrina,57,20,12,13,5,7
+,Cotopaxi,Urbana,No tiene,250,155,14,7,15,59
+,Cotopaxi,Rural,Total Rural,"87,149","9,573","62,542","3,261",282,"11,491"
+,Cotopaxi,Rural,"Inodoro o escusado, conectado a red pública de alcantarillado","27,450","5,114","21,558",142,31,605
+,Cotopaxi,Rural,"Inodoro o escusado, conectado a pozo séptico","34,877","3,600","25,473","1,635",118,"4,051"
+,Cotopaxi,Rural,"Inodoro o escusado, conectado a biodigestor",102,9,67,7,1,18
+,Cotopaxi,Rural,"Inodoro o escusado, conectado a pozo ciego","14,676",604,"11,030",438,78,"2,526"
+,Cotopaxi,Rural,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada",857,26,370,42,1,418
+,Cotopaxi,Rural,Letrina,797,28,367,109,4,289
+,Cotopaxi,Rural,No tiene,"8,390",192,"3,677",888,49,"3,584"
+,Chimborazo,Total Chimborazo,Total Chimborazo,"144,869","76,957","55,535","1,713",929,"9,735"
+,Chimborazo,Total Chimborazo,"Inodoro o escusado, conectado a red pública de alcantarillado","90,061","72,072","16,666",206,200,917
+,Chimborazo,Total Chimborazo,"Inodoro o escusado, conectado a pozo séptico","30,591","3,957","21,647",681,529,"3,777"
+,Chimborazo,Total Chimborazo,"Inodoro o escusado, conectado a biodigestor",224,78,102,6,5,33
+,Chimborazo,Total Chimborazo,"Inodoro o escusado, conectado a pozo ciego","12,552",415,"9,549",363,132,"2,093"
+,Chimborazo,Total Chimborazo,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada",865,120,432,20,5,288
+,Chimborazo,Total Chimborazo,Letrina,"2,600",31,"2,106",80,6,377
+,Chimborazo,Total Chimborazo,No tiene,"7,976",284,"5,033",357,52,"2,250"
+,Chimborazo,Urbana,Total Urbana,"71,406","68,829","1,852",253,142,330
+,Chimborazo,Urbana,"Inodoro o escusado, conectado a red pública de alcantarillado","68,699","67,493",961,76,56,113
+,Chimborazo,Urbana,"Inodoro o escusado, conectado a pozo séptico","2,185","1,002",827,161,70,125
+,Chimborazo,Urbana,"Inodoro o escusado, conectado a biodigestor",66,58,6,,,2
+,Chimborazo,Urbana,"Inodoro o escusado, conectado a pozo ciego",161,81,38,10,9,23
+,Chimborazo,Urbana,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada",79,70,2,,,7
+,Chimborazo,Urbana,Letrina,29,14,7,2,1,5
+,Chimborazo,Urbana,No tiene,187,111,11,4,6,55
+,Chimborazo,Rural,Total Rural,"73,463","8,128","53,683","1,460",787,"9,405"
+,Chimborazo,Rural,"Inodoro o escusado, conectado a red pública de alcantarillado","21,362","4,579","15,705",130,144,804
+,Chimborazo,Rural,"Inodoro o escusado, conectado a pozo séptico","28,406","2,955","20,820",520,459,"3,652"
+,Chimborazo,Rural,"Inodoro o escusado, conectado a biodigestor",158,20,96,6,5,31
+,Chimborazo,Rural,"Inodoro o escusado, conectado a pozo ciego","12,391",334,"9,511",353,123,"2,070"
+,Chimborazo,Rural,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada",786,50,430,20,5,281
+,Chimborazo,Rural,Letrina,"2,571",17,"2,099",78,5,372
+,Chimborazo,Rural,No tiene,"7,789",173,"5,022",353,46,"2,195"
+,El Oro,Total El Oro,Total El Oro,"216,642","177,467","18,360","10,016","2,703","8,096"
+,El Oro,Total El Oro,"Inodoro o escusado, conectado a red pública de alcantarillado","170,804","157,253","8,299","3,323",915,"1,014"
+,El Oro,Total El Oro,"Inodoro o escusado, conectado a pozo séptico","30,367","13,431","6,944","5,220",920,"3,852"
+,El Oro,Total El Oro,"Inodoro o escusado, conectado a biodigestor",372,173,76,74,8,41
+,El Oro,Total El Oro,"Inodoro o escusado, conectado a pozo ciego","3,075","1,052",731,475,214,603
+,El Oro,Total El Oro,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada","7,097","3,402","1,529",482,264,"1,420"
+,El Oro,Total El Oro,Letrina,537,212,90,53,91,91
+,El Oro,Total El Oro,No tiene,"4,390","1,944",691,389,291,"1,075"
+,El Oro,Urbana,Total Urbana,"170,478","161,635","1,024","4,764","1,824","1,231"
+,El Oro,Urbana,"Inodoro o escusado, conectado a red pública de alcantarillado","151,238","146,824",622,"2,586",777,429
+,El Oro,Urbana,"Inodoro o escusado, conectado a pozo séptico","12,028","9,421",229,"1,630",482,266
+,El Oro,Urbana,"Inodoro o escusado, conectado a biodigestor",173,143,4,19,6,1
+,El Oro,Urbana,"Inodoro o escusado, conectado a pozo ciego","1,231",839,47,199,112,34
+,El Oro,Urbana,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada","3,272","2,689",70,144,180,189
+,El Oro,Urbana,Letrina,287,170,5,28,62,22
+,El Oro,Urbana,No tiene,"2,249","1,549",47,158,205,290
+,El Oro,Rural,Total Rural,"46,164","15,832","17,336","5,252",879,"6,865"
+,El Oro,Rural,"Inodoro o escusado, conectado a red pública de alcantarillado","19,566","10,429","7,677",737,138,585
+,El Oro,Rural,"Inodoro o escusado, conectado a pozo séptico","18,339","4,010","6,715","3,590",438,"3,586"
+,El Oro,Rural,"Inodoro o escusado, conectado a biodigestor",199,30,72,55,2,40
+,El Oro,Rural,"Inodoro o escusado, conectado a pozo ciego","1,844",213,684,276,102,569
+,El Oro,Rural,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada","3,825",713,"1,459",338,84,"1,231"
+,El Oro,Rural,Letrina,250,42,85,25,29,69
+,El Oro,Rural,No tiene,"2,141",395,644,231,86,785
+,Esmeraldas,Total Esmeraldas,Total Esmeraldas,"159,710","85,866","15,116","25,086","6,965","26,677"
+,Esmeraldas,Total Esmeraldas,"Inodoro o escusado, conectado a red pública de alcantarillado","61,255","56,421","2,349",800,887,798
+,Esmeraldas,Total Esmeraldas,"Inodoro o escusado, conectado a pozo séptico","59,906","22,517","10,073","14,280","3,621","9,415"
+,Esmeraldas,Total Esmeraldas,"Inodoro o escusado, conectado a biodigestor",443,184,53,99,28,79
+,Esmeraldas,Total Esmeraldas,"Inodoro o escusado, conectado a pozo ciego","17,054","2,595","1,308","5,923",807,"6,421"
+,Esmeraldas,Total Esmeraldas,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada","2,735","1,512",141,244,273,565
+,Esmeraldas,Total Esmeraldas,Letrina,"7,320",454,466,"1,909",308,"4,183"
+,Esmeraldas,Total Esmeraldas,No tiene,"10,997","2,183",726,"1,831","1,041","5,216"
+,Esmeraldas,Urbana,Total Urbana,"71,593","65,020",699,"2,033","1,715","2,126"
+,Esmeraldas,Urbana,"Inodoro o escusado, conectado a red pública de alcantarillado","51,723","49,842",283,537,553,508
+,Esmeraldas,Urbana,"Inodoro o escusado, conectado a pozo séptico","13,653","11,132",295,924,697,605
+,Esmeraldas,Urbana,"Inodoro o escusado, conectado a biodigestor",131,107,6,4,6,8
+,Esmeraldas,Urbana,"Inodoro o escusado, conectado a pozo ciego","1,578","1,127",31,142,143,135
+,Esmeraldas,Urbana,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada","1,633","1,284",38,71,83,157
+,Esmeraldas,Urbana,Letrina,420,187,11,126,36,60
+,Esmeraldas,Urbana,No tiene,"2,455","1,341",35,229,197,653
+,Esmeraldas,Rural,Total Rural,"88,117","20,846","14,417","23,053","5,250","24,551"
+,Esmeraldas,Rural,"Inodoro o escusado, conectado a red pública de alcantarillado","9,532","6,579","2,066",263,334,290
+,Esmeraldas,Rural,"Inodoro o escusado, conectado a pozo séptico","46,253","11,385","9,778","13,356","2,924","8,810"
+,Esmeraldas,Rural,"Inodoro o escusado, conectado a biodigestor",312,77,47,95,22,71
+,Esmeraldas,Rural,"Inodoro o escusado, conectado a pozo ciego","15,476","1,468","1,277","5,781",664,"6,286"
+,Esmeraldas,Rural,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada","1,102",228,103,173,190,408
+,Esmeraldas,Rural,Letrina,"6,900",267,455,"1,783",272,"4,123"
+,Esmeraldas,Rural,No tiene,"8,542",842,691,"1,602",844,"4,563"
+,Guayas,Total Guayas,Total Guayas,"1,289,733","1,044,766","43,416","85,409","93,487","22,655"
+,Guayas,Total Guayas,"Inodoro o escusado, conectado a red pública de alcantarillado","850,852","839,874","4,541","2,595","2,366","1,476"
+,Guayas,Total Guayas,"Inodoro o escusado, conectado a pozo séptico","345,030","179,512","31,456","55,990","67,686","10,386"
+,Guayas,Total Guayas,"Inodoro o escusado, conectado a biodigestor","1,910","1,085",105,310,353,57
+,Guayas,Total Guayas,"Inodoro o escusado, conectado a pozo ciego","43,151","10,957","3,314","12,801","13,137","2,942"
+,Guayas,Total Guayas,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada","4,519","2,911",222,431,561,394
+,Guayas,Total Guayas,Letrina,"12,065","1,950","1,106","4,059","3,030","1,920"
+,Guayas,Total Guayas,No tiene,"32,206","8,477","2,672","9,223","6,354","5,480"
+,Guayas,Urbana,Total Urbana,"1,094,731","993,375","10,339","7,933","77,121","5,963"
+,Guayas,Urbana,"Inodoro o escusado, conectado a red pública de alcantarillado","830,026","823,351","2,258","1,125","1,993","1,299"
+,Guayas,Urbana,"Inodoro o escusado, conectado a pozo séptico","224,201","151,036","6,967","5,017","58,764","2,417"
+,Guayas,Urbana,"Inodoro o escusado, conectado a biodigestor","1,378","1,017",47,39,258,17
+,Guayas,Urbana,"Inodoro o escusado, conectado a pozo ciego","21,668","8,402",530,869,"11,355",512
+,Guayas,Urbana,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada","2,977","2,426",85,49,283,134
+,Guayas,Urbana,Letrina,"2,807","1,088",97,226,"1,187",209
+,Guayas,Urbana,No tiene,"11,674","6,055",355,608,"3,281","1,375"
+,Guayas,Rural,Total Rural,"195,002","51,391","33,077","77,476","16,366","16,692"
+,Guayas,Rural,"Inodoro o escusado, conectado a red pública de alcantarillado","20,826","16,523","2,283","1,470",373,177
+,Guayas,Rural,"Inodoro o escusado, conectado a pozo séptico","120,829","28,476","24,489","50,973","8,922","7,969"
+,Guayas,Rural,"Inodoro o escusado, conectado a biodigestor",532,68,58,271,95,40
+,Guayas,Rural,"Inodoro o escusado, conectado a pozo ciego","21,483","2,555","2,784","11,932","1,782","2,430"
+,Guayas,Rural,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada","1,542",485,137,382,278,260
+,Guayas,Rural,Letrina,"9,258",862,"1,009","3,833","1,843","1,711"
+,Guayas,Rural,No tiene,"20,532","2,422","2,317","8,615","3,073","4,105"
+,Imbabura,Total Imbabura,Total Imbabura,"136,070","101,191","28,659","1,712",132,"4,376"
+,Imbabura,Total Imbabura,"Inodoro o escusado, conectado a red pública de alcantarillado","110,699","94,303","15,893",80,45,378
+,Imbabura,Total Imbabura,"Inodoro o escusado, conectado a pozo séptico","16,484","4,905","8,235","1,432",42,"1,870"
+,Imbabura,Total Imbabura,"Inodoro o escusado, conectado a biodigestor",193,129,40,9,1,14
+,Imbabura,Total Imbabura,"Inodoro o escusado, conectado a pozo ciego","3,414",627,"2,192",101,4,490
+,Imbabura,Total Imbabura,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada","1,275",551,286,19,19,400
+,Imbabura,Total Imbabura,Letrina,474,79,257,19,1,118
+,Imbabura,Total Imbabura,No tiene,"3,531",597,"1,756",52,20,"1,106"
+,Imbabura,Urbana,Total Urbana,"74,703","72,636","1,778",52,42,195
+,Imbabura,Urbana,"Inodoro o escusado, conectado a red pública de alcantarillado","72,661","70,998","1,555",16,15,77
+,Imbabura,Urbana,"Inodoro o escusado, conectado a pozo séptico","1,165",960,128,28,8,41
+,Imbabura,Urbana,"Inodoro o escusado, conectado a biodigestor",100,96,3,,1,
+,Imbabura,Urbana,"Inodoro o escusado, conectado a pozo ciego",122,91,24,2,,5
+,Imbabura,Urbana,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada",397,322,47,3,15,10
+,Imbabura,Urbana,Letrina,26,22,2,,,2
+,Imbabura,Urbana,No tiene,232,147,19,3,3,60
+,Imbabura,Rural,Total Rural,"61,367","28,555","26,881","1,660",90,"4,181"
+,Imbabura,Rural,"Inodoro o escusado, conectado a red pública de alcantarillado","38,038","23,305","14,338",64,30,301
+,Imbabura,Rural,"Inodoro o escusado, conectado a pozo séptico","15,319","3,945","8,107","1,404",34,"1,829"
+,Imbabura,Rural,"Inodoro o escusado, conectado a biodigestor",93,33,37,9,,14
+,Imbabura,Rural,"Inodoro o escusado, conectado a pozo ciego","3,292",536,"2,168",99,4,485
+,Imbabura,Rural,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada",878,229,239,16,4,390
+,Imbabura,Rural,Letrina,448,57,255,19,1,116
+,Imbabura,Rural,No tiene,"3,299",450,"1,737",49,17,"1,046"
+,Loja,Total Loja,Total Loja,"143,741","90,030","36,996","2,462",305,"13,948"
+,Loja,Total Loja,"Inodoro o escusado, conectado a red pública de alcantarillado","91,148","81,482","8,918",138,30,580
+,Loja,Total Loja,"Inodoro o escusado, conectado a pozo séptico","38,432","6,833","21,854","1,392",171,"8,182"
+,Loja,Total Loja,"Inodoro o escusado, conectado a biodigestor",379,127,189,23,2,38
+,Loja,Total Loja,"Inodoro o escusado, conectado a pozo ciego","3,776",391,"2,030",200,32,"1,123"
+,Loja,Total Loja,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada","1,548",404,593,100,9,442
+,Loja,Total Loja,Letrina,"1,386",145,670,87,8,476
+,Loja,Total Loja,No tiene,"7,072",648,"2,742",522,53,"3,107"
+,Loja,Urbana,Total Urbana,"86,536","82,725","2,828",199,81,703
+,Loja,Urbana,"Inodoro o escusado, conectado a red pública de alcantarillado","79,751","78,068","1,411",45,27,200
+,Loja,Urbana,"Inodoro o escusado, conectado a pozo séptico","5,235","3,633","1,143",119,31,309
+,Loja,Urbana,"Inodoro o escusado, conectado a biodigestor",106,89,15,1,,1
+,Loja,Urbana,"Inodoro o escusado, conectado a pozo ciego",294,192,60,3,11,28
+,Loja,Urbana,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada",512,355,132,5,3,17
+,Loja,Urbana,Letrina,104,60,16,7,1,20
+,Loja,Urbana,No tiene,534,328,51,19,8,128
+,Loja,Rural,Total Rural,"57,205","7,305","34,168","2,263",224,"13,245"
+,Loja,Rural,"Inodoro o escusado, conectado a red pública de alcantarillado","11,397","3,414","7,507",93,3,380
+,Loja,Rural,"Inodoro o escusado, conectado a pozo séptico","33,197","3,200","20,711","1,273",140,"7,873"
+,Loja,Rural,"Inodoro o escusado, conectado a biodigestor",273,38,174,22,2,37
+,Loja,Rural,"Inodoro o escusado, conectado a pozo ciego","3,482",199,"1,970",197,21,"1,095"
+,Loja,Rural,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada","1,036",49,461,95,6,425
+,Loja,Rural,Letrina,"1,282",85,654,80,7,456
+,Loja,Rural,No tiene,"6,538",320,"2,691",503,45,"2,979"
+,Los Ríos,Total Los Ríos,Total Los Ríos,"275,131","148,223","28,011","87,451",443,"11,003"
+,Los Ríos,Total Los Ríos,"Inodoro o escusado, conectado a red pública de alcantarillado","70,913","65,737","2,702","2,247",61,166
+,Los Ríos,Total Los Ríos,"Inodoro o escusado, conectado a pozo séptico","166,660","74,450","20,896","64,480",249,"6,585"
+,Los Ríos,Total Los Ríos,"Inodoro o escusado, conectado a biodigestor",682,167,79,394,4,38
+,Los Ríos,Total Los Ríos,"Inodoro o escusado, conectado a pozo ciego","14,398","3,090","1,971","8,082",71,"1,184"
+,Los Ríos,Total Los Ríos,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada","1,533","1,092",50,300,1,90
+,Los Ríos,Total Los Ríos,Letrina,"4,482",577,517,"2,826",9,553
+,Los Ríos,Total Los Ríos,No tiene,"16,463","3,110","1,796","9,122",48,"2,387"
+,Los Ríos,Urbana,Total Urbana,"147,425","126,011","2,372","17,289",216,"1,537"
+,Los Ríos,Urbana,"Inodoro o escusado, conectado a red pública de alcantarillado","62,011","60,286",301,"1,274",48,102
+,Los Ríos,Urbana,"Inodoro o escusado, conectado a pozo séptico","76,503","59,779","1,835","14,125",105,659
+,Los Ríos,Urbana,"Inodoro o escusado, conectado a biodigestor",190,118,11,57,1,3
+,Los Ríos,Urbana,"Inodoro o escusado, conectado a pozo ciego","3,395","2,312",100,845,33,105
+,Los Ríos,Urbana,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada","1,171","1,029",14,83,,45
+,Los Ríos,Urbana,Letrina,690,390,26,199,8,67
+,Los Ríos,Urbana,No tiene,"3,465","2,097",85,706,21,556
+,Los Ríos,Rural,Total Rural,"127,706","22,212","25,639","70,162",227,"9,466"
+,Los Ríos,Rural,"Inodoro o escusado, conectado a red pública de alcantarillado","8,902","5,451","2,401",973,13,64
+,Los Ríos,Rural,"Inodoro o escusado, conectado a pozo séptico","90,157","14,671","19,061","50,355",144,"5,926"
+,Los Ríos,Rural,"Inodoro o escusado, conectado a biodigestor",492,49,68,337,3,35
+,Los Ríos,Rural,"Inodoro o escusado, conectado a pozo ciego","11,003",778,"1,871","7,237",38,"1,079"
+,Los Ríos,Rural,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada",362,63,36,217,1,45
+,Los Ríos,Rural,Letrina,"3,792",187,491,"2,627",1,486
+,Los Ríos,Rural,No tiene,"12,998","1,013","1,711","8,416",27,"1,831"
+,Manabí,Total Manabí,Total Manabí,"468,744","254,718","31,736","90,839","57,107","34,344"
+,Manabí,Total Manabí,"Inodoro o escusado, conectado a red pública de alcantarillado","204,327","180,355","3,115","5,502","14,274","1,081"
+,Manabí,Total Manabí,"Inodoro o escusado, conectado a pozo séptico","175,552","61,112","23,218","49,706","29,003","12,513"
+,Manabí,Total Manabí,"Inodoro o escusado, conectado a biodigestor","1,317",539,98,356,222,102
+,Manabí,Total Manabí,"Inodoro o escusado, conectado a pozo ciego","52,355","8,181","3,393","21,889","8,213","10,679"
+,Manabí,Total Manabí,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada","1,604",583,82,349,323,267
+,Manabí,Total Manabí,Letrina,"19,848",898,917,"9,535","1,852","6,646"
+,Manabí,Total Manabí,No tiene,"13,741","3,050",913,"3,502","3,220","3,056"
+,Manabí,Urbana,Total Urbana,"268,338","222,867","4,970","8,635","28,870","2,996"
+,Manabí,Urbana,"Inodoro o escusado, conectado a red pública de alcantarillado","194,200","176,374","1,374","4,021","11,502",929
+,Manabí,Urbana,"Inodoro o escusado, conectado a pozo séptico","58,241","38,720","2,799","3,587","12,175",960
+,Manabí,Urbana,"Inodoro o escusado, conectado a biodigestor",584,396,15,19,139,15
+,Manabí,Urbana,"Inodoro o escusado, conectado a pozo ciego","9,673","4,711",584,699,"3,262",417
+,Manabí,Urbana,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada",636,379,30,28,160,39
+,Manabí,Urbana,Letrina,922,371,38,112,304,97
+,Manabí,Urbana,No tiene,"4,082","1,916",130,169,"1,328",539
+,Manabí,Rural,Total Rural,"200,406","31,851","26,766","82,204","28,237","31,348"
+,Manabí,Rural,"Inodoro o escusado, conectado a red pública de alcantarillado","10,127","3,981","1,741","1,481","2,772",152
+,Manabí,Rural,"Inodoro o escusado, conectado a pozo séptico","117,311","22,392","20,419","46,119","16,828","11,553"
+,Manabí,Rural,"Inodoro o escusado, conectado a biodigestor",733,143,83,337,83,87
+,Manabí,Rural,"Inodoro o escusado, conectado a pozo ciego","42,682","3,470","2,809","21,190","4,951","10,262"
+,Manabí,Rural,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada",968,204,52,321,163,228
+,Manabí,Rural,Letrina,"18,926",527,879,"9,423","1,548","6,549"
+,Manabí,Rural,No tiene,"9,659","1,134",783,"3,333","1,892","2,517"
+,Morona Santiago,Total Morona Santiago,Total Morona Santiago,"51,588","24,132","11,803","3,203",48,"12,402"
+,Morona Santiago,Total Morona Santiago,"Inodoro o escusado, conectado a red pública de alcantarillado","21,677","18,173","3,048",105,7,344
+,Morona Santiago,Total Morona Santiago,"Inodoro o escusado, conectado a pozo séptico","12,435","4,297","5,220",684,11,"2,223"
+,Morona Santiago,Total Morona Santiago,"Inodoro o escusado, conectado a biodigestor",199,69,65,12,1,52
+,Morona Santiago,Total Morona Santiago,"Inodoro o escusado, conectado a pozo ciego",940,144,338,94,1,363
+,Morona Santiago,Total Morona Santiago,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada","1,448",369,415,34,1,629
+,Morona Santiago,Total Morona Santiago,Letrina,"1,687",162,237,462,8,818
+,Morona Santiago,Total Morona Santiago,No tiene,"13,202",918,"2,480","1,812",19,"7,973"
+,Morona Santiago,Urbana,Total Urbana,"19,855","19,063",358,66,8,360
+,Morona Santiago,Urbana,"Inodoro o escusado, conectado a red pública de alcantarillado","17,161","16,807",212,11,4,127
+,Morona Santiago,Urbana,"Inodoro o escusado, conectado a pozo séptico","2,009","1,786",116,28,2,77
+,Morona Santiago,Urbana,"Inodoro o escusado, conectado a biodigestor",38,33,3,,,2
+,Morona Santiago,Urbana,"Inodoro o escusado, conectado a pozo ciego",70,44,6,6,,14
+,Morona Santiago,Urbana,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada",328,276,7,2,,43
+,Morona Santiago,Urbana,Letrina,51,14,7,8,1,21
+,Morona Santiago,Urbana,No tiene,198,103,7,11,1,76
+,Morona Santiago,Rural,Total Rural,"31,733","5,069","11,445","3,137",40,"12,042"
+,Morona Santiago,Rural,"Inodoro o escusado, conectado a red pública de alcantarillado","4,516","1,366","2,836",94,3,217
+,Morona Santiago,Rural,"Inodoro o escusado, conectado a pozo séptico","10,426","2,511","5,104",656,9,"2,146"
+,Morona Santiago,Rural,"Inodoro o escusado, conectado a biodigestor",161,36,62,12,1,50
+,Morona Santiago,Rural,"Inodoro o escusado, conectado a pozo ciego",870,100,332,88,1,349
+,Morona Santiago,Rural,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada","1,120",93,408,32,1,586
+,Morona Santiago,Rural,Letrina,"1,636",148,230,454,7,797
+,Morona Santiago,Rural,No tiene,"13,004",815,"2,473","1,801",18,"7,897"
+,Napo,Total Napo,Total Napo,"33,997","18,293","8,105",548,168,"6,883"
+,Napo,Total Napo,"Inodoro o escusado, conectado a red pública de alcantarillado","16,648","14,514","1,627",30,51,426
+,Napo,Total Napo,"Inodoro o escusado, conectado a pozo séptico","8,254","2,418","3,511",247,82,"1,996"
+,Napo,Total Napo,"Inodoro o escusado, conectado a biodigestor",120,47,26,5,,42
+,Napo,Total Napo,"Inodoro o escusado, conectado a pozo ciego","2,890",383,"1,317",91,7,"1,092"
+,Napo,Total Napo,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada","1,283",610,260,18,11,384
+,Napo,Total Napo,Letrina,314,22,84,13,3,192
+,Napo,Total Napo,No tiene,"4,488",299,"1,280",144,14,"2,751"
+,Napo,Urbana,Total Urbana,"13,909","13,450",166,49,40,204
+,Napo,Urbana,"Inodoro o escusado, conectado a red pública de alcantarillado","12,519","12,350",86,12,30,41
+,Napo,Urbana,"Inodoro o escusado, conectado a pozo séptico",773,620,53,18,7,75
+,Napo,Urbana,"Inodoro o escusado, conectado a biodigestor",34,26,2,,,6
+,Napo,Urbana,"Inodoro o escusado, conectado a pozo ciego",141,100,9,12,,20
+,Napo,Urbana,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada",324,281,10,3,3,27
+,Napo,Urbana,Letrina,13,9,2,,,2
+,Napo,Urbana,No tiene,105,64,4,4,,33
+,Napo,Rural,Total Rural,"20,088","4,843","7,939",499,128,"6,679"
+,Napo,Rural,"Inodoro o escusado, conectado a red pública de alcantarillado","4,129","2,164","1,541",18,21,385
+,Napo,Rural,"Inodoro o escusado, conectado a pozo séptico","7,481","1,798","3,458",229,75,"1,921"
+,Napo,Rural,"Inodoro o escusado, conectado a biodigestor",86,21,24,5,,36
+,Napo,Rural,"Inodoro o escusado, conectado a pozo ciego","2,749",283,"1,308",79,7,"1,072"
+,Napo,Rural,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada",959,329,250,15,8,357
+,Napo,Rural,Letrina,301,13,82,13,3,190
+,Napo,Rural,No tiene,"4,383",235,"1,276",140,14,"2,718"
+,Pastaza,Total Pastaza,Total Pastaza,"30,714","19,290","4,347",568,61,"6,448"
+,Pastaza,Total Pastaza,"Inodoro o escusado, conectado a red pública de alcantarillado","16,032","15,107",704,31,9,181
+,Pastaza,Total Pastaza,"Inodoro o escusado, conectado a pozo séptico","6,307","2,575","1,850",101,39,"1,742"
+,Pastaza,Total Pastaza,"Inodoro o escusado, conectado a biodigestor",247,145,69,,1,32
+,Pastaza,Total Pastaza,"Inodoro o escusado, conectado a pozo ciego","1,867",321,645,54,3,844
+,Pastaza,Total Pastaza,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada","1,446",766,254,37,2,387
+,Pastaza,Total Pastaza,Letrina,362,34,41,27,2,258
+,Pastaza,Total Pastaza,No tiene,"4,453",342,784,318,5,"3,004"
+,Pastaza,Urbana,Total Urbana,"12,026","11,740",81,13,8,184
+,Pastaza,Urbana,"Inodoro o escusado, conectado a red pública de alcantarillado","10,713","10,637",41,6,1,28
+,Pastaza,Urbana,"Inodoro o escusado, conectado a pozo séptico",673,577,29,1,6,60
+,Pastaza,Urbana,"Inodoro o escusado, conectado a biodigestor",20,17,1,,1,1
+,Pastaza,Urbana,"Inodoro o escusado, conectado a pozo ciego",106,79,1,2,,24
+,Pastaza,Urbana,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada",446,393,6,1,,46
+,Pastaza,Urbana,Letrina,14,5,2,2,,5
+,Pastaza,Urbana,No tiene,54,32,1,1,,20
+,Pastaza,Rural,Total Rural,"18,688","7,550","4,266",555,53,"6,264"
+,Pastaza,Rural,"Inodoro o escusado, conectado a red pública de alcantarillado","5,319","4,470",663,25,8,153
+,Pastaza,Rural,"Inodoro o escusado, conectado a pozo séptico","5,634","1,998","1,821",100,33,"1,682"
+,Pastaza,Rural,"Inodoro o escusado, conectado a biodigestor",227,128,68,,,31
+,Pastaza,Rural,"Inodoro o escusado, conectado a pozo ciego","1,761",242,644,52,3,820
+,Pastaza,Rural,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada","1,000",373,248,36,2,341
+,Pastaza,Rural,Letrina,348,29,39,25,2,253
+,Pastaza,Rural,No tiene,"4,399",310,783,317,5,"2,984"
+,Pichincha,Total Pichincha,Total Pichincha,"983,801","902,596","63,289","5,918","1,669","10,329"
+,Pichincha,Total Pichincha,"Inodoro o escusado, conectado a red pública de alcantarillado","914,115","869,477","40,924","1,403",239,"2,072"
+,Pichincha,Total Pichincha,"Inodoro o escusado, conectado a pozo séptico","51,213","23,866","17,084","3,673","1,153","5,437"
+,Pichincha,Total Pichincha,"Inodoro o escusado, conectado a biodigestor","1,065",827,100,43,18,77
+,Pichincha,Total Pichincha,"Inodoro o escusado, conectado a pozo ciego","6,106","1,757","2,556",515,131,"1,147"
+,Pichincha,Total Pichincha,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada","6,978","5,074","1,242",63,46,553
+,Pichincha,Total Pichincha,Letrina,656,159,152,116,16,213
+,Pichincha,Total Pichincha,No tiene,"3,668","1,436","1,231",105,66,830
+,Pichincha,Urbana,Total Urbana,"641,680","631,738","7,258",810,221,"1,653"
+,Pichincha,Urbana,"Inodoro o escusado, conectado a red pública de alcantarillado","631,736","624,424","5,976",496,88,752
+,Pichincha,Urbana,"Inodoro o escusado, conectado a pozo séptico","5,937","4,353",796,219,74,495
+,Pichincha,Urbana,"Inodoro o escusado, conectado a biodigestor",396,367,16,6,1,6
+,Pichincha,Urbana,"Inodoro o escusado, conectado a pozo ciego",781,414,159,50,20,138
+,Pichincha,Urbana,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada","1,850","1,526",240,13,7,64
+,Pichincha,Urbana,Letrina,128,76,12,7,5,28
+,Pichincha,Urbana,No tiene,852,578,59,19,26,170
+,Pichincha,Rural,Total Rural,"342,121","270,858","56,031","5,108","1,448","8,676"
+,Pichincha,Rural,"Inodoro o escusado, conectado a red pública de alcantarillado","282,379","245,053","34,948",907,151,"1,320"
+,Pichincha,Rural,"Inodoro o escusado, conectado a pozo séptico","45,276","19,513","16,288","3,454","1,079","4,942"
+,Pichincha,Rural,"Inodoro o escusado, conectado a biodigestor",669,460,84,37,17,71
+,Pichincha,Rural,"Inodoro o escusado, conectado a pozo ciego","5,325","1,343","2,397",465,111,"1,009"
+,Pichincha,Rural,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada","5,128","3,548","1,002",50,39,489
+,Pichincha,Rural,Letrina,528,83,140,109,11,185
+,Pichincha,Rural,No tiene,"2,816",858,"1,172",86,40,660
+,Tungurahua,Total Tungurahua,Total Tungurahua,"172,555","108,694","58,917",286,284,"4,374"
+,Tungurahua,Total Tungurahua,"Inodoro o escusado, conectado a red pública de alcantarillado","140,416","101,401","37,899",83,112,921
+,Tungurahua,Total Tungurahua,"Inodoro o escusado, conectado a pozo séptico","15,418","4,107","10,293",75,92,851
+,Tungurahua,Total Tungurahua,"Inodoro o escusado, conectado a biodigestor",126,77,42,,1,6
+,Tungurahua,Total Tungurahua,"Inodoro o escusado, conectado a pozo ciego","11,013","2,134","7,804",65,50,960
+,Tungurahua,Total Tungurahua,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada",587,173,309,4,1,100
+,Tungurahua,Total Tungurahua,Letrina,743,149,438,10,4,142
+,Tungurahua,Total Tungurahua,No tiene,"4,252",653,"2,132",49,24,"1,394"
+,Tungurahua,Urbana,Total Urbana,"71,579","70,302","1,018",18,30,211
+,Tungurahua,Urbana,"Inodoro o escusado, conectado a red pública de alcantarillado","70,107","69,122",875,6,16,88
+,Tungurahua,Urbana,"Inodoro o escusado, conectado a pozo séptico",865,715,103,6,7,34
+,Tungurahua,Urbana,"Inodoro o escusado, conectado a biodigestor",47,46,1,,,
+,Tungurahua,Urbana,"Inodoro o escusado, conectado a pozo ciego",219,175,22,1,2,19
+,Tungurahua,Urbana,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada",98,84,10,1,,3
+,Tungurahua,Urbana,Letrina,34,17,2,2,,13
+,Tungurahua,Urbana,No tiene,209,143,5,2,5,54
+,Tungurahua,Rural,Total Rural,"100,976","38,392","57,899",268,254,"4,163"
+,Tungurahua,Rural,"Inodoro o escusado, conectado a red pública de alcantarillado","70,309","32,279","37,024",77,96,833
+,Tungurahua,Rural,"Inodoro o escusado, conectado a pozo séptico","14,553","3,392","10,190",69,85,817
+,Tungurahua,Rural,"Inodoro o escusado, conectado a biodigestor",79,31,41,,1,6
+,Tungurahua,Rural,"Inodoro o escusado, conectado a pozo ciego","10,794","1,959","7,782",64,48,941
+,Tungurahua,Rural,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada",489,89,299,3,1,97
+,Tungurahua,Rural,Letrina,709,132,436,8,4,129
+,Tungurahua,Rural,No tiene,"4,043",510,"2,127",47,19,"1,340"
+,Zamora Chinchipe,Total Zamora Chinchipe,Total Zamora Chinchipe,"32,011","19,352","5,575",614,32,"6,438"
+,Zamora Chinchipe,Total Zamora Chinchipe,"Inodoro o escusado, conectado a red pública de alcantarillado","20,390","17,034","2,712",57,8,579
+,Zamora Chinchipe,Total Zamora Chinchipe,"Inodoro o escusado, conectado a pozo séptico","4,452","1,158","1,291",227,12,"1,764"
+,Zamora Chinchipe,Total Zamora Chinchipe,"Inodoro o escusado, conectado a biodigestor",98,26,24,4,,44
+,Zamora Chinchipe,Total Zamora Chinchipe,"Inodoro o escusado, conectado a pozo ciego",658,77,126,35,1,419
+,Zamora Chinchipe,Total Zamora Chinchipe,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada","3,521",801,965,125,3,"1,627"
+,Zamora Chinchipe,Total Zamora Chinchipe,Letrina,187,24,27,27,,109
+,Zamora Chinchipe,Total Zamora Chinchipe,No tiene,"2,705",232,430,139,8,"1,896"
+,Zamora Chinchipe,Urbana,Total Urbana,"15,690","14,317",846,51,7,469
+,Zamora Chinchipe,Urbana,"Inodoro o escusado, conectado a red pública de alcantarillado","14,257","13,613",423,19,3,199
+,Zamora Chinchipe,Urbana,"Inodoro o escusado, conectado a pozo séptico",660,290,236,12,1,121
+,Zamora Chinchipe,Urbana,"Inodoro o escusado, conectado a biodigestor",22,15,3,1,,3
+,Zamora Chinchipe,Urbana,"Inodoro o escusado, conectado a pozo ciego",54,25,11,4,,14
+,Zamora Chinchipe,Urbana,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada",586,322,156,10,1,97
+,Zamora Chinchipe,Urbana,Letrina,17,9,2,1,,5
+,Zamora Chinchipe,Urbana,No tiene,94,43,15,4,2,30
+,Zamora Chinchipe,Rural,Total Rural,"16,321","5,035","4,729",563,25,"5,969"
+,Zamora Chinchipe,Rural,"Inodoro o escusado, conectado a red pública de alcantarillado","6,133","3,421","2,289",38,5,380
+,Zamora Chinchipe,Rural,"Inodoro o escusado, conectado a pozo séptico","3,792",868,"1,055",215,11,"1,643"
+,Zamora Chinchipe,Rural,"Inodoro o escusado, conectado a biodigestor",76,11,21,3,,41
+,Zamora Chinchipe,Rural,"Inodoro o escusado, conectado a pozo ciego",604,52,115,31,1,405
+,Zamora Chinchipe,Rural,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada","2,935",479,809,115,2,"1,530"
+,Zamora Chinchipe,Rural,Letrina,170,15,25,26,,104
+,Zamora Chinchipe,Rural,No tiene,"2,611",189,415,135,6,"1,866"
+,Galápagos,Total Galápagos,Total Galápagos,"9,657","8,351",130,24,643,509
+,Galápagos,Total Galápagos,"Inodoro o escusado, conectado a red pública de alcantarillado","2,841","2,770",18,2,40,11
+,Galápagos,Total Galápagos,"Inodoro o escusado, conectado a pozo séptico","6,502","5,345",104,20,568,465
+,Galápagos,Total Galápagos,"Inodoro o escusado, conectado a biodigestor",27,20,1,,3,3
+,Galápagos,Total Galápagos,"Inodoro o escusado, conectado a pozo ciego",244,201,7,1,20,15
+,Galápagos,Total Galápagos,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada",11,8,,,1,2
+,Galápagos,Total Galápagos,Letrina,2,,,,1,1
+,Galápagos,Total Galápagos,No tiene,30,7,,1,10,12
+,Galápagos,Urbana,Total Urbana,"7,789","7,490",43,15,201,40
+,Galápagos,Urbana,"Inodoro o escusado, conectado a red pública de alcantarillado","2,714","2,662",13,2,30,7
+,Galápagos,Urbana,"Inodoro o escusado, conectado a pozo séptico","4,846","4,618",28,13,161,26
+,Galápagos,Urbana,"Inodoro o escusado, conectado a biodigestor",12,11,,,1,
+,Galápagos,Urbana,"Inodoro o escusado, conectado a pozo ciego",201,187,2,,6,6
+,Galápagos,Urbana,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada",10,8,,,1,1
+,Galápagos,Urbana,Letrina,,,,,,
+,Galápagos,Urbana,No tiene,6,4,,,2,
+,Galápagos,Rural,Total Rural,"1,868",861,87,9,442,469
+,Galápagos,Rural,"Inodoro o escusado, conectado a red pública de alcantarillado",127,108,5,,10,4
+,Galápagos,Rural,"Inodoro o escusado, conectado a pozo séptico","1,656",727,76,7,407,439
+,Galápagos,Rural,"Inodoro o escusado, conectado a biodigestor",15,9,1,,2,3
+,Galápagos,Rural,"Inodoro o escusado, conectado a pozo ciego",43,14,5,1,14,9
+,Galápagos,Rural,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada",1,,,,,1
+,Galápagos,Rural,Letrina,2,,,,1,1
+,Galápagos,Rural,No tiene,24,3,,1,8,12
+,Sucumbíos,Total Sucumbíos,Total Sucumbíos,"57,719","30,259","7,864","12,753",161,"6,682"
+,Sucumbíos,Total Sucumbíos,"Inodoro o escusado, conectado a red pública de alcantarillado","28,393","22,699","2,919","2,332",41,402
+,Sucumbíos,Total Sucumbíos,"Inodoro o escusado, conectado a pozo séptico","20,060","6,097","4,033","7,198",65,"2,667"
+,Sucumbíos,Total Sucumbíos,"Inodoro o escusado, conectado a biodigestor",180,54,21,67,1,37
+,Sucumbíos,Total Sucumbíos,"Inodoro o escusado, conectado a pozo ciego","2,042",341,286,836,21,558
+,Sucumbíos,Total Sucumbíos,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada",995,571,44,206,7,167
+,Sucumbíos,Total Sucumbíos,Letrina,691,113,45,279,6,248
+,Sucumbíos,Total Sucumbíos,No tiene,"5,358",384,516,"1,835",20,"2,603"
+,Sucumbíos,Urbana,Total Urbana,"25,482","22,437",162,"2,493",45,345
+,Sucumbíos,Urbana,"Inodoro o escusado, conectado a red pública de alcantarillado","21,923","19,792",97,"1,831",28,175
+,Sucumbíos,Urbana,"Inodoro o escusado, conectado a pozo séptico","2,675","2,035",52,493,7,88
+,Sucumbíos,Urbana,"Inodoro o escusado, conectado a biodigestor",37,27,2,6,1,1
+,Sucumbíos,Urbana,"Inodoro o escusado, conectado a pozo ciego",151,83,4,46,3,15
+,Sucumbíos,Urbana,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada",460,374,4,70,2,10
+,Sucumbíos,Urbana,Letrina,46,27,2,11,1,5
+,Sucumbíos,Urbana,No tiene,190,99,1,36,3,51
+,Sucumbíos,Rural,Total Rural,"32,237","7,822","7,702","10,260",116,"6,337"
+,Sucumbíos,Rural,"Inodoro o escusado, conectado a red pública de alcantarillado","6,470","2,907","2,822",501,13,227
+,Sucumbíos,Rural,"Inodoro o escusado, conectado a pozo séptico","17,385","4,062","3,981","6,705",58,"2,579"
+,Sucumbíos,Rural,"Inodoro o escusado, conectado a biodigestor",143,27,19,61,,36
+,Sucumbíos,Rural,"Inodoro o escusado, conectado a pozo ciego","1,891",258,282,790,18,543
+,Sucumbíos,Rural,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada",535,197,40,136,5,157
+,Sucumbíos,Rural,Letrina,645,86,43,268,5,243
+,Sucumbíos,Rural,No tiene,"5,168",285,515,"1,799",17,"2,552"
+,Orellana,Total Orellana,Total Orellana,"49,645","23,573","4,756","10,625",382,"10,309"
+,Orellana,Total Orellana,"Inodoro o escusado, conectado a red pública de alcantarillado","19,716","17,345",894,"1,272",21,184
+,Orellana,Total Orellana,"Inodoro o escusado, conectado a pozo séptico","16,957","4,760","2,614","6,700",270,"2,613"
+,Orellana,Total Orellana,"Inodoro o escusado, conectado a biodigestor",143,66,14,37,2,24
+,Orellana,Total Orellana,"Inodoro o escusado, conectado a pozo ciego","3,421",503,565,975,52,"1,326"
+,Orellana,Total Orellana,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada",261,90,18,54,4,95
+,Orellana,Total Orellana,Letrina,745,56,69,310,8,302
+,Orellana,Total Orellana,No tiene,"8,402",753,582,"1,277",25,"5,765"
+,Orellana,Urbana,Total Urbana,"22,412","19,165",180,"2,443",147,477
+,Orellana,Urbana,"Inodoro o escusado, conectado a red pública de alcantarillado","16,914","15,814",102,929,17,52
+,Orellana,Urbana,"Inodoro o escusado, conectado a pozo séptico","4,679","2,877",61,"1,362",102,277
+,Orellana,Urbana,"Inodoro o escusado, conectado a biodigestor",29,21,1,6,,1
+,Orellana,Urbana,"Inodoro o escusado, conectado a pozo ciego",436,225,12,99,23,77
+,Orellana,Urbana,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada",65,56,,5,1,3
+,Orellana,Urbana,Letrina,45,24,,7,2,12
+,Orellana,Urbana,No tiene,244,148,4,35,2,55
+,Orellana,Rural,Total Rural,"27,233","4,408","4,576","8,182",235,"9,832"
+,Orellana,Rural,"Inodoro o escusado, conectado a red pública de alcantarillado","2,802","1,531",792,343,4,132
+,Orellana,Rural,"Inodoro o escusado, conectado a pozo séptico","12,278","1,883","2,553","5,338",168,"2,336"
+,Orellana,Rural,"Inodoro o escusado, conectado a biodigestor",114,45,13,31,2,23
+,Orellana,Rural,"Inodoro o escusado, conectado a pozo ciego","2,985",278,553,876,29,"1,249"
+,Orellana,Rural,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada",196,34,18,49,3,92
+,Orellana,Rural,Letrina,700,32,69,303,6,290
+,Orellana,Rural,No tiene,"8,158",605,578,"1,242",23,"5,710"
+,Santo Domingo de los Tsáchilas,Total Santo Domingo de los Tsáchilas,Total Santo Domingo de los Tsáchilas,"150,746","94,603","17,500","28,412","2,260","7,971"
+,Santo Domingo de los Tsáchilas,Total Santo Domingo de los Tsáchilas,"Inodoro o escusado, conectado a red pública de alcantarillado","97,915","81,685","9,271","5,389",947,623
+,Santo Domingo de los Tsáchilas,Total Santo Domingo de los Tsáchilas,"Inodoro o escusado, conectado a pozo séptico","43,400","10,458","7,214","19,104","1,020","5,604"
+,Santo Domingo de los Tsáchilas,Total Santo Domingo de los Tsáchilas,"Inodoro o escusado, conectado a biodigestor",398,164,46,140,9,39
+,Santo Domingo de los Tsáchilas,Total Santo Domingo de los Tsáchilas,"Inodoro o escusado, conectado a pozo ciego","3,250",385,376,"1,714",104,671
+,Santo Domingo de los Tsáchilas,Total Santo Domingo de los Tsáchilas,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada","3,154","1,530",385,795,148,296
+,Santo Domingo de los Tsáchilas,Total Santo Domingo de los Tsáchilas,Letrina,"1,033",55,72,651,2,253
+,Santo Domingo de los Tsáchilas,Total Santo Domingo de los Tsáchilas,No tiene,"1,596",326,136,619,30,485
+,Santo Domingo de los Tsáchilas,Urbana,Total Urbana,"113,660","93,202","5,622","11,796","2,058",982
+,Santo Domingo de los Tsáchilas,Urbana,"Inodoro o escusado, conectado a red pública de alcantarillado","91,583","80,883","4,432","5,028",927,313
+,Santo Domingo de los Tsáchilas,Urbana,"Inodoro o escusado, conectado a pozo séptico","17,511","9,927","1,045","5,339",859,341
+,Santo Domingo de los Tsáchilas,Urbana,"Inodoro o escusado, conectado a biodigestor",235,163,16,43,8,5
+,Santo Domingo de los Tsáchilas,Urbana,"Inodoro o escusado, conectado a pozo ciego",903,359,49,343,93,59
+,Santo Domingo de los Tsáchilas,Urbana,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada","2,595","1,510",52,758,145,130
+,Santo Domingo de los Tsáchilas,Urbana,Letrina,152,49,7,83,1,12
+,Santo Domingo de los Tsáchilas,Urbana,No tiene,681,311,21,202,25,122
+,Santo Domingo de los Tsáchilas,Rural,Total Rural,"37,086","1,401","11,878","16,616",202,"6,989"
+,Santo Domingo de los Tsáchilas,Rural,"Inodoro o escusado, conectado a red pública de alcantarillado","6,332",802,"4,839",361,20,310
+,Santo Domingo de los Tsáchilas,Rural,"Inodoro o escusado, conectado a pozo séptico","25,889",531,"6,169","13,765",161,"5,263"
+,Santo Domingo de los Tsáchilas,Rural,"Inodoro o escusado, conectado a biodigestor",163,1,30,97,1,34
+,Santo Domingo de los Tsáchilas,Rural,"Inodoro o escusado, conectado a pozo ciego","2,347",26,327,"1,371",11,612
+,Santo Domingo de los Tsáchilas,Rural,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada",559,20,333,37,3,166
+,Santo Domingo de los Tsáchilas,Rural,Letrina,881,6,65,568,1,241
+,Santo Domingo de los Tsáchilas,Rural,No tiene,915,15,115,417,5,363
+,Santa Elena,Total Santa Elena,Total Santa Elena,"98,242","74,081","16,466","1,791","3,091","2,813"
+,Santa Elena,Total Santa Elena,"Inodoro o escusado, conectado a red pública de alcantarillado","52,427","48,259","2,919",53,650,546
+,Santa Elena,Total Santa Elena,"Inodoro o escusado, conectado a pozo séptico","32,491","18,978","10,424",938,"1,235",916
+,Santa Elena,Total Santa Elena,"Inodoro o escusado, conectado a biodigestor",116,69,29,4,10,4
+,Santa Elena,Total Santa Elena,"Inodoro o escusado, conectado a pozo ciego","4,995","2,937","1,032",321,333,372
+,Santa Elena,Total Santa Elena,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada",204,117,44,1,14,28
+,Santa Elena,Total Santa Elena,Letrina,"1,462",719,359,149,123,112
+,Santa Elena,Total Santa Elena,No tiene,"6,547","3,002","1,659",325,726,835
+,Santa Elena,Urbana,Total Urbana,"52,634","49,151",715,101,"1,286","1,381"
+,Santa Elena,Urbana,"Inodoro o escusado, conectado a red pública de alcantarillado","38,133","37,153",112,27,490,351
+,Santa Elena,Urbana,"Inodoro o escusado, conectado a pozo séptico","9,756","8,585",346,26,371,428
+,Santa Elena,Urbana,"Inodoro o escusado, conectado a biodigestor",49,39,3,,4,3
+,Santa Elena,Urbana,"Inodoro o escusado, conectado a pozo ciego","1,903","1,453",129,14,107,200
+,Santa Elena,Urbana,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada",63,43,1,,4,15
+,Santa Elena,Urbana,Letrina,591,438,19,20,60,54
+,Santa Elena,Urbana,No tiene,"2,139","1,440",105,14,250,330
+,Santa Elena,Rural,Total Rural,"45,608","24,930","15,751","1,690","1,805","1,432"
+,Santa Elena,Rural,"Inodoro o escusado, conectado a red pública de alcantarillado","14,294","11,106","2,807",26,160,195
+,Santa Elena,Rural,"Inodoro o escusado, conectado a pozo séptico","22,735","10,393","10,078",912,864,488
+,Santa Elena,Rural,"Inodoro o escusado, conectado a biodigestor",67,30,26,4,6,1
+,Santa Elena,Rural,"Inodoro o escusado, conectado a pozo ciego","3,092","1,484",903,307,226,172
+,Santa Elena,Rural,"Inodoro o escusado, con descarga directa al mar, río, lago o quebrada",141,74,43,1,10,13
+,Santa Elena,Rural,Letrina,871,281,340,129,63,58
+,Santa Elena,Rural,No tiene,"4,408","1,562","1,554",311,476,505
+,,,,,,,,,
+,"Nota: En el censo 2022, las viviendas ocupadas con personas ausentes fueron el insumo base para calcular la población no censada. Estas viviendas se incorporan a la categoría de viviendas particulares ocupadas al calcular indicadores y generar tabulados en los que esta condición de ocupación forme parte del cálculo.",,,,,,,,
